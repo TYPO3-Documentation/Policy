@@ -1,5 +1,5 @@
 {
-  "name": "typo3/community-infrastructure",
+  "name": "typo3/guide-policy",
   "description": "Complete reference to the Table Configuration Array $GLOBALS['TCA']",
   "license": "OPL-1.0",
   "type": "typo3-cms-documentation",
@@ -18,7 +18,7 @@
   },
   "extra": {
     "typo3/cms": {
-      "extension-key": "t3docs-community-infrastructure",
+      "extension-key": "t3docs_guide_policy",
       "web-dir": ".Build/public"
     }
   }
