@@ -1,6 +1,6 @@
 {
   "name": "typo3/guide-policy",
-  "description": "TYPO4 Policies",
+  "description": "TYPO3 Policies",
   "license": "OPL-1.0",
   "type": "typo3-cms-documentation",
   "require": {
