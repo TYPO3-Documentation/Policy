@@ -1,10 +1,10 @@
 {
   "name": "typo3/guide-policy",
-  "description": "Complete reference to the Table Configuration Array $GLOBALS['TCA']",
+  "description": "TYPO3 Policies",
   "license": "OPL-1.0",
   "type": "typo3-cms-documentation",
   "require": {
-    "typo3/cms-core": "^12.4"
+    "typo3/cms-core": "^13.4"
   },
   "prefer-stable": true,
   "config": {
