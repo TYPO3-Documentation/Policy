@@ -15,4 +15,4 @@ TYPO3 Policy Directory
     :titlesonly:
     :glob:
 
-    *
+    */Index
