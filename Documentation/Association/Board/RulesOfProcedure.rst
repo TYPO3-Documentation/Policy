@@ -10,7 +10,7 @@ Rules of Procedure for the TYPO3 Association Board
 
 Below you find the regulations of the TYPO3 Association Board in conducting its business. They are the rules of order.
 
-..  _t3a-board-procedure-responsibilities:
+..  _t3a-board-procedure-board-responsibilities:
 
 1. Responsibilities of the Board
 ================================
@@ -63,7 +63,7 @@ i. Sequence of a bi-weekly hangout:
     * Decisions
     * Discussions
 
-..  _t3a-board-procedure-responsibilities:
+..  _t3a-board-procedure-member-responsibilities:
 
 5. Responsibilities of the Board Members
 ========================================
