@@ -54,12 +54,12 @@ g. an online meeting should not longer last then 60 minutes.
 
 h. Each Board member should report shortly about all other tasks (category "personal task (work in progress)" at the beginning of a meeting
 
-i. sequence of a bi-weekly hangout:
+i. Sequence of a bi-weekly hangout:
 
-* Sticky items
-* Board Reports about personal tasks
-* Decisions
-* Discussions
+    * Sticky items
+    * Board Reports about personal tasks
+    * Decisions
+    * Discussions
 
 ..  _t3a-board-procedure-responsibilities:
 
@@ -72,11 +72,11 @@ i. sequence of a bi-weekly hangout:
 
 * The working relationship among the Board members is based on the principles of sincere cooperation, mutual openness, transparency and respect.
 
-* * During the meetings, the Chairman manages and coordinates the respective activities of the Board members. Also, each member regularly provides information to the Board on all important developments and activities in his/her area of responsibility. Each member, irrespective of his/her professional responsibility has to coordinate all issues of fundamental and essential importance with the Chairman.
+* *uring the meetings, the Chairman manages and coordinates the respective activities of the Board members. Also, each member regularly provides information to the Board on all important developments and activities in his/her area of responsibility. Each member, irrespective of his/her professional responsibility has to coordinate all issues of fundamental and essential importance with the Chairman.
 
-Avoid excessive discussions on the mailing lists; they should be kept for the meetings.
+* Avoid excessive discussions on the mailing lists; they should be kept for the meetings.
 
-D* ecisions can be made over the mailing lists. VI. Quorum, Decision of the President, Circulation Procedure, Consulting and Decisions Quorum, Decision of the President, Circulation Procedure, Consulting and Decisions are regulated by the Article 21 of the statutes.
+* Decisions can be made over the mailing lists. VI. Quorum, Decision of the President, Circulation Procedure, Consulting and Decisions Quorum, Decision of the President, Circulation Procedure, Consulting and Decisions are regulated by the Article 21 of the statutes.
 
 * Signature Rules The Signature Rules are regulated by the Article 21 of the statutes.
 
