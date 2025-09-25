@@ -56,10 +56,10 @@ h. Each Board member should report shortly about all other tasks (category "pers
 
 i. Sequence of a bi-weekly hangout:
 
-    * Sticky items
-    * Board Reports about personal tasks
-    * Decisions
-    * Discussions
+* Sticky items
+* Board Reports about personal tasks
+* Decisions
+* Discussions
 
 ..  _t3a-board-procedure-responsibilities:
 
