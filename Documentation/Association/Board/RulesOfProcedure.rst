@@ -5,7 +5,7 @@
 Rules of Procedure for the TYPO3 Association Board
 ==================================================
 
-Version 2.0, 20 January 2018
+*Version 2.0, 20 January 2018*
 
 Below you find the regulations of the TYPO3 Association Board in conducting its business. They are the rules of order.
 
@@ -50,16 +50,17 @@ d. Attendance is mandatory at all meetings. In case of leave or illness, the mem
 e. In exceptional cases, physical presence at meetings can be replaced by video-attendance. This can be justified if physical attendance exerts a disproportionate financial burden (e.g. travel costs if the member lives in another continent). Exceptions will be approved individually.
 
 f. Every point of the minutes (protocol) must contain a unique issue number and a clear title, a name of the responsible person, the item description, a deadline, a classification as “public” or “not public” and the item priority.
+
 g. an online meeting should not longer last then 60 minutes.
 
 h. Each Board member should report shortly about all other tasks (category "personal task (work in progress)" at the beginning of a meeting
 
 i. Sequence of a bi-weekly hangout:
 
-* Sticky items
-* Board Reports about personal tasks
-* Decisions
-* Discussions
+    * Sticky items
+    * Board Reports about personal tasks
+    * Decisions
+    * Discussions
 
 ..  _t3a-board-procedure-responsibilities:
 
@@ -72,7 +73,7 @@ i. Sequence of a bi-weekly hangout:
 
 * The working relationship among the Board members is based on the principles of sincere cooperation, mutual openness, transparency and respect.
 
-* *uring the meetings, the Chairman manages and coordinates the respective activities of the Board members. Also, each member regularly provides information to the Board on all important developments and activities in his/her area of responsibility. Each member, irrespective of his/her professional responsibility has to coordinate all issues of fundamental and essential importance with the Chairman.
+* During the meetings, the Chairman manages and coordinates the respective activities of the Board members. Also, each member regularly provides information to the Board on all important developments and activities in his/her area of responsibility. Each member, irrespective of his/her professional responsibility has to coordinate all issues of fundamental and essential importance with the Chairman.
 
 * Avoid excessive discussions on the mailing lists; they should be kept for the meetings.
 
@@ -106,5 +107,7 @@ The official language of the Board is English. Meetings of the Board may be cond
 These channels have to be used by all Board members for official internal Board communication:
 
 * Slack for real time conversations and discussions. The Slack channel has no decision character.
+
 * Mailing list for important mail flow. Decisions can be taken by mail.
+
 * Google Hangouts / Slack / Gotomeeting for calls / Board meetings
