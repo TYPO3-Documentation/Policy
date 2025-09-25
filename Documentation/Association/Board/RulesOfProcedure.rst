@@ -1,3 +1,4 @@
+:navigation-title: Rules of Procedure
 ..  include:: /Includes.rst.txt
 ..  _t3a-board-procedure:
 
