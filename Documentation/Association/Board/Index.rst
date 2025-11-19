@@ -10,4 +10,4 @@ Rules and Policies for the Board of the TYPO3 Association
     :titlesonly:
     :glob:
 
-    RulesOfProcedure
+    *
