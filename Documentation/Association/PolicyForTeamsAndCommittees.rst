@@ -11,6 +11,8 @@ TYPO3 Association Policy for Committees & Official Teams
 ..  seealso::
     Please read :ref:`Decision-Making Processes, Contribution and Participation <decision-process>` to understand the terms Committees and Official Team.
 
+..  _team-policy-goals:
+
 Goals of the Policy
 ===================
 
@@ -21,10 +23,14 @@ Goals of the Policy
 * A transparent organisation
 * Commitment to contribution
 
+..  _team-policy-initiatives:
+
 Initiatives
 ===========
 
 A temporary group working on a specific topic. No rights or obligations.
+
+..  _team-policy-teams:
 
 Official Teams
 ==============
@@ -35,6 +41,8 @@ A community-driven team with specific responsibilities within an area.
 
 **Disbanding an Official Team:** The Board or the General Assembly of the Association can disband a team. A team can be disbanded by the Association Board if it violates the expectations for more than 6 months.
 
+..  _team-policy-team-benefits:
+
 Benefits for Official Teams
 ---------------------------
 
@@ -42,6 +50,8 @@ Benefits for Official Teams
 * A team can maintain a team page at typo3.org.
 * A team member is allowed to call himself “Member of the TYPO3 [team name] Team“ as long as the member is active in the team.
 * A team can be assigned a budget (funding) by the Association or TYPO3 GmbH.
+
+..  _team-policy-team-expectations:
 
 What is Expected of an Official Team?
 -------------------------------------
@@ -59,6 +69,8 @@ What is Expected of an Official Team?
 * The team defines itself and the roles within it.
 * In case of a dysfunctional team, any team member can escalate the topic to the TYPO3 Association or the Team Leader Group via an ombudsperson or through an official request to one of the board members.
 
+..  _team-policy-committees:
+
 Committees
 ==========
 
@@ -68,6 +80,8 @@ An Association-driven team working towards the goals of the Association.
 
 **Disbanding a Committee:** The Board or the General Assembly of the Association can disband a committee.
 
+..  _team-policy-committee-expectations:
+
 What is Expected of an Official Committee?
 ------------------------------------------
 
@@ -76,10 +90,14 @@ What is Expected of an Official Committee?
 * The expectations for Official Teams also apply to Committees.
 * A member of the Board **must be** a member of each committee (but does not have to be the leader).
 
+..  _team-policy-committee-benefits:
+
 Benefits
 --------
 
 Committees enjoy the same benefits as official teams.
+
+..  _team-policy-closing:
 
 Closing Words
 =============
