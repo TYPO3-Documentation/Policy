@@ -1,6 +1,6 @@
 :navigation-title: Project
 ..  include:: /Includes.rst.txt
-..  _product:
+..  _project:
 
 ========================================
 Rules and Policies for the TYPO3 Project
