@@ -10,4 +10,4 @@ Rules and Policies for the TYPO3 Association
     :titlesonly:
     :glob:
 
-    Board/Index
+    *
