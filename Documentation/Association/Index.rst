@@ -9,5 +9,7 @@ Rules and Policies for the TYPO3 Association
 ..  toctree::
     :titlesonly:
     :glob:
+    :maxdepth: 2
 
-    Board/Index
+    */Index
+    *
