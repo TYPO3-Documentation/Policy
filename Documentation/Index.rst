@@ -5,13 +5,12 @@
 TYPO3 Policy Directory
 ======================
 
-..  note::
-    This guide is still work in progress!
+This directory holds policy documents relating to the TYPO3 Association and related community, product, and project.
 
 ----
 
 ..  toctree::
-    :maxdepth: 1
+    :maxdepth: 4
     :titlesonly:
     :glob:
 
