@@ -83,7 +83,7 @@ Given the `budget owner <https://typo3.org/project/association/funding-finances/
 Work Time
 ---------
 
-If you reimburse work time, you have to **keep a log** of hours worked. It has to show the total number of hours worked per day, as well as either individual time entries or summarized time per task per day. You can work a maximum of **6 hours/day** for a maximum of **EUR 55/hour**. See :ref:`section 3 <reimbursement-regulations-3>` for details and this `time log example <Downloads/ExampleTimelog.pdf>`__.
+If you reimburse work time, you have to **keep a log** of hours worked. It has to show the total number of hours worked per day, as well as either individual time entries or summarized time per task per day. You can work a maximum of **6 hours/day** for a maximum of **EUR 55/hour**. See :ref:`section 3 <reimbursement-regulations-3>` for details and this `time log example <https://raw.githubusercontent.com/TYPO3-Documentation/Policy/refs/heads/main/Resources/Public/Downloads/ExampleTimelog.pdf>`__.
 
 ..  _reimbursement-invoices:
 
@@ -92,7 +92,7 @@ Invoices
 
 If you’re a **business or freelancer, you can invoice** the `TYPO3 Association <https://typo3.org/project/association>`__ and submit the invoice as a part of the reimbursement request. Remember to write the budget number on the invoice. Most invoicing applications will generate **invoices that comply with the minimum requirements** in :ref:`section 4.d <reimbursement-regulations-4d>`. Remember that you’re invoicing a Swiss association, so you should only apply VAT if you are invoicing from Switzerland.
 
-Although you’re invoicing, you still have to include all of the paperwork that documents your expenses or work time. The **invoice must be due at least 20 days** into the future when you submit it. See :ref:`section 4 <reimbursement-regulations-4>` for detailed requirements and this `example invoice <Downloads/ExampleInvoice.pdf>`__.
+Although you’re invoicing, you still have to include all of the paperwork that documents your expenses or work time. The **invoice must be due at least 20 days** into the future when you submit it. See :ref:`section 4 <reimbursement-regulations-4>` for detailed requirements and this `example invoice <https://raw.githubusercontent.com/TYPO3-Documentation/Policy/refs/heads/main/Resources/Public/Downloads/ExampleInvoice.pdf>`__.
 
 ..  _reimbursement-regulations:
 
