@@ -55,7 +55,7 @@ Members of the TYPO3 Association are permitted to use membership badges correspo
 * All membership dues are current.
 * Usage complies with our trademark guidelines.
 
-Badges are available for download at `TYPO3 Association Membership Badges <https://typo3.org/project/association/membership/badges>`__.
+Badges are available for download for members through their `My TYPO3 <https://my.typo3.org/>`__ account immediately after purchase.
 
 ..  _trademark-restricted-use:
 
