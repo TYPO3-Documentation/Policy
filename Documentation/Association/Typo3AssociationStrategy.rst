@@ -73,23 +73,23 @@ The TYPO3 Company is within the TYPO3 Association. The TYPO3 Association and TYP
 3.1 — Vision
 ------------
 
-**Empower :ref:`* <vmp-faq-vision-question1>` to unlock their potential, creating opportunities through content.**
+:ref:`Empower <vmp-faq-vision-question1>` ** to unlock their potential, creating opportunities through content.**
 
 We believe that every person can :ref:`bring something unique <vmp-faq-vision-question2>` to the table. Content is fundamental to empowering people today to share knowledge, unlock possibilities, and achieve their potential regardless of who they are, what they believe, or where they come from. Our people, software, and services will empower content for everyone.
 
 3.2 — Mission
 -------------
 
-**Enable :ref:`freedom <vmp-faq-mission-question1>`, :ref:`interconnection <vmp-faq-mission-question2>`, and collaboration through sustainable, world-class, open content management software.**
+**Enable** :ref:`freedom <vmp-faq-mission-question1>`, :ref:`interconnection <vmp-faq-mission-question2>`, ** and collaboration through sustainable, world-class, open content management software.**
 
 Our mission is to make a better world for everyone by building and maintaining sustainable, affordable,  accessible, easy-to-use, open-source software, offering professional services, and creating an open and welcoming community.
 
 3.3 — Purpose
 -------------
 
-**:ref:`Equalize opportunities <vmp-faq-purpose-question1>` through Open Source.**
+:ref:`Equalize opportunities <vmp-faq-purpose-question1>` **through Open Source.**
 
-Our purpose is to equalize opportunities by making our world-class open source software available to anyone, free to download and use. We offer our supporting services at :ref:`prices adjusted to local circumstances <vmp-faq-purpose-question2>. Our products strengthen collaboration, empower independent businesses, educational and government institutions, and civil society worldwide.
+Our purpose is to equalize opportunities by making our world-class open source software available to anyone, free to download and use. We offer our supporting services at :ref:`prices adjusted to local circumstances <vmp-faq-purpose-question2>`. Our products strengthen collaboration, empower independent businesses, educational and government institutions, and civil society worldwide.
 
 4 — Values
 ==========
