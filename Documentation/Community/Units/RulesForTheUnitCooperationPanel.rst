@@ -171,12 +171,12 @@ Frequently Asked Questions
 
 **1. Won’t the Chairperson easily be overloaded with the tasks involved in chairing, reporting, and possibly also serving as one of the two delegates to the TYPO3 Association Board?**
     A good chairperson will delegate tasks, but some kind of
-     compensation will likely be necessary. It could be time donated
-     individually, from an employer, or as a budget decision by the
-     TYPO3 Association Board. At the same time, the Panel is supposed to
-     coordinate. It is natural to expect that most of the real work will
-     take place in the Units. Assembling the roadmap is a good example,
-     as it can build on detailed proposals submitted by the units.
+    compensation will likely be necessary. It could be time donated
+    individually, from an employer, or as a budget decision by the
+    TYPO3 Association Board. At the same time, the Panel is supposed to
+    coordinate. It is natural to expect that most of the real work will
+    take place in the Units. Assembling the roadmap is a good example,
+    as it can build on detailed proposals submitted by the units.
 
 ** 2. Why can’t the TYPO3 Association Board member be elected Chairperson?**
     Since the TYPO3 Association Board defines budgets for Units, this
