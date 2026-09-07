@@ -379,6 +379,7 @@ consulted in decisions concerning at least these areas:
 5. Creation and removal of optional structures (see 3.2)
 6. Contribution Rules and Acceptance Criteria
 7. Petitions by other TYPO3 Association bodies
+8. Unit representation in other TYPO3 Association bodies
 
 ..  _unit-rules-council-j:
 
