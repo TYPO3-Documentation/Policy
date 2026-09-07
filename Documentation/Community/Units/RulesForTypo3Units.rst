@@ -121,10 +121,10 @@ The following roles must be present in all Units.
 a. Tasks
 """"""""
 
-The Unit Coordinator reports on, prioritizes, delegates, and monitors
-the execution of mandated tasks within the Unit and its compliance with
-the Unit’s Charter and other applicable rules set forth by the TYPO3
-Association.
+The Unit Coordinator reports on, prioritizes, delegates, and monitors the
+execution of mandated tasks within the Unit. They are responsible for
+maintaining Unit health and the Unit’s compliance with its own Charter and other
+applicable rules set forth by the TYPO3 Association.
 
 ..  _unit-rules-coordinator-b:
 
@@ -295,8 +295,9 @@ factor that may affect their ability to complete a task.
 a. Definition
 """""""""""""
 
-The Unit Coordinator, Deputy Unit Coordinator, and Unit Members
-constitute the Unit Council.
+The Unit Coordinator, Deputy Unit Coordinator, and Unit Members constitute the
+Unit Council. The Unit Council is responsible for developing long-term policy
+and strategy within the Unit.
 
 ..  _unit-rules-council-b:
 
@@ -764,3 +765,15 @@ Frequently Asked Questions
     defines its scope. The Governance Working Group has asked that the TYPO3
     Association Board adapts the Conflict of Interest Management Policy to
     explicitly apply to roles in the Unit Rules and Panel Rules.
+
+**23. Why is the Unit Coordinator’s term one year with no term limit when regular renewal could bring new ideas, skills, and perspectives and avoid concentration of power?**
+    It is important to bring in new people and skills, but it shouldn’t be
+    controlled with the Coordinator’s term limit. Unit Health and Charter
+    Compliance have been made explicit responsibilities for the Coordinator
+    (:ref:`3.1.1.a <unit-rules-coordinator-a>`). The task of the Coordinator is
+    administrative and the position itself should not be tied to long-term
+    policy and strategy. These should be created and maintained by the Unit
+    Council. This makes a Coordinator replacement an administrative rather than
+    a directional change. :ref:`3.1.5.a <unit-rules-council-a>` now explicitly
+    mentions that the Council's responsibility for long-term policy and strategy
+    within the Unit.
