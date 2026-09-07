@@ -757,3 +757,10 @@ Frequently Asked Questions
     into their charters too. The Unit Cooperation Panel can also be
     involved, but under a more general inclusivity umbrella that
     includes the non-technical units too.
+
+**22. Can the Unit Rules and the Panel Rules explicitly state that the Conflict of Interest Management Policy applies?**
+    In keeping with the wish for separation of concerns, it should be the
+    :ref:`Conflict of Interest Management Policy <conflict-interest>` that
+    defines its scope. The Governance Working Group has asked that the TYPO3
+    Association Board adapts the Conflict of Interest Management Policy to
+    explicitly apply to roles in the Unit Rules and Panel Rules.
