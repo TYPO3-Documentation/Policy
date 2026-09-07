@@ -777,3 +777,10 @@ Frequently Asked Questions
     a directional change. :ref:`3.1.5.a <unit-rules-council-a>` now explicitly
     mentions that the Council's responsibility for long-term policy and strategy
     within the Unit.
+
+**24. Can the General Assembly Be Asked to Decide on Term Limits and Periodic Re-Confirmation for Unit Coordinators?**
+    The General Assembly is responsible for the general direction of the Units.
+    If necessary, the Unit rules can be changed by the TYPO3 Association Board
+    later, but only the general idea should be implemented in the bylaws at the
+    General Assembly. Unit Coordinators are periodically reconfirmed during the
+    Unit Council’s annual Unit Coordinator election.
