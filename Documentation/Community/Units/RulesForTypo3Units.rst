@@ -95,9 +95,9 @@ Coordinator.
 2.7 Non-Compliance
 ------------------
 
-If a Unit cannot comply with the requirements of its Charter or these
-Rules, the TYPO3 Association Board must take appropriate action to
-rectify it.
+If a Unit cannot comply with the requirements of its Charter or these Rules, or
+the Unit runs out of tasks to complete, the TYPO3 Association Board must take
+appropriate action to rectify it.
 
 ..  _unit-rules-structure:
 
@@ -838,3 +838,24 @@ Frequently Asked Questions
     clarifies the responsible body for handling violations, ideally deferring
     decisions in cases of such violations to the Business Control Committee
     (BCC) through a change in the bylaws.
+
+**30. What is the reason for the expectation that Unit Members take on assigned tasks?**
+    Unless in exceptional cases, Unit Members are expected to take on assigned
+    tasks. The Unit is responsible for fulfilling tasks to ensure that the goals
+    of the TYPO3 Project (represented by the Unit Cooperation Panel as the
+    Product Owner) are met. It is also necessary to avoid cases where promises
+    of certain goals being reached are made based on a certain commitment, but
+    where it turns out that nobody wants to take on the task in the end. This
+    has previously put an intolerable load on conscientious team leads, who have
+    had to complete tasks on their own.
+
+**31. What happens if the Coordinator shapes tasks in a way that makes them undesirable to take on or impossible to solve?**
+    This would be an example of not maintaining good Unit health and that the
+    Coordinator is not doing their job. This way it could be a reason to remove
+    the Coordinator. This can be done both by the TYPO3 Association Board and
+    the Unit Council and should prevent the Coordinator from making such
+    decisions.
+
+**32. What happens to member expiry if a unit runs out of tasks or if no Unit Member accepts tasks?**
+    This is theoretical. In this case the Board would have to disband the Unit,
+    optionally chartering a new Unit with new Unit Members.
