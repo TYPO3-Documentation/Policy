@@ -900,3 +900,7 @@ Frequently Asked Questions
     This is the point of Supporters. They shouldn’t be obliged to do anything.
     Additional requirements must be left up to the units to decide if and when
     they need it.
+
+**38. Isn’t the task of being a Unit Coordinator way too much for a volunteer?**
+    A focus on delegation of tasks notwithstanding, a Unit Coordinator’s work is
+    important and should happen within normal work hours.
