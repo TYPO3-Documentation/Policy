@@ -785,3 +785,7 @@ Frequently Asked Questions
     later, but only the general idea should be implemented in the bylaws at the
     General Assembly. Unit Coordinators are periodically reconfirmed during the
     Unit Council’s annual Unit Coordinator election.
+
+**25. Which decision-making best practices apply to a Unit?**
+    The Governance Working Group has asked that the TYPO3 Association Board
+    implements a project-wide decision-making best practice.
