@@ -53,12 +53,21 @@ Association Board.
 
 The Unit Cooperation Panel must consist of:
 
-*  One permanent representative from each TYPO3 Unit, as assigned by the
-   Unit Coordinator.
+*  One permanent representative from each TYPO3 Unit.
 *  One representative from and chosen by the TYPO3 Association Board.
 
 One person can only represent a single body in the Unit Cooperation
 Panel.
+
+Unit Representatives are chosen, in order of preference:
+
+1. The Unit Coordinator represents the Unit by default if they are eligible for
+   the role and accept the responsibility.
+2. Otherwise, the Deputy Unit Coordinator represents the Unit if they are
+   eligible for the role and accept the responsibility.
+3. If neither is eligible or accept the responsibility, the Unit Council elects
+   another Unit Member who is eligible for the role and accepts the
+   responsibility.
 
 ..  _coop-panel-leadership:
 
