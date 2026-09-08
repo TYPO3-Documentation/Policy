@@ -244,3 +244,13 @@ Frequently Asked Questions
 **9. Which decision-making best practices apply to the Unit Cooperation Panel?**
     The Governance Working Group has asked that the TYPO3 Association Board
     implements a project-wide decision-making best practice.
+
+**10. Can changes to these Rules be made to require a decision by the General Assembly?**
+    It is not normally the General Assembly’ task to change rules and policies.
+    This is the Association Board’s domain. Normally, the Board would be able to
+    change the Panel rules alone, but
+    :ref:`section 2 <coop-panel-governing-authority>` requires both the TYPO3
+    Association Board and the Unit Cooperation Panel to vote in favor. This adds
+    an additional level of control. The General Assembly has supreme
+    decision-making authority in the TYPO3 Association and can always override
+    or force a change to happen.
