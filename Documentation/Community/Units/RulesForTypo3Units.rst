@@ -891,3 +891,8 @@ Frequently Asked Questions
     We consider the bylaws to be the Association’s membership terms. Signing a
     non-disclosure agreement (NDA) will not be necessary in all cases. It must
     be left up to the Units to decide when and if they need it.
+
+**37. Why do Supporters fall outside every contractual obligation?**
+    This is the point of Supporters. They shouldn’t be obliged to do anything.
+    Additional requirements must be left up to the units to decide if and when
+    they need it.
