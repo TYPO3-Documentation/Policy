@@ -192,9 +192,11 @@ under the Unit’s Charter.
 b. Accountability
 """""""""""""""""
 
-Though Unit Members should be awarded a large degree of freedom in task
-selection, Unit Members answer to the Unit Coordinator and must fulfill
-delegated tasks promptly and to the best of their ability.
+Unit Members should be awarded a large degree of freedom in task selection. Unit
+Members can request to have tasks assigned or tasks can be assigned by the Unit
+Coordinator or their delegate. In both cases they must respond to assigned
+tasks. Tasks should be accepted and accepted tasks must be fulfilled to the best
+of their ability.
 
 ..  _unit-rules-member-c:
 
@@ -265,8 +267,7 @@ Supporters and respond to enquiries in a timely and welcoming manner.
 
 A Unit Supporter should fulfill delegated tasks and meet the
 expectations of a Unit Member for at least six months before they may
-become a Unit Member. The Unit Coordinator decides on new Unit Members
-in consultation with the Unit Council.
+become a Unit Member.
 
 ..  _unit-rules-supporter-e:
 
@@ -633,10 +634,10 @@ Frequently Asked Questions
     between Units.
 
 **4. I don’t want someone to decide what I should do. Do I have a place in a Unit?**
-    Yes, you can be a Unit Supporter. It will be difficult for you to
-    be a Unit Member because that level of commitment may require you
-    to fulfill tasks you do not want to do, but that are necessary for
-    the greater good of the project.
+    Yes, you can always be a Unit Supporter. This role comes with full freedom
+    to choose the tasks you want to take on. For Unit Members, the level of
+    commitment is greater and, when necessary, you are expected to accept tasks
+    you do not like, but that are necessary for the greater good of the project.
 
 **5. What happens if nobody wants to take on the Unit Coordinator or Deputy Unit Coordinator role?**
     If a unit is without a coordinator because nobody wants to take on
@@ -789,3 +790,21 @@ Frequently Asked Questions
 **25. Which decision-making best practices apply to a Unit?**
     The Governance Working Group has asked that the TYPO3 Association Board
     implements a project-wide decision-making best practice.
+
+**26. Must Unit Members accept all assigned tasks?**
+    According to section :ref:`3.1.3.b <unit-rules-member-b>` Unit Members can
+    ask to have tasks assigned or tasks can be assigned to them by others. It
+    awards "a large degree of freedom in task selection," but it also says that
+    "tasks should be accepted and accepted tasks must be fulfilled to the best
+    of their ability."
+
+**27. What is the difference between a "must" and "should"?**
+    This difference is important.
+    `RFC 2119 <https://www.ietf.org/rfc/rfc2119.txt>`__ defines "must" as "an
+    absolute requirement." A "should" is a strong expectation and normally
+    optional. We can understand it as a conditional "must" where "there may
+    exist valid reasons in particular circumstances to ignore […], but the full
+    implications must be understood and carefully weighed before choosing a
+    different course." The Governance Working Group asks that the Business
+    Control Committee (BCC) is tasked with auditing decisions that diverge from
+    a "should."
