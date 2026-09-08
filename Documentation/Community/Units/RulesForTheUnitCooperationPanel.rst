@@ -87,8 +87,13 @@ taking over all related tasks and responsibilities.
 3.3 Compensation
 ----------------
 
-The TYPO3 Association Board may decide to compensate members of the
-Panel through the TYPO3 Association’s budget.
+The TYPO3 Association Board may decide to compensate members of the Panel
+through the TYPO3 Association’s budget. The compensation may be split into tiers
+depending on the person’s role and assigned tasks.
+
+Individuals whose employment compensation includes remuneration for performing
+duties as a Coordinator or Panel Member in connection with their employment
+are not entitled to receive any additional compensation.
 
 ..  _coop-panel-tasks-responsibilities:
 
