@@ -240,3 +240,7 @@ Frequently Asked Questions
     Panel, so a person who is Unit Coordinator for multiple units will
     have to delegate another person to be the representative of one of
     the units.
+
+**9. Which decision-making best practices apply to the Unit Cooperation Panel?**
+    The Governance Working Group has asked that the TYPO3 Association Board
+    implements a project-wide decision-making best practice.
