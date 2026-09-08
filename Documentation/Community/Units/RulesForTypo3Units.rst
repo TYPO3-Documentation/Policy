@@ -143,6 +143,16 @@ c. Accountability
 
 The Unit Coordinator is answerable to the TYPO3 Association Board.
 
+..  _unit-rules-coordinator-d:
+
+d. Responsibility to React on Violations
+""""""""""""""""""""""""""""""""""""""""
+
+When the responsible TYPO3 Association body reports a violation of applicable
+TYPO3 Association bylaws or policies that it has been unable to resolve, the
+the affected Unit Member or Unit Supporter must be removed from the Unit by the
+Unit Coordinator on behalf of the TYPO3 Association.
+
 ..  _unit-rules-deputy-coordinator:
 
 3.1.2 Deputy Coordinator
@@ -373,14 +383,12 @@ i. Coordinator Petitioning and Council Consultation
 The Unit Council can petition the Unit Coordinator on and should be
 consulted in decisions concerning at least these areas:
 
-1. Appointment of new Unit Members
-2. Removal of Unit Members
-3. Long-Term Task Prioritization
-4. Budgetary Policy
-5. Creation and removal of optional structures (see 3.2)
-6. Contribution Rules and Acceptance Criteria
-7. Petitions by other TYPO3 Association bodies
-8. Unit representation in other TYPO3 Association bodies
+1. Long-Term Task Prioritization
+2. Budgetary Policy
+3. Creation and removal of optional structures (see 3.2)
+4. Contribution Rules and Acceptance Criteria
+5. Petitions by other TYPO3 Association bodies
+6. Unit representation in other TYPO3 Association bodies
 
 ..  _unit-rules-council-j:
 
@@ -390,6 +398,14 @@ j. Supporters’ Rights
 Unit Supporters have no voting rights, but may attend Unit Council
 meetings, unless otherwise decided by the Unit Coordinator, Unit Deputy
 Coordinator, or Unit Council.
+
+k. Member Admission and Extraordinary Removal
+"""""""""""""""""""""""""""""""""""""""""""""
+
+The Unit Council is responsible for voting on the Unit Coordinator's proposal to
+admit new Unit Members. When proposed by the Unit Coordinator, the Council may
+also vote for the extraordinary removal of Unit Members from the Unit,
+independently of the other removal and expiry clauses under these Rules.
 
 ..  _unit-rules-optional-structure:
 
@@ -816,3 +832,9 @@ Frequently Asked Questions
     alternatives are easily self-explanatory or may carry other unfortunate
     meanings. (For example: Unit Owner, Unit Proprietor, Unit Stakeholer, Unit
     Fellow, Unit Selectman, Unit Guardian, and Unit Warden.)
+
+**29. Which TYPO3 Association bodies can report violations that lead to the removal of a Unit Member or Unit Supporter from a Unit?**
+    The Governance Working Group has requested that the TYPO3 Association Board
+    clarifies the responsible body for handling violations, ideally deferring
+    decisions in cases of such violations to the Business Control Committee
+    (BCC) through a change in the bylaws.
