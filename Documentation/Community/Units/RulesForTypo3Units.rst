@@ -661,21 +661,23 @@ Frequently Asked Questions
     you do not like, but that are necessary for the greater good of the project.
 
 **5. What happens if nobody wants to take on the Unit Coordinator or Deputy Unit Coordinator role?**
-    If a unit is without a coordinator because nobody wants to take on
-    the leadership, this would be a very serious problem. It is the
-    project’s problem and no longer something unit-internal. It will
-    have to be escalated to the TYPO3 Association Board and will
-    probably require re-chartering or re-establishing the Unit.
+    If a unit is without a coordinator because nobody wants to take on the
+    leadership, this would be a very serious problem. It is the project’s
+    problem and no longer something unit-internal. It will have to be escalated
+    to the TYPO3 Association Board and will probably require re-chartering or
+    re-establishing the Unit. The Governance Working Group has requested that
+    the TYPO3 Association Board defines an escalation process for this.
 
 **6. What does it mean that the Unit Coordinator is answerable to the TYPO3 Association Board?**
     Though the Unit Coordinator is elected by the Unit Council, their
     responsibility is to the TYPO3 Project, represented by the TYPO3
-    Association. Responsibility for the Association’s day-to-day
-    operations is delegated to the TYPO3 Association Board by the
-    General Assembly. If the Unit Coordinator fails to meet the needs
-    and requirements of the Project, the TYPO3 Association Board may
-    ultimately remove the Unit Coordinator from the role, and the Unit
-    Council will have to elect a new Unit Coordinator.
+    Association. Responsibility for the Association’s day-to-day operations is
+    delegated to the TYPO3 Association Board by the General Assembly. If the
+    Unit Coordinator fails to meet the needs and requirements of the Project,
+    the TYPO3 Association Board may ultimately remove the Unit Coordinator from
+    the role, and the Unit Council will have to elect a new Unit Coordinator.
+    The Governance Working Group has requested that the TYPO3 Association Board
+    defines an escalation process for this.
 
 **7. Does a Unit Coordinator or other person in a Unit role have to be employed by the TYPO3 Association or TYPO3 Company?**
     No. There is no rule either way and they may be employed by anyone
@@ -763,11 +765,13 @@ Frequently Asked Questions
     Unit.
 
 **19. What happens if the Coordinator and Members do not allow new supporters to become a Member?**
-    Though hopefully avoidable through unit size, it is a potential
-    risk that the Unit decides to become closed to new members. Such a
-    unit would be dysfunctional, requiring the TYPO3 Association Board
-    to take action. If someone doesn’t feel welcomed into a unit, they
-    should contact the Ombudspersons or the TYPO3 Association Board.
+    Though hopefully avoidable through unit size, it is a potential risk that
+    the Unit decides to become closed to new members. Such a unit would be
+    dysfunctional, requiring the TYPO3 Association Board to take action. If
+    someone doesn’t feel welcomed into a unit, they should contact the
+    Ombudspersons or the TYPO3 Association Board. The Governance Working Group
+    has requested that the TYPO3 Association Board defines an escalation process
+    for dysfunctional Units.
 
 **20. How do we handle cross-concern initiatives, like today’s Stats Initiative?**
     This could be an initiative under the Feature Unit, but people
