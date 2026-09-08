@@ -368,12 +368,12 @@ upon election.
 
 ..  _unit-rules-council-h:
 
-h. Coordinator Removal
-""""""""""""""""""""""
+h. Coordinator or Deputy Coordinator Removal
+""""""""""""""""""""""""""""""""""""""""""""
 
-The Unit Council can petition the TYPO3 Association Board to remove the
-Unit Coordinator or Deputy Unit Coordinator. For this petition only, a
-quorum may be reached without the Coordinator or Deputy present.
+The Unit Council can vote to remove the Unit Coordinator or Deputy Coordinator
+with two thirds majority of the votes cast. For this case only, a quorum may be
+reached without the Coordinator or Deputy present.
 
 ..  _unit-rules-council-i:
 
