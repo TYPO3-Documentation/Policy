@@ -886,3 +886,8 @@ Frequently Asked Questions
     become. The Governance Working Group has asked that the TYPO3 Association
     Board clarifies the relationship between compensation/employment and the
     requirement to complete tasks.
+
+**36. Why don’t these Rules specify terms for joining, like confidentiality and trademark obligations?**
+    We consider the bylaws to be the Association’s membership terms. Signing a
+    non-disclosure agreement (NDA) will not be necessary in all cases. It must
+    be left up to the Units to decide when and if they need it.
