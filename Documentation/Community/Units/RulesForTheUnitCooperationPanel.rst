@@ -56,7 +56,7 @@ The Unit Cooperation Panel must consist of:
 *  One permanent representative from each TYPO3 Unit.
 *  One representative from and chosen by the TYPO3 Association Board.
 
-One person can only represent a single body in the Unit Cooperation
+Each person can only represent a single body in the Unit Cooperation
 Panel.
 
 Unit Representatives are chosen, in order of preference:
