@@ -808,3 +808,11 @@ Frequently Asked Questions
     different course." The Governance Working Group asks that the Business
     Control Committee (BCC) is tasked with auditing decisions that diverge from
     a "should."
+
+**28. Can Unit Member have a different name? It is easy to mix up with Association Members and it makes it sound like Unit Supporters are not part of the Unit**
+    Unit Members and Unit Supporters are both parts of their Units, but with
+    different accountability and commitment requirements. The Governance Working
+    Group has discussed renaming the Unit Member, but none of the suggested
+    alternatives are easily self-explanatory or may carry other unfortunate
+    meanings. (For example: Unit Owner, Unit Proprietor, Unit Stakeholer, Unit
+    Fellow, Unit Selectman, Unit Guardian, and Unit Warden.)
