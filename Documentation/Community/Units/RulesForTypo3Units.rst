@@ -511,7 +511,9 @@ they lose their role with immediate effect.
 a. Right to Combine
 """""""""""""""""""
 
-Any role in a Unit may be combined with any role in another Unit.
+Any role in a Unit may be combined with any role in another Unit, but Unit
+Coordinator, Deputy Coordinator, and Unit Member roles should not be combined
+across more than two Units.
 
 ..  _unit-rules-other-membership-b:
 
