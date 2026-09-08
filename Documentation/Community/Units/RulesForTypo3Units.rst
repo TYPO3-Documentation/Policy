@@ -366,7 +366,8 @@ Elections for a scheduled new term in office must take place 1–3 months
 before that term is due to begin. If the office is vacant, including
 when the Unit is first established, the Unit Council must elect the role
 as soon as practicable, and the elected role’s term begins immediately
-upon election.
+upon election. For this case only, a quorum may be reached without the
+Coordinator or Deputy present.
 
 ..  _unit-rules-council-h:
 
