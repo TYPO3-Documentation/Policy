@@ -859,3 +859,7 @@ Frequently Asked Questions
 **32. What happens to member expiry if a unit runs out of tasks or if no Unit Member accepts tasks?**
     This is theoretical. In this case the Board would have to disband the Unit,
     optionally chartering a new Unit with new Unit Members.
+
+**33. Must all task assignment and approval be done by the Unit Coordinator?**
+    No. Though these tasks ultimately lie with the Unit Coordinator, their own
+    primary task is to delegate such responsibilities away from themselves.
