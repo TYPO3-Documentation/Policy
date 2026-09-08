@@ -467,7 +467,7 @@ disband the Optional Structure.
 
 ..  _unit-rules-optional-roles-d:
 
-d. Role Elegibility
+d. Role Eligibility
 """""""""""""""""""
 
 Unit Members can be Coordinators, Deputy Coordinators, and Members
