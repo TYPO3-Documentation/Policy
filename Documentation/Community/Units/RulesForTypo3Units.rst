@@ -876,3 +876,12 @@ Frequently Asked Questions
     is meant to counteract the vicious circle where the most experienced
     contributors are so busy with their own contribution that they don’t have
     time to help those less experienced and onboard new contributors.
+
+**35. What is the relationship between compensation and a role’s decision-making power and accountability?**
+    Compensation is not connected with decision-making power. Instead
+    decision-making power relates to a person's accountability for their
+    actions. The more responsibility you have, the more you have to commit
+    yourself to the common goals of the project, and the more accountable you
+    become. The Governance Working Group has asked that the TYPO3 Association
+    Board clarifies the relationship between compensation/employment and the
+    requirement to complete tasks.
