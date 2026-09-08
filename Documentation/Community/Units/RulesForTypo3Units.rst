@@ -193,9 +193,11 @@ obligations are equal to those of a Unit Member.
 a. Definition
 """""""""""""
 
-Unit Members are individuals with relevant knowledge and expertise that
-are permanent and consistent contributors to the fulfillment of tasks
-under the Unit’s Charter.
+Unit Members are individuals with relevant knowledge and expertise that are
+permanent and consistent contributors to the fulfillment of tasks under the
+Unit’s Charter. By focusing on sharing their experience and supporting other
+contributors, they serve as the most important contribution and participation
+catalysts for the TYPO3 project.
 
 ..  _unit-rules-member-b:
 
@@ -865,3 +867,12 @@ Frequently Asked Questions
 **33. Must all task assignment and approval be done by the Unit Coordinator?**
     No. Though these tasks ultimately lie with the Unit Coordinator, their own
     primary task is to delegate such responsibilities away from themselves.
+
+**34. How can the Unit increase contribution and participation when it defines so many rules and so much hierarchy?**
+    The hierarchy is there to organize responsibility and accountability and the
+    rules are there to define the governance of that organization. The goal of
+    the higher levels of the hierarchy is to *serve* the levels below. For
+    example, the Unit Members’ main task is to enable contribution. This focus
+    is meant to counteract the vicious circle where the most experienced
+    contributors are so busy with their own contribution that they don’t have
+    time to help those less experienced and onboard new contributors.
