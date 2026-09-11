@@ -46,7 +46,7 @@ There are several types of conflict of interest:
 * A **potential** conflict of interest exists when an individual has personal interests that could potentially conflict with his or her official responsibilities.
 * A **perceived** conflict of interest exists when the public may believe that an individual's personal interests could influence the performance of his or her official duties - whether or not this is actually the case.
 
-Code of Conduct
+Duties and Requirements
 ===============
 
 Any individual falling within the scope of the sensitive processes, critical positions and at-risk operations defined above must :
@@ -62,7 +62,7 @@ Priority Matrix
 
 The priority matrix is used to weight the severity of a conflict of interest by its probability, and to determine whether action needs to be taken to reduce this priority.
 
-**Only conflicts of interest with a value greater than or equal to 4 should be dealt with using one of the strategies described below.**
+**Only conflicts of interest with a value greater than or equal to 4 should be dealt with using one of the strategies described below, with “Avoid or Resign” applying only to level 6.**
 
 +-------------------------------+------------+------------+
 | Conflict of interest Type     | Low (1)    | High (3)   |
@@ -82,35 +82,51 @@ Resolution Strategies
 * **Recruit:** If it is not practical to restrict your involvement, an independent third party may need to be engaged to participate in, oversee, or review the integrity of the decision-making process.
 * **Remove:** Removal from involvement in the matter altogether is the best option when ad hoc or recruitment strategies are not feasible, or appropriate.
 * **Relinquish:** Relinquishing the personal or private interests may be a valid strategy for ensuring there is no conflict with your public duty. This may be the relinquishment of shares, or membership of a club or association.
-* **Resign:** It may be an option if the conflict of interest cannot be resolved in any other way, particularly where conflicting private interests cannot be relinquished.
+* **Avoid or resign:** It may be an option if the conflict of interest cannot be resolved in any other way, particularly where conflicting private interests cannot be relinquished.
 
 Possible Conflict of Interest Mapping
 =====================================
 
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| Type + Severity       | Board        | BCC        | GmbH Employee                               | TYPO3 Agency /            | Same Agency                | Direct Under              | Same Agency                  | Direct Under             | Team / Committee        |
-|                       | Member       | Member     | (CEO, CTO, CFO, critical roles)             | TYPO3 Freelancer          | as Board Member            | Board Member              | as BCC Member                | BCC Member               | Lead                    |
-+=======================+==============+============+=============================================+===========================+============================+===========================+==============================+==========================+=========================+
-| Board Member          | na           | forbidden  | forbidden                                   | 5                         | forbidden                  | forbidden                 | 6                            | forbidden                | 2                       |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| BCC Member            | forbidden    | na         | forbidden                                   | 3                         | 6                          | forbidden                 | forbidden                    | forbidden                | forbidden               |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| GmbH Employee         | forbidden    | forbidden  | na                                          | forbidden                 | 6                          | forbidden                 | forbidden                    | forbidden                | 3                       |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| TYPO3 Agency /        | 5            | 3          | forbidden                                   | na                        | na                         | na                        | na                           | na                       | 4                       |
-| TYPO3 Freelancer      |              |            |                                             |                           |                            |                           |                              |                          |                         |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| Same Agency as        | forbidden    | 6          | 6                                           | na                        | na                         | na                        | na                           | na                       | 2                       |
-| Board Member          |              |            |                                             |                           |                            |                           |                              |                          |                         |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| Direct Under          | forbidden    | forbidden  | forbidden                                   | na                        | na                         | na                        | na                           | na                       | 2                       |
-| Board Member          |              |            |                                             |                           |                            |                           |                              |                          |                         |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| Same Agency as        | 6            | forbidden  | forbidden                                   | na                        | na                         | na                        | na                           | na                       | 2                       |
-| BCC Member            |              |            |                                             |                           |                            |                           |                              |                          |                         |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| Direct Under          | forbidden    | forbidden  | forbidden                                   | na                        | na                         | na                        | na                           | na                       | 2                       |
-| BCC Member            |              |            |                                             |                           |                            |                           |                              |                          |                         |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
-| Team / Committee Lead | 2            | forbidden  | 3                                           | 4                         | 2                          | 2                         | 2                            | 2                        | 2                       |
-+-----------------------+--------------+------------+---------------------------------------------+---------------------------+----------------------------+---------------------------+------------------------------+--------------------------+-------------------------+
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+| Type + Severity             | BCC member       | Board member     | Person(1) sharing a financial interest(2)| Person(1) sharing a financial interest(2)| Person(1) sharing a financial interest(2)| Person(1) with a financial interest(2)   |
+|                             |                  |                  | with a BCC member or having financial or | with a Board member or having financial  | with a Unit lead role or having financial| in any TYPO3 agency or TYPO3 freelance   |
+|                             |                  |                  | hierarchical leverage over them          | or hierarchical leverage over them       | or hierarchical leverage over them       | business                                 |
++=============================+==================+==================+==========================================+==========================================+==========================================+==========================================+
+| BCC member                  | na               | forbidden        | 6                                        | 5                                        | 6                                        | 3                                        |
+|                             |                  | by by-laws       |                                          |                                          |                                          |                                          |
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+| Board member                | forbidden        | na               | 5                                        | 6                                        | 6                                        | 4                                        |
+|                             | by by-laws       |                  |                                          |                                          |                                          |                                          |
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+| GmbH employee               | forbidden        | forbidden        | 5                                        | 5                                        | 5                                        | 5                                        |
+| CEO, CTO, CFO,              | by by-laws       | by by-laws       |                                          |                                          |                                          |                                          |
+| any critical role(3)        |                  |                  |                                          |                                          |                                          |                                          |
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+| Association Officers(4)     | forbidden        | forbidden        | 5                                        | 5                                        | 5                                        | 3                                        |
+|                             | by by-laws       | by by-laws       |                                          |                                          |                                          |                                          |
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+| Unit coordinators, deputies | 6                | 6                | 6                                        | 6                                        | 6                                        | 3                                        |
+| and panel members           |                  |                  |                                          |                                          |                                          |                                          |
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+| Team / Committee leads      | 5                | 5                | 5                                        | 5                                        | 5                                        | 3                                        |
+| and co-leads                |                  |                  |                                          |                                          |                                          |                                          |
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+| External contractors and    | forbidden        | forbidden        | 6                                        | 6                                        | 6                                        | 3                                        |
+| service providers(5)        | by by-laws       | by by-laws       |                                          |                                          |                                          |                                          |
++-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
+
+(1) References to a person's interests include interests held by their close relatives and persons with whom they have a close personal relationship where those interests could reasonably be perceived as influencing the person's judgment.							
+(2) Financial interest refers to an ownership, equity or comparable economic interest in the agency, and does not include ordinary commercial customer or supplier relationships.							
+(3) GmbH employee with critical role: Any role or position related to sensitive processes listed in the Conflict of Interest Policy							
+(4) Association officers: Data Privacy Officer, Compliance Officer, Trademark Officer, Ambassadors, etc.							
+(5) For external contractors and service providers, the default impact severity is High. Where the total annual value of the services provided to the TYPO3 Association is below €50,000, the impact may be assessed as Low depending on the nature and significance of the contractual relationship.							
+
+
+Reporting a Conflict of Interest
+=====================================
+
+Any TYPO3 Association member, TYPO3 GmbH employee, or provider working for the TYPO3 Association or TYPO3 GmbH who becomes aware of a potential conflict of interest may report it to the TYPO3 Association Compliance Officer using the dedicated form available on this page. The report may concern the reporting person's own situation or a situation involving another person.
+
+The Compliance Officer will acknowledge the report within one working week, record it, assess the available information, and prepare a recommendation for the TYPO3 Association Compliance review panel. The Compliance review panel decides whether a conflict of interest exists and, where applicable, determines the appropriate measures in accordance with this policy.
+
+The person who submitted the report will be informed of the decision. Confirmed conflicts of interest and their management are recorded and periodically reviewed in accordance with the Conflict of Interest Resolution Process.
