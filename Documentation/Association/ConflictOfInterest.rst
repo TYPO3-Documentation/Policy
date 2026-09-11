@@ -5,7 +5,14 @@
 Conflict of Interest Management Policy
 ======================================
 
-*This policy was voted into effect through a Board vote in October 2023. The Possible Conflict of Interest Mapping matrix was updated 3 April 2025. Migrated to the current repository 19 November 2025.*
+Document History
+================
+
+- **11 September 2026:** Policy and Possible Conflict of Interest Mapping matrix updated.
+- **19 November 2025:** Migrated to the current repository.
+- **3 April 2025:** Possible Conflict of Interest Mapping matrix updated.
+- **October 2023:** Policy adopted by the Board.
+
 
 Goals of the TYPO3 Conflict of Interest Management Policy
 =========================================================
