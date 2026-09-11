@@ -8,7 +8,7 @@ Conflict of Interest Management Policy
 Document History
 ================
 
-- **11 September 2026:** Policy and Possible Conflict of Interest Mapping matrix updated.
+- **2 September 2026:** Policy and Possible Conflict of Interest Mapping matrix updated.
 - **19 November 2025:** Migrated to the current repository.
 - **3 April 2025:** Possible Conflict of Interest Mapping matrix updated.
 - **October 2023:** Policy adopted by the Board.
@@ -140,8 +140,6 @@ The person who submitted the report will be informed of the decision. Confirmed 
 
 Detailed Process
 ===================================
-
-*Version 2.0 — 2 September 2026*
 
 **This chapter describes how Conflicts of Interest are managed, from declaration to resolution by the TYPO3 Association.**
 
