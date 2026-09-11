@@ -132,7 +132,7 @@ Possible Conflict of Interest Mapping
 Reporting a Conflict of Interest
 =====================================
 
-Any TYPO3 Association member, TYPO3 GmbH employee, or provider working for the TYPO3 Association or TYPO3 GmbH who becomes aware of a potential conflict of interest may report it to the TYPO3 Association Compliance Officer using the dedicated form available on this page. The report may concern the reporting person's own situation or a situation involving another person.
+Any TYPO3 Association member, TYPO3 GmbH employee, or provider working for the TYPO3 Association or TYPO3 GmbH who becomes aware of a potential conflict of interest may report it to the TYPO3 Association Compliance Officer using the dedicated form available on **this page**. The report may concern the reporting person's own situation or a situation involving another person.
 
 The Compliance Officer will acknowledge the report within one working week, record it, assess the available information, and prepare a recommendation for the TYPO3 Association Compliance review panel. The Compliance review panel decides whether a conflict of interest exists and, where applicable, determines the appropriate measures in accordance with this policy.
 
@@ -145,95 +145,61 @@ Detailed Process
 
 **This chapter describes how Conflicts of Interest are managed, from declaration to resolution by the TYPO3 Association.**
 
-Review
-------
+Review (1 month after each GA)
+------------------------------
 
-*Timeline: Within one month after each General Assembly*
+- The Compliance Officer sends an email to all persons listed in the Conflict of Interest register to ask them either to validate the declared situation, or to inform about any new situation.
+- The recipient have 2 weeks to answer about their situation
+  - If the situation hasn’t changed, the Board member responsible for the conflicts of interest documentation adds the last update date of the conflict.
+  - If the situation has changed, the conflict goes through the next steps like a new conflict.
 
-- The Compliance Officer emails all persons listed in the Conflict of Interest Register and asks them either:
-  - to confirm that their declared situation has not changed; or
-  - to report any change or new situation.
-- Recipients have two weeks to respond.
-- If the situation has not changed, the Board member responsible for the Conflict of Interest documentation adds the date of the latest review to the record.
-- If the situation has changed, it is processed through the following steps as a new Conflict of Interest.
+Compliance Review Panel members pool (1 month after each GA)
+------------------------------------
 
-Update the Compliance Review Panel Pool
-------------------------------------------
+- The Compliance Officer updates the Compliance Review Panel members pool based on the elected Board and BCC members.
+- A public rotation list includes all current Board and BCC members and is initially ordered alphabetically by last name. For each case, the first three eligible persons are selected. Anyone who has a conflict of interest is skipped for that case without losing their place. After serving, Panel members move to the end of the list.
 
-*Timeline: Within one month after each General Assembly*
 
-- The Compliance Officer updates the pool of Compliance Review Panel members based on the elected Board and BCC members.
-- A public rotation list includes all current Board and BCC members. It is initially ordered alphabetically by last name.
-- For each case, the first three eligible persons on the list are selected.
-- Anyone who has a Conflict of Interest in relation to the case is skipped without losing their position on the list.
-- After serving on a Panel, members move to the end of the rotation list.
+Take over (A conflict of Interest is declared)
+----------------------------------------------
 
-Take Over the Case
-------------------
+- Any TYPO3 association member, TYPO3 company employee, or TYPO3 Association or Company's provider aware of a conflict of interest can declare it by emailing the TYPO3 Association Compliance Officer.
+- The declaration is received in the OTOBO ticketing system, it is automatically assigned to the Compliance Officer
+- The Compliance Officer has 1 working week to add the topic in the next board meeting and answer the member that their declaration is taken over
+- The Compliance Officer creates a Reported disclosure record in the register and closes the OTOBO ticket.
+- If the Compliance Officer is involved or conflicted, an alternate Case Officer is selected through the same predefined rotation used for the Compliance Review Panel.
 
-*Trigger: A Conflict of Interest is declared*
+Identify (The next board meeting after the declaration)
+-------------------------------------------------------
 
-- Any TYPO3 Association member, TYPO3 GmbH employee, or service provider of the TYPO3 Association or TYPO3 GmbH who becomes aware of a Conflict of Interest may report it to the TYPO3 Association Compliance Officer.
-- The report must be submitted through the official TYPO3 website:
-  - [Conflict of Interest Policy](https://docs.typo3.org/m/typo3/guide-policy/main/en-us/Association/ConflictOfInterest.html)
-  - Reporting form: *to be created*
-- The declaration is received through the OTOBO ticketing system and automatically assigned to the Compliance Officer.
-- Within one working week, the Compliance Officer:
-  - acknowledges receipt of the declaration;
-  - informs the reporting person that the case has been taken over;
-  - adds the case to the agenda of the next Board meeting;
-  - creates a `Reported disclosure` record in the Conflict of Interest Register; and
-  - closes the OTOBO ticket.
-- If the Compliance Officer is involved in or conflicted regarding the case, an alternate Case Officer is selected using the predefined rotation established for the Compliance Review Panel.
+- The Case Officer prepare a conflict of interest decision paper with the information needed:
+  - The needed information for the decision paper
+  - The selected members of the Compliance review panel
+  - The Case Officer recommendations
+- The Compliance review panel must identify the conflict of interest with the help of the Conflict of Interest Mapping and the Conflict of Interest priority matrix
+- The Compliance review panel vote (simple majority, no possible abstention) a decision on :
+  - Is it a conflict of interest?
+  - If so, what is its type and impact severity?
+- The Compliance review panel must record the decision in the meeting protocol
 
-Identify the Conflict of Interest
+Disclose (Four weeks after the identification of a conflict of interest)
+------------------------------------------------------------------------
+
+- The Case Officer must update the Conflict of Interest register and if necessary the Conflict of Interest Mapping
+- The Case Officer reports about the decision in the next board meeting
+- The Case Officer sends an email to the person who reported the conflict of interest to inform them about the decision
+
+Manage (The next board meeting after the disclosure of a priority Conflict of Interest)
+---------------------------------------------------------------------------------------
+
+- If the Compliance review panel identified a conflict of interest of any type, the board must decide on actions to avoid the Conflict of Interest, or reduce the Conflict of Interest probability or severity impact
+- The possible type of actions are listed in the Conflict of Interest Policy’s Resolution strategies chapter
+- The Compliance Officer prepare a decision paper according to the actions
+- The Board votes (quorum) the strategies they want to apply
+- The Board must record the decision in the meeting protocol
+
+Monitor (One year after the strategies implementation)
 ---------------------------------
 
-*Timeline: At the first Board meeting following the declaration*
-
-- The Case Officer prepares a Conflict of Interest decision paper containing:
-  - the information required to assess the case;
-  - the names of the selected Compliance Review Panel members; and
-  - the Case Officer’s recommendations.
-- The Compliance Review Panel assesses the situation using:
-  - the [Conflict of Interest Mapping](https://docs.google.com/spreadsheets/u/0/d/1R-vw_69WPs8jViHtDTKPWTjMGQi-jfgrYYeICYYxauQ/edit); and
-  - the [Conflict of Interest Priority Matrix](https://docs.google.com/document/u/0/d/1YkJel1KWbSFJx_leZBI2hdHBywSHTPF50lMwyrO_i84/edit).
-- The Compliance Review Panel decides:
-  - whether the situation constitutes a Conflict of Interest; and
-  - if so, its type and impact severity.
-- The decision is made by simple majority. Abstentions are not permitted.
-- The Compliance Review Panel records its decision in the meeting minutes.
-
-Disclose the Conflict of Interest
----------------------------------
-
-*Timeline: Within four weeks after a Conflict of Interest has been identified*
-
-- The Case Officer updates:
-  - the Conflict of Interest Register; and
-  - where necessary, the Conflict of Interest Mapping.
-- The Case Officer reports the decision at the next Board meeting.
-- The Case Officer informs the person who reported the Conflict of Interest of the decision by email.
-
-Manage the Conflict of Interest
--------------------------------
-
-*Timeline: At the first Board meeting following the disclosure of a priority Conflict of Interest*
-
-- If the Compliance Review Panel has identified a Conflict of Interest, the Board decides which actions are required to:
-  - avoid the Conflict of Interest; or
-  - reduce its probability or the severity of its impact.
-- The available actions are listed in the [Resolution Strategies chapter of the Conflict of Interest Policy](https://docs.google.com/document/d/1sjCEpgJzzmDCop80ail0C52NzZPot22lxPieo3v0jKA/edit#heading=h.j3qbt4sdruuu).
-- The Compliance Officer prepares a decision paper describing the proposed actions.
-- The Board votes, subject to the applicable quorum, on the strategies to be implemented.
-- The Board records its decision in the meeting minutes.
-
-Monitor the Resolution Strategies
----------------------------------
-
-*Timeline: One year after implementation of the strategies*
-
-- During the QSA conducted as part of the Conflict of Interest Policy review, the Board assesses:
-  - whether the situation has changed significantly; and
-  - whether the implemented strategies have been successful.
-- The Board records its assessment in the QSA minutes.
+- The Board must validate during a QSA during the conflict of interests policy review that the change is significant and that the strategies were successful.
+- The Board must record the validation in the QSA protocol
