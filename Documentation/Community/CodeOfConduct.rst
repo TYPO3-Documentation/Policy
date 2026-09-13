@@ -63,621 +63,613 @@ Code of Conduct
 Basic Rules
 -----------
 
-*We hold these rules to be self-evident:*
+..  tabs::
 
-1. Treat all community members with respect, regardless of race, gender identity, age, sexual orientation, disability, physical appearance, national origin, ethnicity, beliefs, religion, etc.
-2. Respect bodily integrity and refrain from physically intrusive behavior.
-3. Do not start, continue, or encourage personal attacks, flame wars, and trolling.
-4. We do not tolerate harassment, personal attacks, or demeaning behavior. This includes intrusive photography or recording, unwanted sexual attention, and deliberate stalking or following.
-5. Do not disrupt talks and other organized events.
-6. Use valid contact information (e.g. Slack, e-mail, etc.) to which direct responses can be made.
+    ..  group-tab:: English
+
+        ..  code-block:: English
+
+            Basic Rules
+            -----------
+
+            *We hold these rules to be self-evident:*
+
+            1. Treat all community members with respect, regardless of race, gender identity, age, sexual orientation, disability, physical appearance, national origin, ethnicity, beliefs, religion, etc.
+            2. Respect bodily integrity and refrain from physically intrusive behavior.
+            3. Do not start, continue, or encourage personal attacks, flame wars, and trolling.
+            4. We do not tolerate harassment, personal attacks, or demeaning behavior. This includes intrusive photography or recording, unwanted sexual attention, and deliberate stalking or following.
+            5. Do not disrupt talks and other organized events.
+            6. Use valid contact information (e.g. Slack, e-mail, etc.) to which direct responses can be made.
+
+    ..  group-tab:: Arabic
+
+        ..  code-block:: Arabic
+
+            القواعد الأساسية
+            ~~~~~~~~~~~~~~~
+            نحن نعتبر هذه القواعد من البَدِيهِيّات:
+            تعامل مع جميع أعضاء المجتمع بإحترام، بِغضّ النظر عن العرق، أو الجنس، أو العمر، أو التوجه، أو الإعاقة، أو المظهر الخارجي، أو الهُوِيَّة الوطنية، أو المعتقدات، أو الديانة، والخ.
+            احترم خصوصية التعامل بالجسد وامتنع عن السلوكيات الجسديّة الخادشة للحياء.
+            لا تبدأ، ولا تشجّع على العنف الجسدي أوعلى الشَخصَنَة، والحُروب الكلامية، والتحريض على الغير.
+            نحن لا نتسامح أبداً مع التحرش الجنسي، الهجمات الشخصية، أو السلوك المُهين مع الآخرين. يشمل ذلك التصوير والتجسس على الآخرين، والايماءات الجنسية، ومتابعة الشخص أو مُراقبته عن عَمْد.
+            لا تَقُم بتعطيل المُحادثات والأحداث والفَعاليات الأخُرى المنظمة.
+            استخدم معلومات تواصل صحيحة (مثل Slack، والبريد الإلكتروني، وما إلى ذلك) والتي يُمكن الردّ عليها بشكل مباشر.
+
+    ..  group-tab:: Chinese (Simplified)
+
+        ..  code-block:: Chinese (Simplified)
+
+            基本原则
+            ~~~~
+
+            这些规则对我们来说是理所当然的：
+
+            1. 尊重所有社区成员，不分种族、性别认同、年龄、性取向、残疾、外貌、国籍、民族、信仰、宗教等；
+            2. 尊重他人的身体限制，不要打扰他人；
+            3. 请勿对他人进行人身攻击、侮辱或挑衅，并且继续或鼓励这种行为；
+            4. 我们不容忍骚扰、人身攻击或有辱人格的行为，包括侵入性拍照和摄影、不受欢迎的色情评论以及故意尾随或跟踪；
+            5. 不要扰乱讲座或活动；
+            6. 使用有效的联系信息（例如 Slack、E-Mail等），以便其他人可以直接与您联系。
+
+    ..  group-tab:: Chinese (Traditional)
+
+        ..  code-block:: Chinese (Traditional)
+
+            基本原則
+            ~~~~~
+
+            這些規則對我們來說是理所當然的：
+
+            1. 尊重所有社區成員，不分種族、性別認同、年齡、性取向、殘疾、外貌、國籍、民族、信仰、宗教等；
+            2. 尊重他人的身體限制，不要打擾他人；
+            3. 請勿對他人進行人身攻擊、侮辱或挑釁，並且繼續或鼓勵這種行為；
+            4. 我們不容忍騷擾、人身攻擊或有辱人格的行為，包括侵入性拍照和攝影、不受歡迎的色情評論以及故意尾隨或跟踪；
+            5. 不要擾亂講座或活動；
+            6. 使用有效的聯繫信息（例如 Slack、E-Mail等），以便其他人可以直接與您聯繫。
+
+    ..  group-tab:: Croatian
+
+        ..  code-block:: Croatian
+
+            Osnovna pravila
+            ~~~~~~~~~~~~~~~
+
+            *Smatramo da su ova pravila očigledna:*
+
+            1. Ponašajte se s poštovanjem prema svim članovima zajednice, bez obzira na rasu, rodni identitet, dob, seksualnu orijentaciju, invaliditet, fizički izgled, nacionalno podrijetlo, etničku pripadnost, uvjerenja, vjeru itd.
+            2. Poštujte tjelesni integritet i suzdržite se od fizički nametljivog ponašanja.
+            3. Nemojte počinjati, nastavljati ili poticati osobne napade, negativne rasprave i trolanje.
+            4. Ne toleriramo uznemiravanje, osobne napade ili ponižavajuće ponašanje. To uključuje nametljivo fotografiranje ili snimanje, neželjenu seksualnu pažnju i namjerno uhođenje ili praćenje.
+            5. Nemojte ometati govore i druge organizirane događaje.
+            6. Koristite valjane podatke za kontakt (npr. Slack, e-poštu, itd.) na koje možete izravno odgovoriti.
+
+    ..  group-tab:: Danish
+
+        ..  code-block:: Danish
+
+            Grundlæggende regler
+            ~~~~~~~~~~~~~~~~~~~~
+
+            *Vi anser disse regler for at være indlysende:*
+
+            1. **Behandl alle medlemmer af fællesskabet med respekt**, uanset race, kønsidentitet, alder, seksuel orientering, handicap, fysisk fremtoning, national oprindelse, etnicitet, tro, religion osv.
+            2. **Respekter den kropslige integritet** og afstå fra fysisk påtrængende adfærd.
+            3. **Du må ikke starte, fortsætte eller opmuntre** til personlige angreb, flammekrige og trolling.
+            4. **Vi tolererer ikke** chikane, personlige angreb eller nedgørende adfærd. Dette inkluderer påtrængende fotografering eller optagelse, uønsket seksuel opmærksomhed og bevidst stalking eller forfølgelse.
+            5. **Forstyr ikke** taler og andre organiserede begivenheder.
+            6. **Brug gyldige kontaktoplysninger** (f.eks. Slack, e-mail osv.), som kan besvares direkte.
+
+    ..  group-tab:: Dutch
+
+        ..  code-block:: Dutch
+
+            Basisregels
+            ~~~~~~~~~~~
+
+            *Deze regels beschouwen wij als vanzelfsprekend:*
+
+            1. Behandel alle leden van de community met respect, ongeacht ras, genderidentiteit, leeftijd, seksuele geaardheid, handicap, fysieke verschijning, nationale afkomst, etniciteit, overtuigingen, religie, etc.
+            2. Respecteer de lichamelijke integriteit en onthoud u van fysiek opdringerig gedrag.
+            3. Begin niet, ga niet door met persoonlijke aanvallen, flame wars en trolling en moedig ze niet aan.
+            4. We tolereren geen intimidatie, persoonlijke aanvallen of vernederend gedrag. Dit omvat opdringerige fotografie of opname, ongewenste seksuele aandacht en opzettelijk stalken of volgen.
+            5. Verstoor lezingen en andere georganiseerde evenementen niet.
+            6. Gebruik geldige contactgegevens (bijv. Slack, e-mail, enz.) waarop direct kan worden gereageerd.
+
+    ..  group-tab:: French
+
+        ..  code-block:: French
+
+            Règles de base
+            ~~~~~~~~~~~~~~
+
+            *Nous considérons que ces règles sont évidentes :*
+
+            1. **Traiter tous les membres de la communauté avec respect**, sans distinction de race, d'identité sexuelle, d'âge, d'orientation sexuelle, de handicap, d'apparence physique, d'origine nationale, d'ethnie, de croyances, de religion, etc.
+            2. **Respecter l'intégrité corporelle** et s'abstenir de tout comportement physiquement intrusif.
+            3. **Ne lancez pas, ne poursuivez pas et n'encouragez** pas les attaques personnelles, les guerres de mots et les trolls.
+            4. **Nous ne tolérons** pas le harcèlement, les attaques personnelles ou les comportements dégradants. Cela inclut les photographies ou les enregistrements intrusifs, les attentions sexuelles non désirées et le harcèlement ou la filature délibérés.
+            5. **Ne perturbez** pas les conférences et autres événements organisés.
+            6. **Utilisez des coordonnées valides** (par exemple, Slack, e-mail, etc.) auxquelles des réponses directes peuvent être apportées.
+
+    ..  group-tab:: German
+
+        ..  code-block:: German
+
+            Grundregeln
+            ~~~~~~~~~~~
+
+            *Diese Regeln sind für uns selbstverständlich:*
+
+            1. **Behandle alle Mitglieder der Community mit Respekt**, unabhängig von Rasse, Geschlechtsidentität, Alter, sexueller Orientierung, Behinderung, Aussehen, nationaler Herkunft, ethnischer Zugehörigkeit, Glauben, Religion usw.
+            2. **Respektiere die körperlichen Grenzen anderer Menschen** und verhalte dich nicht aufdringlich.
+            3. **Beginne keine** persönlichen Angriffe, Beleidigungen und Trolling, **führe sie weiter oder ermutige andere dazu**.
+            4. Wir dulden keine Belästigungen, persönliche Angriffe oder erniedrigendes Verhalten. Dazu gehören aufdringliches Fotografieren und Filmen, unerwünschte sexualisierte Kommentare und vorsätzliches Stalken oder Verfolgen.
+            5. **Störe** Vorträge oder Veranstaltungen **nicht**.
+            6. **Nutze gültige Kontaktinformationen** (z.B. Slack, E-Mail usw.), damit andere Leute dich direkt kontaktieren können.
+
+    ..  group-tab:: Hindi
+
+        ..  code-block:: Hindi
+
+            महत्वपूर्ण सलाह
+            ~~~~~~~~~~
+
+            *कोशिश करें ...*
+
+            1. जब कोई क्षण को सम्मान की जरूरत हो तब उसे क्रेडिट दें।
+            2. अगर आप संदेह में हैं, तो सहायता के लिए पूछें।
+            3. अगर आप कोई असंमति में हो रहे हैं, तो बाहरी सहायता प्राप्त करें।
+            4. लोगों के स्वेच्छा से काम करने वाले का समय सम्मान करें।
+            5. सकारात्मक रहें और निर्मल सुझाव दें।
+            6. ध्यान रखें कि भाषा कठिन हो सकती है - सार्कास्ट और इरोनी सब को समझ में नहीं आती।
+
+    ..  group-tab:: Indonesian
+
+        ..  code-block:: Indonesian
+
+            Aturan Dasar
+            ~~~~~~~~~~~~
+
+            *Kami memegang aturan ini untuk menjadi dasar dari prisip kami:*
+
+            1. **Memperlakukan semua anggota masyarakat dengan hormat**, tanpa memandang ras, identitas gender, usia, disabilitas, penampilan fisik, asal kebangsaan, suku, kepercayaan, agama, dll.
+            2. **Mengormati integritas** dan menghindari perilaku yang mengganggu secara fisik.
+            3. **Jangan memulai, melanjutkan, atau mendorong** konflik pribadi, perkelahian, dan saling mengolok.
+            4. **Kami tidak mentolerir pelecehan**, perilaku agresif, atau perilaku yang merendahkan. Ini termasuk membuat gambar gambar atau rekaman yang mengganggu, pelecehan seksual dengan mengikuti dengan sengaja.
+            5. **Jangan mengganggu pembicaraan** dan acara yang terorganisir lainnya.
+            6. **Gunakan informasi kontak yang valid** (mis. Slack, email, dll.) yang dapat ditanggapi secara langsung.
+
+    ..  group-tab:: Italian
+
+        ..  code-block:: Italian
+
+            Regole di base
+            ~~~~~~~~~~~~~~
+
+            *Consideriamo queste regole ovvie*
+
+            1. **Tratta tutti i membri della comunità con rispetto** indipendentemente dalla razza, identità di genere, età, orientamento sessuale, disabilità, aspetto fisico, nazionalità di origine, etnia, credenze, religione, ecc.
+            2. **Rispetta l'integrità fisica** ed evita comportamenti fisicamente invadenti.
+            3. **Non iniziare, proseguire o incoraggiare** attacchi personali, risse virtuali e trolling.
+            4. **Non tolleriamo** molestie, attacchi personali o comportamenti degradanti. Questo include fotografie o registrazioni intrusive, attenzioni sessuali indesiderate e stalking o pedinamento intenzionale.
+            5. **Non disturbare** le conferenze ed altri eventi organizzati.
+            6. **Utilizza informazioni di contatto valide** (ad es. Slack, e-mail, ecc.) a cui è possibile fornire risposte dirette.
+
+    ..  group-tab:: Norwegian (Bokmål)
+
+        ..  code-block:: Norwegian (Bokmål)
+
+            Grunnleggende regler
+            ~~~~~~~~~~~~~~~~~~~~
+
+            *Vi anser disse regler for å være selvinnlysende:*
+
+            1. Behandle alle medlemmer av fellesskapet med respekt, uansett rase, kjønnsidentitet, alder, seksuell orientering, handikapp, fysisk fremtoning, nasjonal opprinnelse, etnisitet, tro, religion, o.s.v.
+            2. Respekter kroppslig integritet og avstå fra fysisk påtrengende adferd.
+            3. Ikke start, fortsett eller oppmuntre til personlige angrep, flammekrig og trolling.
+            4. Vi tolererer ikke sjikane, personlige angrep eller nedverdigende adferd. Dette inkluderer påtrengende fotografering eller videopptak, uønsket seksuell oppmerksomhed og bevisst stalking eller forfølgelse.
+            5. Ikke forstyrr foredrag og andre organiserte arrangementer.
+            6. Bruk gyldige kontaktopplysninger (f.eks. Slack, e-post, o.s.v.) som kan besvares direkte.
+
+    ..  group-tab:: Norwegian (Nynorsk)
+
+        ..  code-block:: Norwegian (Nynorsk)
+
+            Grunnleggjande reglar
+            ~~~~~~~~~~~~~~~~~~~~~
+
+            *Me reknar desse reglane for å vera sjølvinnlysande:*
+
+            1. **Behandle alle medlemmer av fellesskapen med respekt**, uansett rase, kjønnsidentitet, alder, seksuell orientering, handikapp, fysisk framtoning, nasjonalt opphav, etnisitet, tru, religion, o.s.v.
+            2. **Respekter kroppsleg integritet** og avstå frå fysisk påtrengjande åtferd.
+            3. **Ikkje start, hald fram eller oppmuntre** til personlege angrep, flammekrig og trolling.
+            4. **Me tolererer ikkje** sjikane, personlege angrep eller nedverdigande åtferd. Dette inkluderer påtrengjande fotografering eller videopptak, uønskt seksuell merksemd og medviten stalking eller forfølging.
+            5. **Ikkje forstyrr foredrag** og andre organiserte arrangement.
+            6. **Bruk gyldige kontaktopplysningar** (t.d. Slack, e-post, o.s.v.) som kan svarast på direkte.
+
+    ..  group-tab:: Portuguese (Brazil)
+
+        ..  code-block:: Portuguese (Brazil)
+
+            Regras básicas
+            ~~~~~~~~~~~~~~
+
+            *Consideramos que as seguintes regras são evidentes:*
+
+            1. **Tratar todos os membros da comunidade com respeito**, independentemente de raça, identidade de género, idade, orientação sexual, deficiência, aparência física, origem nacional, etnia, crenças, religião, etc.
+            2. **Respeitar a integridade corporal** e evitar comportamentos fisicamente intrusivos.
+            3. **Não iniciar, continuar ou incentivar** ataques pessoais, guerras violentas e trolling (trolagem).
+            4. **Não toleramos** assédio, ataques pessoais ou comportamento humilhante. Isso inclui fotografia ou gravação intrusiva, atenção sexual indesejada e perseguição ou espreitar qualquer indivíduo.
+            5. **Não interromper** palestras e outros eventos organizados.
+            6. **Usar informações de contato válidas** (por exemplo, Slack, e-mail, etc.) às quais possam ser feitas respostas diretas.
+
+    ..  group-tab:: Portuguese (Spanish)
+
+        ..  code-block:: Portuguese (Spanish)
+
+            Normas básicas
+            ~~~~~~~~~~~~~~
+
+            *Consideramos estas normas como sobreentendidas:*
+
+            1. **Tratar a todos los miembros de la comunidad con respeto**, independientemente de su raza, identidad de género, edad, orientación sexual, discapacidad, aspecto físico, origen nacional, etnia, creencias, religión, etc.
+            2. **Respetar la integridad corporal** y abstenerse de comportamientos físicamente intrusivos.
+            3. **No empezar, continuar o fomentar** ataques personales, discusiones sin sentido o burlas.
+            4. **No tolerar** el acoso, los ataques personales ni los comportamientos degradantes. Esto incluye fotografías o grabaciones intrusivas, atención sexual no deseada y acoso o seguimiento intencionados.
+            5. **No interrumpir** charlas u otros actos organizados.
+            6. **Utilizar medios de contacto válidos** (como Slack, correo electrónico, etc.) con los que poder responder directamente.
+
+    ..  group-tab:: Swiss German
+
+        ..  code-block:: Swiss German
+
+            Grondregle
+            ~~~~~~~~~~
+
+            *Die Regle send för üs säubstverständlech:*
+
+            1. **Behandle alli Metgleder vo de Gmeinschaft met Respäkt**, onabhängig vo Rasse, Gschlächtsidentität, Alter, sexueller Orientierig, Behenderig, Usgseh, nationaler Härkönft, ethnischer Zueghörigkeit, Glaube, Religion, usw.
+            2. **Respektier die körperleche Gränze vo anderne Mönsche**, ond verhalt dech ned ufdrenglech.
+            3. **Tue niemer persönlech** Aagriife, Beleidie oder Trolle, oder derigs Verhalte **wiiterfüehre oder fördere**.
+            4. **Mer dolded kei Belästigonge**, persönlechi Aagreff oder ernedrigends Verhalte. Zo dem ghört au ufdrenglechs Fotografiere oder Felme, onerwönschti sexualisierte Kommentär, oder vorsätzlechs Stalke ond Verfolge.
+            5. **Stör kei** Vorträg oder anderi Veraastaltige.
+            6. **Nötz göltigi Kontaktinfos** (z.B. Slack oder E-Mail), damet dech anderi Lüüt diräkt chönd kontaktiere.
+
+    ..  group-tab:: Urdu
+
+        ..  code-block:: Urdu
+
+            نیادی قواعد
+            ~~~~~~~~~~~
+
+            ہم ان اصولوں کو خود وضاحتی سمجھتے ہیں۔
+
+            کمیونٹی کے تمام ممبران کے ساتھ عزت کے ساتھ پیش آیئں بلا تفریک ، نسل، جنسی شناخت، عمر، جنسی رجحان، معذوری،شکل و صورت، قومیت، نسل، عقائد، مذہب وغیرہ۔
+            جسمانی سالمیت کا احترام کریں اور جسمانی طور پر مداخلت کرنے والے رویے سے پرہیز کریں۔
+            ذاتیات، شعلہ بیانی اور مذاق اڑانے سے گریز کریں اور ایسے عمل کی حوصلہ افزائی سے بھی گریز کریں ۔
+            ہم ہراساں کرنے، ذاتی حملوں، یا توہین آمیز رویے کو برداشت نہیں کرتے۔ اس میں بلا اجازت فوٹو گرافی یا ریکارڈنگ، ناپسندیدہ جنسی توجہ، اور جان بوجھ کر پیچھا کرنا شامل ہے۔
+            بات چیت اور دیگر منظم پروگراموں میں خلل نہ ڈالیں۔
+            رابطہ کی درست معلومات (مثلاً سلیک، ای میل، وغیرہ) استعمال کریں جس پر براہ راست جواب دیا جا سکے۔
+
+    ..  group-tab:: Welsh
+
+        ..  code-block:: Welsh
+
+            Rheolau Sylfaenol
+            ~~~~~~~~~~~~~~~~~
+
+            *Rydym yn credu bod y rheolau hyn yn gwbl amlwg:*
+
+            1. Trin pob aelod o’r gymuned â pharch, waeth beth fo’u hil, hunaniaeth rhywedd, oedran, cyfeiriadedd rhywiol, anabledd, ymddangosiad corfforol, tarddiad cenedlaethol, ethnigrwydd, credoau, crefydd, ac ati.
+            2. Parchu cyfanrwydd corfforol ac ymatal rhag ymddygiad ymwthiol yn gorfforol.
+            3. Peidiwch â dechrau, parhau, nac annog ymosodiadau personol, a throlio.
+            4. Nid ydym yn goddef aflonyddu, ymosodiadau personol, nac ymddygiad diraddiol. Mae hyn yn cynnwys ffotograffiaeth neu recordio ymwthiol, sylw rhywiol digroeso, a stelcian neu ddilyn.
+            5. Peidiwch ag amharu ar sgyrsiau a digwyddiadau eraill a drefnir.
+            6. Defnyddiwch wybodaeth gyswllt ddilys (e.e. Slack, e-bost, ac ati) y gellir ymateb yn uniongyrchol iddi.
 
 ..  _coc-general-advice:
 
 General Advice
 --------------
 
-*Try to …*
+..  tabs::
 
-1. Give credit when it is deserved.
-2. Ask for help when you are unsure.
-3. Get outside help if you are stuck in a disagreement.
-4. Be respectful of people’s volunteer time.
-5. Be positive and give constructive feedback.
-6. Be aware that language can be difficult—sarcasm and irony is not understood by everyone.
+    ..  group-tab:: English
 
-..  _coc-translations:
+        ..  code-block:: English
 
-Translations of the Code of Conduct
-===================================
+            General Advice
+            --------------
 
-..  _coc-ar:
+            *Try to …*
 
-Arabic
-------
+            1. Give credit when it is deserved.
+            2. Ask for help when you are unsure.
+            3. Get outside help if you are stuck in a disagreement.
+            4. Be respectful of people’s volunteer time.
+            5. Be positive and give constructive feedback.
+            6. Be aware that language can be difficult—sarcasm and irony is not understood by everyone.
 
-.. _coc-ar-basic-rules:
+    ..  group-tab:: Arabic
 
-القواعد الأساسية
-~~~~~~~~~~~~~~~
+        ..  code-block:: Arabic
 
-نحن نعتبر هذه القواعد من البَدِيهِيّات:
+            حاول أن…
+            ~~~~~~~~
 
-تعامل مع جميع أعضاء المجتمع بإحترام، بِغضّ النظر عن العرق، أو الجنس، أو العمر، أو التوجه، أو الإعاقة، أو المظهر الخارجي، أو الهُوِيَّة الوطنية، أو المعتقدات، أو الديانة، والخ.
-احترم خصوصية التعامل بالجسد وامتنع عن السلوكيات الجسديّة الخادشة للحياء.
-لا تبدأ، ولا تشجّع على العنف الجسدي أوعلى الشَخصَنَة، والحُروب الكلامية، والتحريض على الغير.
-نحن لا نتسامح أبداً مع التحرش الجنسي، الهجمات الشخصية، أو السلوك المُهين مع الآخرين. يشمل ذلك التصوير والتجسس على الآخرين، والايماءات الجنسية، ومتابعة الشخص أو مُراقبته عن عَمْد.
-لا تَقُم بتعطيل المُحادثات والأحداث والفَعاليات الأخُرى المنظمة.
-استخدم معلومات تواصل صحيحة (مثل Slack، والبريد الإلكتروني، وما إلى ذلك) والتي يُمكن الردّ عليها بشكل مباشر.
+            حاول أن…
 
-.. _coc-ar-general-advice:
+            تقول شكراً لِمن يستحق الشكر.
+            تطلب المساعدة عندما تكون مُتردداً في شيء ما.
+            تحصل على مساعدة من أطراف خارجيّة إذا كنت عالقاً في خلافٍ ما.
+            تحترم الوقت التطوعي للآخرين.
+            تكون إيجابيّاً وقدم ردود فعل بنّاءة.
+            تنتبه إلى اللغة التي تتكلّم بها، فبعض النُكات أو الفكاهة أو السخرية من شيء ما، قد تكون صعبة الفهم لدى الجميع.
 
-حاول أن…
-~~~~~~~~
+    ..  group-tab:: Chinese (Simplified)
 
-حاول أن…
+        ..  code-block:: Chinese (Simplified)
 
-تقول شكراً لِمن يستحق الشكر.
-تطلب المساعدة عندما تكون مُتردداً في شيء ما.
-تحصل على مساعدة من أطراف خارجيّة إذا كنت عالقاً في خلافٍ ما.
-تحترم الوقت التطوعي للآخرين.
-تكون إيجابيّاً وقدم ردود فعل بنّاءة.
-تنتبه إلى اللغة التي تتكلّم بها، فبعض النُكات أو الفكاهة أو السخرية من شيء ما، قد تكون صعبة الفهم لدى الجميع.
+            一般性提示
+            ~~~~~
 
-..  _coc-zh-hans:
+            1. 请及时给予他人应得的表扬；
+            2. 请在不确定时寻求帮助；
+            3. 请在意见分歧时寻求外界帮助；
+            4. 请尊重志愿者的荣誉工作；
+            5. 请积极提供建设性的反馈；
+            6. 请谨言慎语 - 并非每个人都能理解挖苦和讽刺。
 
-Chinese (Simplified)
---------------------
+    ..  group-tab:: Chinese (Traditional)
 
-..  _coc-zh-hans-basic-rules:
+        ..  code-block:: Chinese (Traditional)
 
-基本原则
-~~~~
+            一般性提示
+            ~~~~~
 
-这些规则对我们来说是理所当然的：
+            1. 請及時給予他人應得的表揚；
+            2. 請在不確定時尋求幫助；
+            3. 請在意見分歧時尋求外界幫助；
+            4. 請尊重志願者的榮譽工作；
+            5. 請積極提供建設性的反饋；
+            6. 請謹言慎語 - 並非每個人都能理解挖苦和諷刺。
 
-1. 尊重所有社区成员，不分种族、性别认同、年龄、性取向、残疾、外貌、国籍、民族、信仰、宗教等；
-2. 尊重他人的身体限制，不要打扰他人；
-3. 请勿对他人进行人身攻击、侮辱或挑衅，并且继续或鼓励这种行为；
-4. 我们不容忍骚扰、人身攻击或有辱人格的行为，包括侵入性拍照和摄影、不受欢迎的色情评论以及故意尾随或跟踪；
-5. 不要扰乱讲座或活动；
-6. 使用有效的联系信息（例如 Slack、E-Mail等），以便其他人可以直接与您联系。
+    ..  group-tab:: Croatian 
 
-..  _coc-zh-hans-general-advice:
+        ..  code-block:: Croatian 
 
-一般性提示
-~~~~~
+            Općenita pravila
+            ~~~~~~~~~~~~~~~~
 
-1. 请及时给予他人应得的表扬；
-2. 请在不确定时寻求帮助；
-3. 请在意见分歧时寻求外界帮助；
-4. 请尊重志愿者的荣誉工作；
-5. 请积极提供建设性的反馈；
-6. 请谨言慎语 - 并非每个人都能理解挖苦和讽刺。
+            *Pokušajte …*
 
-..  _coc-zh-hant:
+            1. Dajte pohvalu po zasluzi
+            2. Zatražite pomoć ukoliko niste sigurni
+            3. Potražite pomoć ako ste zapeli u nesporazumu.
+            4. Poštujte volontersko vrijeme ljudi.
+            5. Budite pozitivni i dajte konstruktivne povratne informacije.
+            6. Budite svjesni da jezik može biti težak - sarkazam i ironiju ne razumiju svi.
 
-Chinese (Traditional)
----------------------
+    ..  group-tab:: Danish 
 
-..  _coc-zh-hant-basic-rules:
+        ..  code-block:: Danish 
 
-基本原則
-~~~~~
+            Generelle råd
+            ~~~~~~~~~~~~~
 
-這些規則對我們來說是理所當然的：
+            *Forsøg at …*
 
-1. 尊重所有社區成員，不分種族、性別認同、年齡、性取向、殘疾、外貌、國籍、民族、信仰、宗教等；
-2. 尊重他人的身體限制，不要打擾他人；
-3. 請勿對他人進行人身攻擊、侮辱或挑釁，並且繼續或鼓勵這種行為；
-4. 我們不容忍騷擾、人身攻擊或有辱人格的行為，包括侵入性拍照和攝影、不受歡迎的色情評論以及故意尾隨或跟踪；
-5. 不要擾亂講座或活動；
-6. 使用有效的聯繫信息（例如 Slack、E-Mail等），以便其他人可以直接與您聯繫。
+            1. **Giv anerkendelse**, når det er fortjent.
+            2. **Bed om hjælp**, når du er usikker.
+            3. **Få hjælp udefra**, hvis du sidder fast i en uenighed.
+            4. **Vær respektfuld** over for folks frivillige tid.
+            5. **Vær positiv** og giv konstruktiv feedback.
+            6. **Vær opmærksom** på, at sprog kan være svært – sarkasme og ironi forstås ikke af alle.
 
-..  _coc-zh-hant-general-advice:
+    ..  group-tab:: Dutch
 
-一般性提示
-~~~~~
+        ..  code-block:: Dutch
 
-1. 請及時給予他人應得的表揚；
-2. 請在不確定時尋求幫助；
-3. 請在意見分歧時尋求外界幫助；
-4. 請尊重志願者的榮譽工作；
-5. 請積極提供建設性的反饋；
-6. 請謹言慎語 - 並非每個人都能理解挖苦和諷刺。
+            Algemeen advies
+            ~~~~~~~~~~~~~~~
 
-..  _coc-hr:
+            *Probeer om …*
 
-Croatian
---------
+            1. Geef credits wanneer het verdiend is.
+            2. Vraag om hulp als je het niet zeker weet.
+            3. Roep hulp van buitenaf in als je vast komt te zitten in een meningsverschil.
+            4. Respecteer de vrijwilligerstijd van mensen.
+            5. Wees positief en geef constructieve feedback.
+            6. Houd er rekening mee dat taal moeilijk kan zijn - sarcasme en ironie wordt niet door iedereen begrepen.
 
-..  _coc-hr-basic-rules:
+    ..  group-tab:: French
 
-Osnovna pravila
-~~~~~~~~~~~~~~~
+        ..  code-block:: French
 
-*Smatramo da su ova pravila očigledna:*
+            Conseils généraux
+            ~~~~~~~~~~~~~~~~~
 
-1. Ponašajte se s poštovanjem prema svim članovima zajednice, bez obzira na rasu, rodni identitet, dob, seksualnu orijentaciju, invaliditet, fizički izgled, nacionalno podrijetlo, etničku pripadnost, uvjerenja, vjeru itd.
-2. Poštujte tjelesni integritet i suzdržite se od fizički nametljivog ponašanja.
-3. Nemojte počinjati, nastavljati ili poticati osobne napade, negativne rasprave i trolanje.
-4. Ne toleriramo uznemiravanje, osobne napade ili ponižavajuće ponašanje. To uključuje nametljivo fotografiranje ili snimanje, neželjenu seksualnu pažnju i namjerno uhođenje ili praćenje.
-5. Nemojte ometati govore i druge organizirane događaje.
-6. Koristite valjane podatke za kontakt (npr. Slack, e-poštu, itd.) na koje možete izravno odgovoriti.
+            *Essayez :*
 
-..  _coc-hr-general-advice:
+            1. **D'accorder du crédit** lorsqu'il est mérité.
+            2. **De demander de l'aide** lorsque vous n'êtes pas sûr de vous.
+            3. **De demander de l'aide extérieure** si vous êtes coincé dans un désaccord.
+            4. **De respecter** le temps que les gens consacrent au bénévolat.
+            5. **D'être positif** et de donner un feedback constructif.
+            6. **Sachez que le langage** peut être difficile - le sarcasme et l'ironie ne sont pas compris par tout le monde.
 
-Općenita pravila
-~~~~~~~~~~~~~~~~
+    ..  group-tab:: German
 
-*Pokušajte …*
+        ..  code-block:: German
 
-1. Dajte pohvalu po zasluzi
-2. Zatražite pomoć ukoliko niste sigurni
-3. Potražite pomoć ako ste zapeli u nesporazumu.
-4. Poštujte volontersko vrijeme ljudi.
-5. Budite pozitivni i dajte konstruktivne povratne informacije.
-6. Budite svjesni da jezik može biti težak - sarkazam i ironiju ne razumiju svi.
+            Allgemeine Hinweise
+            ~~~~~~~~~~~~~~~~~~~
 
-..  _coc-da:
+            1. **Zolle Anerkennung**, wenn die Person es verdient hat.
+            2. **Frage nach Hilfe**, wenn du dir unsicher bist.
+            3. **Hol dir Hilfe von außen**, wenn du in einer Meinungsverschiedenheit feststeckst.
+            4. **Respektiere** die freiwillige und ehrenamtliche Arbeit.
+            5. **Sei positiv** und gib konstruktives Feedback.
+            6. **Beachte**, dass Sprache schwierig sein kann - Sarkasmus und Ironie wird nicht von jeder Person verstanden.
 
-Danish
-------
+    ..  group-tab:: Hindi
 
-..  _coc-da-basic-rules:
+        ..  code-block:: Hindi
 
-Grundlæggende regler
-~~~~~~~~~~~~~~~~~~~~
+            बेसिक नियम
+            ~~~~~~~~
 
-*Vi anser disse regler for at være indlysende:*
+            *हम ये नियम स्वतंत्र स्पष्ट स्थान रखते हैं*
 
-1. **Behandl alle medlemmer af fællesskabet med respekt**, uanset race, kønsidentitet, alder, seksuel orientering, handicap, fysisk fremtoning, national oprindelse, etnicitet, tro, religion osv.
-2. **Respekter den kropslige integritet** og afstå fra fysisk påtrængende adfærd.
-3. **Du må ikke starte, fortsætte eller opmuntre** til personlige angreb, flammekrige og trolling.
-4. **Vi tolererer ikke** chikane, personlige angreb eller nedgørende adfærd. Dette inkluderer påtrængende fotografering eller optagelse, uønsket seksuel opmærksomhed og bevidst stalking eller forfølgelse.
-5. **Forstyr ikke** taler og andre organiserede begivenheder.
-6. **Brug gyldige kontaktoplysninger** (f.eks. Slack, e-mail osv.), som kan besvares direkte.
+            1. सभी समुदाय सदस्यों को सम्मान के साथ संवेदनशील रूप से बतायें, जो कि रेस, जेंडर पहचान, आयु, सेक्सुअल ओरिएंटेशन, दिव्यांगता, शारीरिक दिखने की, राष्ट्रीय उत्पत्ति, जाति, विश्वास, धार्मिक आदि से संबंधित नहीं
+            2. शारीरिक स्थिति को सम्मान करें और शारीरिक सम्बन्ध से असंबद्ध व्यवहार से बचें
+            3. व्यक्तिगत हमलों, आग वर्स, और ट्रोलिंग को शुरू न करें, जारी न रखें या समर्थित न करें
+            4. "हम हमले, व्यक्तिगत हमले या अपमानजनक व्यवहार को सहन नहीं करते। यह अतिक्रमणकारी फोटोग्राफी या रिकॉर्डिंग, अवांछित सेक्सुअल ध्यान, और सावधानी से स्टाकिंग या अग्रसरी शामिल है
+            5. कुछ बोलचाल और अन्य संयोजित कार्यक्रमों में बाधा न डालें।
+            6. संपर्क करने के लिए मान्य संपर्क जानकारी (उदाहरण के लिए स्लैक, ईमेल आदि) का उपयोग करें, जिससे सीधे प्रतिक्रिया की जा सके।
 
-..  _coc-da-general-advice:
+    ..  group-tab:: Indonesian
 
-Generelle råd
-~~~~~~~~~~~~~
+        ..  code-block:: Indonesian
 
-*Forsøg at …*
+            Saran Umum
+            ~~~~~~~~~~
 
-1. **Giv anerkendelse**, når det er fortjent.
-2. **Bed om hjælp**, når du er usikker.
-3. **Få hjælp udefra**, hvis du sidder fast i en uenighed.
-4. **Vær respektfuld** over for folks frivillige tid.
-5. **Vær positiv** og giv konstruktiv feedback.
-6. **Vær opmærksom** på, at sprog kan være svært – sarkasme og ironi forstås ikke af alle.
+            *Mencoba untuk …*
 
-..  _coc-nl:
+            1. **Berikan pujian** jika memang pantas.
+            2. **Mintalah bantuan** saat Anda tidak yakin.
+            3. **Dapatkan bantuan** dari luar jika Anda masuk dalam perselisihan.
+            4. **Hormati waktu** luang yang diberikan orang lain.
+            5. **Bersikaplah positif** dan berikan umpan balik yang membangun.
+            6. **Sadarilah bahwa bahasa** tidak selalu bisa dipahami terkadang sulit terkesan sarkastik dan tidak mudah dipahami oleh semua orang.
 
-Dutch
------
+    ..  group-tab:: Italian 
 
-..  _coc-nl-basic-rules:
+        ..  code-block:: Italian 
 
-Basisregels
-~~~~~~~~~~~
+            Raccomandazioni generiche
+            ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Deze regels beschouwen wij als vanzelfsprekend:*
+            *Cerca di …*
 
-1. Behandel alle leden van de community met respect, ongeacht ras, genderidentiteit, leeftijd, seksuele geaardheid, handicap, fysieke verschijning, nationale afkomst, etniciteit, overtuigingen, religie, etc.
-2. Respecteer de lichamelijke integriteit en onthoud u van fysiek opdringerig gedrag.
-3. Begin niet, ga niet door met persoonlijke aanvallen, flame wars en trolling en moedig ze niet aan.
-4. We tolereren geen intimidatie, persoonlijke aanvallen of vernederend gedrag. Dit omvat opdringerige fotografie of opname, ongewenste seksuele aandacht en opzettelijk stalken of volgen.
-5. Verstoor lezingen en andere georganiseerde evenementen niet.
-6. Gebruik geldige contactgegevens (bijv. Slack, e-mail, enz.) waarop direct kan worden gereageerd.
+            1. **Riconoscere il merito** quando è dovuto
+            2. **Chiedere aiuto** quando non sei sicuro.
+            3. **Cercare aiuto all’esterno** se sei bloccato in una disputa.
+            4. **Essere rispettoso** del tempo di volontariato delle persone.
+            5. **Essere positivo** e dare suggerimenti costruttivi.
+            6. **Tenere presente** che il linguaggio può essere problematico: sarcasmo ed ironia non sono compresi da tutti.
 
-..  _coc-nl-general-advice:
+    ..  group-tab:: Norwegian (Bokmål)
 
-Algemeen advies
-~~~~~~~~~~~~~~~
+        ..  code-block:: Norwegian (Bokmål)
 
-*Probeer om …*
+            Generelle råd
+            ~~~~~~~~~~~~~
 
-1. Geef credits wanneer het verdiend is.
-2. Vraag om hulp als je het niet zeker weet.
-3. Roep hulp van buitenaf in als je vast komt te zitten in een meningsverschil.
-4. Respecteer de vrijwilligerstijd van mensen.
-5. Wees positief en geef constructieve feedback.
-6. Houd er rekening mee dat taal moeilijk kan zijn - sarcasme en ironie wordt niet door iedereen begrepen.
+            Forsøk …
 
-..  _coc-fr:
+            1. **Å gi anerkjennelse** når det er fortjent.
+            2. **Å be om hjelp** når du er usikker.
+            3. **Å hente hjelp utefra** hvis du sitter fast i en uenighet.
+            4. **Å vise respekt** for tiden folk bruker på dugnad.
+            5. **Å være positiv** og gi konstruktive tilbakemeldinger.
+            6. **Å være oppmerksom** på at språk kan være vanskelig. Sarkasme og ironi er ikke noe alle forstår.
 
-French
-------
+    ..  group-tab:: Norwegian (Nynorsk)
 
-..  _coc-fr-basic-rules:
+        ..  code-block:: Norwegian (Nynorsk)
 
-Règles de base
-~~~~~~~~~~~~~~
+            Generelle råd
+            ~~~~~~~~~~~~~
 
-*Nous considérons que ces règles sont évidentes :*
+            *Forsøk …*
 
-1. **Traiter tous les membres de la communauté avec respect**, sans distinction de race, d'identité sexuelle, d'âge, d'orientation sexuelle, de handicap, d'apparence physique, d'origine nationale, d'ethnie, de croyances, de religion, etc.
-2. **Respecter l'intégrité corporelle** et s'abstenir de tout comportement physiquement intrusif.
-3. **Ne lancez pas, ne poursuivez pas et n'encouragez** pas les attaques personnelles, les guerres de mots et les trolls.
-4. **Nous ne tolérons** pas le harcèlement, les attaques personnelles ou les comportements dégradants. Cela inclut les photographies ou les enregistrements intrusifs, les attentions sexuelles non désirées et le harcèlement ou la filature délibérés.
-5. **Ne perturbez** pas les conférences et autres événements organisés.
-6. **Utilisez des coordonnées valides** (par exemple, Slack, e-mail, etc.) auxquelles des réponses directes peuvent être apportées.
+            1. **Å gi anerkjenning** når det er fortent.
+            2. **Å be om hjelp** når du er usikker.
+            3. **Å henta hjelp utefrå** viss du sit fast i ei usemje.
+            4. **Å visa respekt** for tida folk bruker på dugnad.
+            5. **Å vera positiv** og gi konstruktive tilbakemeldingar.
+            6. **Å vera merksam** på at språk kan vera vanskeleg. Sarkasme og ironi er ikkje noko alle forstår.
 
-..  _coc-fr-general-advice:
+    ..  group-tab:: Portuguese (Brazil)
 
-Conseils généraux
-~~~~~~~~~~~~~~~~~
+        ..  code-block:: Portuguese (Brazil)
 
-*Essayez :*
+            Conselhos gerais
+            ~~~~~~~~~~~~~~~~
 
-1. **D'accorder du crédit** lorsqu'il est mérité.
-2. **De demander de l'aide** lorsque vous n'êtes pas sûr de vous.
-3. **De demander de l'aide extérieure** si vous êtes coincé dans un désaccord.
-4. **De respecter** le temps que les gens consacrent au bénévolat.
-5. **D'être positif** et de donner un feedback constructif.
-6. **Sachez que le langage** peut être difficile - le sarcasme et l'ironie ne sont pas compris par tout le monde.
+            *Busque …*
 
-..  _coc-de:
+            1. **Dar crédito** quando merecido.
+            2. **Pedir ajuda** quando tiver dúvida.
+            3. **Obter ajuda externa** se não conseguir resolver um desentendimento.
+            4. **Respeitar o tempo** de voluntariado das pessoas.
+            5. **Ser positivo** e dar feedback construtivo.
+            6. **Estar ciente** de que a linguagem pode ser difícil – o sarcasmo e a ironia não são compreendidos por todos.
 
-German
-------
+    ..  group-tab:: Swiss German
 
-..  _coc-de-basic-rules:
+        ..  code-block:: Swiss German
 
-Grundregeln
-~~~~~~~~~~~
+            Recomendaciones generales
+            ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Diese Regeln sind für uns selbstverständlich:*
+            *Trata de …*
 
-1. **Behandle alle Mitglieder der Community mit Respekt**, unabhängig von Rasse, Geschlechtsidentität, Alter, sexueller Orientierung, Behinderung, Aussehen, nationaler Herkunft, ethnischer Zugehörigkeit, Glauben, Religion usw.
-2. **Respektiere die körperlichen Grenzen anderer Menschen** und verhalte dich nicht aufdringlich.
-3. **Beginne keine** persönlichen Angriffe, Beleidigungen und Trolling, **führe sie weiter oder ermutige andere dazu**.
-4. Wir dulden keine Belästigungen, persönliche Angriffe oder erniedrigendes Verhalten. Dazu gehören aufdringliches Fotografieren und Filmen, unerwünschte sexualisierte Kommentare und vorsätzliches Stalken oder Verfolgen.
-5. **Störe** Vorträge oder Veranstaltungen **nicht**.
-6. **Nutze gültige Kontaktinformationen** (z.B. Slack, E-Mail usw.), damit andere Leute dich direkt kontaktieren können.
+            1. **Reconocer el mérito** cuando se merece.
+            2. **Pedir ayuda** cuando tengas dudas.
+            3. **Buscar ayuda externa** si estás en un conflicto.
+            4. **Respetar el tiempo** de los demás.
+            5. **Ser una persona positiva** y ofrecer comentarios constructivos.
+            6. **Tener en cuenta que el lenguaje puede ser difícil:** no todo el mundo entiende el sarcasmo y la ironía de la misma manera.
 
-..  _coc-de-general-advice:
+    ..  group-tab:: Swiss German
 
-Allgemeine Hinweise
-~~~~~~~~~~~~~~~~~~~
+        ..  code-block:: Swiss German
 
-1. **Zolle Anerkennung**, wenn die Person es verdient hat.
-2. **Frage nach Hilfe**, wenn du dir unsicher bist.
-3. **Hol dir Hilfe von außen**, wenn du in einer Meinungsverschiedenheit feststeckst.
-4. **Respektiere** die freiwillige und ehrenamtliche Arbeit.
-5. **Sei positiv** und gib konstruktives Feedback.
-6. **Beachte**, dass Sprache schwierig sein kann - Sarkasmus und Ironie wird nicht von jeder Person verstanden.
+            Allgemeini Hewiis
+            ~~~~~~~~~~~~~~~~~
 
-..  _coc-hi:
+            1. **Verteil Annerkönnig**, wenns verdient esch.
+            2. **Frog noch Helf**, falls der onsecher besch.
+            3. **Hol der externi Helf**, wennd inere Meinigsverschedeheit festgfahre besch.
+            4. **Respketier** die freiwellig ond ehreamtlech Arbet vo anderne.
+            5. **Bes postitiv**, ond mach konstruktivi Vorschläg.
+            6. **Bes der bewosst**, das Sproch cha schwerig si - Sarkasmus ond Ironie verstod ned jede glich.
 
-Hindi
------
+    ..  group-tab:: Urdu 
 
-..  _coc-hi-basic-rules:
+        ..  code-block:: Urdu 
 
-महत्वपूर्ण सलाह
-~~~~~~~~~~
+            عمومی مشورہ
+            ~~~~~~~~~~~
 
-*कोशिश करें ...*
+            کوشش کریں ..
 
-1. जब कोई क्षण को सम्मान की जरूरत हो तब उसे क्रेडिट दें।
-2. अगर आप संदेह में हैं, तो सहायता के लिए पूछें।
-3. अगर आप कोई असंमति में हो रहे हैं, तो बाहरी सहायता प्राप्त करें।
-4. लोगों के स्वेच्छा से काम करने वाले का समय सम्मान करें।
-5. सकारात्मक रहें और निर्मल सुझाव दें।
-6. ध्यान रखें कि भाषा कठिन हो सकती है - सार्कास्ट और इरोनी सब को समझ में नहीं आती।
+            حوصلہ افزائی کے مستحق کی حوصلہ افزائی کریں
+            جب آپ کو یقین نہ ہو تو مدد طلب کریں۔
+            اگر آپ کسی اختلاف میں پھنس گئے ہیں تو باہر سے مدد حاصل کریں۔
+            لوگوں کے رضاکارانہ وقت کا احترام کریں۔
+            مثبت رہیں اور مفید رائے دیں۔
+            اگاہ رہیں کے مشکل زبان کو سمجھنا دوسروں ک لیے مشکل ہو سکتا ہے
 
-..  _coc-hi-general-advice:
+    ..  group-tab:: Welsh
 
-बेसिक नियम
-~~~~~~~~
+        ..  code-block:: Welsh
 
-*हम ये नियम स्वतंत्र स्पष्ट स्थान रखते हैं*
+            Cyngor Cyffredinol
+            ~~~~~~~~~~~~~~~~~~
 
-1. सभी समुदाय सदस्यों को सम्मान के साथ संवेदनशील रूप से बतायें, जो कि रेस, जेंडर पहचान, आयु, सेक्सुअल ओरिएंटेशन, दिव्यांगता, शारीरिक दिखने की, राष्ट्रीय उत्पत्ति, जाति, विश्वास, धार्मिक आदि से संबंधित नहीं
-2. शारीरिक स्थिति को सम्मान करें और शारीरिक सम्बन्ध से असंबद्ध व्यवहार से बचें
-3. व्यक्तिगत हमलों, आग वर्स, और ट्रोलिंग को शुरू न करें, जारी न रखें या समर्थित न करें
-4. "हम हमले, व्यक्तिगत हमले या अपमानजनक व्यवहार को सहन नहीं करते। यह अतिक्रमणकारी फोटोग्राफी या रिकॉर्डिंग, अवांछित सेक्सुअल ध्यान, और सावधानी से स्टाकिंग या अग्रसरी शामिल है
-5. कुछ बोलचाल और अन्य संयोजित कार्यक्रमों में बाधा न डालें।
-6. संपर्क करने के लिए मान्य संपर्क जानकारी (उदाहरण के लिए स्लैक, ईमेल आदि) का उपयोग करें, जिससे सीधे प्रतिक्रिया की जा सके।
+            Ceisiwch …
 
-..  _coc-id:
+            1. Rhowch glod pan fydd yn haeddiannol.
+            2. Gofynnwch am help pan fyddwch chi'n ansicr.
+            3. Mynnwch gymorth allanol os ydych yn anghytuno.
+            4. Byddwch yn barchus o amser gwirfoddolwyr pobl.
+            5. Byddwch yn gadarnhaol a rhowch adborth adeiladol.
+            6. Byddwch yn ymwybodol y gall iaith fod yn anodd — nid yw coegni ac eironi yn cael eu deall gan bawb.
 
-Indonesian
-----------
-
-..  _coc-id-basic-rules:
-
-Aturan Dasar
-~~~~~~~~~~~~
-
-*Kami memegang aturan ini untuk menjadi dasar dari prisip kami:*
-
-1. **Memperlakukan semua anggota masyarakat dengan hormat**, tanpa memandang ras, identitas gender, usia, disabilitas, penampilan fisik, asal kebangsaan, suku, kepercayaan, agama, dll.
-2. **Mengormati integritas** dan menghindari perilaku yang mengganggu secara fisik.
-3. **Jangan memulai, melanjutkan, atau mendorong** konflik pribadi, perkelahian, dan saling mengolok.
-4. **Kami tidak mentolerir pelecehan**, perilaku agresif, atau perilaku yang merendahkan. Ini termasuk membuat gambar gambar atau rekaman yang mengganggu, pelecehan seksual dengan mengikuti dengan sengaja.
-5. **Jangan mengganggu pembicaraan** dan acara yang terorganisir lainnya.
-6. **Gunakan informasi kontak yang valid** (mis. Slack, email, dll.) yang dapat ditanggapi secara langsung.
-
-..  _coc-id-general-advice:
-
-Saran Umum
-~~~~~~~~~~
-
-*Mencoba untuk …*
-
-1. **Berikan pujian** jika memang pantas.
-2. **Mintalah bantuan** saat Anda tidak yakin.
-3. **Dapatkan bantuan** dari luar jika Anda masuk dalam perselisihan.
-4. **Hormati waktu** luang yang diberikan orang lain.
-5. **Bersikaplah positif** dan berikan umpan balik yang membangun.
-6. **Sadarilah bahwa bahasa** tidak selalu bisa dipahami terkadang sulit terkesan sarkastik dan tidak mudah dipahami oleh semua orang.
-
-..  _coc-it:
-
-Italian
--------
-
-..  _coc-it-basic-rules:
-
-Regole di base
-~~~~~~~~~~~~~~
-
-*Consideriamo queste regole ovvie*
-
-1. **Tratta tutti i membri della comunità con rispetto** indipendentemente dalla razza, identità di genere, età, orientamento sessuale, disabilità, aspetto fisico, nazionalità di origine, etnia, credenze, religione, ecc.
-2. **Rispetta l'integrità fisica** ed evita comportamenti fisicamente invadenti.
-3. **Non iniziare, proseguire o incoraggiare** attacchi personali, risse virtuali e trolling.
-4. **Non tolleriamo** molestie, attacchi personali o comportamenti degradanti. Questo include fotografie o registrazioni intrusive, attenzioni sessuali indesiderate e stalking o pedinamento intenzionale.
-5. **Non disturbare** le conferenze ed altri eventi organizzati.
-6. **Utilizza informazioni di contatto valide** (ad es. Slack, e-mail, ecc.) a cui è possibile fornire risposte dirette.
-
-
-..  _coc-it-general-advice:
-
-Raccomandazioni generiche
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Cerca di …*
-
-1. **Riconoscere il merito** quando è dovuto
-2. **Chiedere aiuto** quando non sei sicuro.
-3. **Cercare aiuto all’esterno** se sei bloccato in una disputa.
-4. **Essere rispettoso** del tempo di volontariato delle persone.
-5. **Essere positivo** e dare suggerimenti costruttivi.
-6. **Tenere presente** che il linguaggio può essere problematico: sarcasmo ed ironia non sono compresi da tutti.
-
-..  _coc-nb:
-
-Norwegian (Bokmål)
-------------------
-
-..  _coc-nb-basic-rules:
-
-Grunnleggende regler
-~~~~~~~~~~~~~~~~~~~~
-
-*Vi anser disse regler for å være selvinnlysende:*
-
-1. Behandle alle medlemmer av fellesskapet med respekt, uansett rase, kjønnsidentitet, alder, seksuell orientering, handikapp, fysisk fremtoning, nasjonal opprinnelse, etnisitet, tro, religion, o.s.v.
-2. Respekter kroppslig integritet og avstå fra fysisk påtrengende adferd.
-3. Ikke start, fortsett eller oppmuntre til personlige angrep, flammekrig og trolling.
-4. Vi tolererer ikke sjikane, personlige angrep eller nedverdigende adferd. Dette inkluderer påtrengende fotografering eller videopptak, uønsket seksuell oppmerksomhed og bevisst stalking eller forfølgelse.
-5. Ikke forstyrr foredrag og andre organiserte arrangementer.
-6. Bruk gyldige kontaktopplysninger (f.eks. Slack, e-post, o.s.v.) som kan besvares direkte.
-
-..  _coc-nb-general-advice:
-
-Generelle råd
-~~~~~~~~~~~~~
-
-Forsøk …
-
-1. **Å gi anerkjennelse** når det er fortjent.
-2. **Å be om hjelp** når du er usikker.
-3. **Å hente hjelp utefra** hvis du sitter fast i en uenighet.
-4. **Å vise respekt** for tiden folk bruker på dugnad.
-5. **Å være positiv** og gi konstruktive tilbakemeldinger.
-6. **Å være oppmerksom** på at språk kan være vanskelig. Sarkasme og ironi er ikke noe alle forstår.
-
-..  _coc-nn:
-
-Norwegian (Nynorsk)
--------------------
-
-..  _coc-nn-basic-rules:
-
-Grunnleggjande reglar
-~~~~~~~~~~~~~~~~~~~~~
-
-*Me reknar desse reglane for å vera sjølvinnlysande:*
-
-1. **Behandle alle medlemmer av fellesskapen med respekt**, uansett rase, kjønnsidentitet, alder, seksuell orientering, handikapp, fysisk framtoning, nasjonalt opphav, etnisitet, tru, religion, o.s.v.
-2. **Respekter kroppsleg integritet** og avstå frå fysisk påtrengjande åtferd.
-3. **Ikkje start, hald fram eller oppmuntre** til personlege angrep, flammekrig og trolling.
-4. **Me tolererer ikkje** sjikane, personlege angrep eller nedverdigande åtferd. Dette inkluderer påtrengjande fotografering eller videopptak, uønskt seksuell merksemd og medviten stalking eller forfølging.
-5. **Ikkje forstyrr foredrag** og andre organiserte arrangement.
-6. **Bruk gyldige kontaktopplysningar** (t.d. Slack, e-post, o.s.v.) som kan svarast på direkte.
-
-..  _coc-nn-general-advice:
-
-Generelle råd
-~~~~~~~~~~~~~
-
-*Forsøk …*
-
-1. **Å gi anerkjenning** når det er fortent.
-2. **Å be om hjelp** når du er usikker.
-3. **Å henta hjelp utefrå** viss du sit fast i ei usemje.
-4. **Å visa respekt** for tida folk bruker på dugnad.
-5. **Å vera positiv** og gi konstruktive tilbakemeldingar.
-6. **Å vera merksam** på at språk kan vera vanskeleg. Sarkasme og ironi er ikkje noko alle forstår.
-
-..  _coc-pt-br:
-
-Portuguese (Brazil)
-------
-
-..  _coc-pt-br-basic-rules:
-
-Regras básicas
-~~~~~~~~~~~~~~
-
-*Consideramos que as seguintes regras são evidentes:*
-
-1. **Tratar todos os membros da comunidade com respeito**, independentemente de raça, identidade de género, idade, orientação sexual, deficiência, aparência física, origem nacional, etnia, crenças, religião, etc.
-2. **Respeitar a integridade corporal** e evitar comportamentos fisicamente intrusivos.
-3. **Não iniciar, continuar ou incentivar** ataques pessoais, guerras violentas e trolling (trolagem).
-4. **Não toleramos** assédio, ataques pessoais ou comportamento humilhante. Isso inclui fotografia ou gravação intrusiva, atenção sexual indesejada e perseguição ou espreitar qualquer indivíduo.
-5. **Não interromper** palestras e outros eventos organizados.
-6. **Usar informações de contato válidas** (por exemplo, Slack, e-mail, etc.) às quais possam ser feitas respostas diretas.
-
-..  _coc-pt-br-general-advice:
-
-Conselhos gerais
-~~~~~~~~~~~~~~~~
-
-*Busque …*
-
-1. **Dar crédito** quando merecido.
-2. **Pedir ajuda** quando tiver dúvida.
-3. **Obter ajuda externa** se não conseguir resolver um desentendimento.
-4. **Respeitar o tempo** de voluntariado das pessoas.
-5. **Ser positivo** e dar feedback construtivo.
-6. **Estar ciente** de que a linguagem pode ser difícil – o sarcasmo e a ironia não são compreendidos por todos.
-
-..  _coc-es:
-
-Spanish
--------
-
-..  _coc-es-basic-rules:
-
-Normas básicas
-~~~~~~~~~~~~~~
-
-*Consideramos estas normas como sobreentendidas:*
-
-1. **Tratar a todos los miembros de la comunidad con respeto**, independientemente de su raza, identidad de género, edad, orientación sexual, discapacidad, aspecto físico, origen nacional, etnia, creencias, religión, etc.
-2. **Respetar la integridad corporal** y abstenerse de comportamientos físicamente intrusivos.
-3. **No empezar, continuar o fomentar** ataques personales, discusiones sin sentido o burlas.
-4. **No tolerar** el acoso, los ataques personales ni los comportamientos degradantes. Esto incluye fotografías o grabaciones intrusivas, atención sexual no deseada y acoso o seguimiento intencionados.
-5. **No interrumpir** charlas u otros actos organizados.
-6. **Utilizar medios de contacto válidos** (como Slack, correo electrónico, etc.) con los que poder responder directamente.
-
-..  _coc-es-general-advice:
-
-Recomendaciones generales
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Trata de …*
-
-1. **Reconocer el mérito** cuando se merece.
-2. **Pedir ayuda** cuando tengas dudas.
-3. **Buscar ayuda externa** si estás en un conflicto.
-4. **Respetar el tiempo** de los demás.
-5. **Ser una persona positiva** y ofrecer comentarios constructivos.
-6. **Tener en cuenta que el lenguaje puede ser difícil:** no todo el mundo entiende el sarcasmo y la ironía de la misma manera.
-
-..  _coc-de-ch:
-
-Swiss German
-------------
-
-..  _coc-de-ch-basic-rules:
-
-Grondregle
-~~~~~~~~~~
-
-*Die Regle send för üs säubstverständlech:*
-
-1. **Behandle alli Metgleder vo de Gmeinschaft met Respäkt**, onabhängig vo Rasse, Gschlächtsidentität, Alter, sexueller Orientierig, Behenderig, Usgseh, nationaler Härkönft, ethnischer Zueghörigkeit, Glaube, Religion, usw.
-2. **Respektier die körperleche Gränze vo anderne Mönsche**, ond verhalt dech ned ufdrenglech.
-3. **Tue niemer persönlech** Aagriife, Beleidie oder Trolle, oder derigs Verhalte **wiiterfüehre oder fördere**.
-4. **Mer dolded kei Belästigonge**, persönlechi Aagreff oder ernedrigends Verhalte. Zo dem ghört au ufdrenglechs Fotografiere oder Felme, onerwönschti sexualisierte Kommentär, oder vorsätzlechs Stalke ond Verfolge.
-5. **Stör kei** Vorträg oder anderi Veraastaltige.
-6. **Nötz göltigi Kontaktinfos** (z.B. Slack oder E-Mail), damet dech anderi Lüüt diräkt chönd kontaktiere.
-
-..  _coc-de-ch-general-advice:
-
-Allgemeini Hewiis
-~~~~~~~~~~~~~~~~~
-
-1. **Verteil Annerkönnig**, wenns verdient esch.
-2. **Frog noch Helf**, falls der onsecher besch.
-3. **Hol der externi Helf**, wennd inere Meinigsverschedeheit festgfahre besch.
-4. **Respketier** die freiwellig ond ehreamtlech Arbet vo anderne.
-5. **Bes postitiv**, ond mach konstruktivi Vorschläg.
-6. **Bes der bewosst**, das Sproch cha schwerig si - Sarkasmus ond Ironie verstod ned jede glich.
-
-..  _coc-ur:
-
-Urdu
-----
-
-..  _coc-ur-basic-rules:
-
-نیادی قواعد
-~~~~~~~~~~~
-
-ہم ان اصولوں کو خود وضاحتی سمجھتے ہیں۔
-
-کمیونٹی کے تمام ممبران کے ساتھ عزت کے ساتھ پیش آیئں بلا تفریک ، نسل، جنسی شناخت، عمر، جنسی رجحان، معذوری،شکل و صورت، قومیت، نسل، عقائد، مذہب وغیرہ۔
-جسمانی سالمیت کا احترام کریں اور جسمانی طور پر مداخلت کرنے والے رویے سے پرہیز کریں۔
-ذاتیات، شعلہ بیانی اور مذاق اڑانے سے گریز کریں اور ایسے عمل کی حوصلہ افزائی سے بھی گریز کریں ۔
-ہم ہراساں کرنے، ذاتی حملوں، یا توہین آمیز رویے کو برداشت نہیں کرتے۔ اس میں بلا اجازت فوٹو گرافی یا ریکارڈنگ، ناپسندیدہ جنسی توجہ، اور جان بوجھ کر پیچھا کرنا شامل ہے۔
-بات چیت اور دیگر منظم پروگراموں میں خلل نہ ڈالیں۔
-رابطہ کی درست معلومات (مثلاً سلیک، ای میل، وغیرہ) استعمال کریں جس پر براہ راست جواب دیا جا سکے۔
-
-
-..  _coc-ur-general-advice:
-
-عمومی مشورہ
-~~~~~~~~~~~
-
-کوشش کریں ..
-
-حوصلہ افزائی کے مستحق کی حوصلہ افزائی کریں
-جب آپ کو یقین نہ ہو تو مدد طلب کریں۔
-اگر آپ کسی اختلاف میں پھنس گئے ہیں تو باہر سے مدد حاصل کریں۔
-لوگوں کے رضاکارانہ وقت کا احترام کریں۔
-مثبت رہیں اور مفید رائے دیں۔
-اگاہ رہیں کے مشکل زبان کو سمجھنا دوسروں ک لیے مشکل ہو سکتا ہے
-
-..  _coc-cy:
-
-Welsh
------
-
-..  _coc-cy-basic-rules:
-
-Rheolau Sylfaenol
-~~~~~~~~~~~~~~~~~
-
-*Rydym yn credu bod y rheolau hyn yn gwbl amlwg:*
-
-1. Trin pob aelod o’r gymuned â pharch, waeth beth fo’u hil, hunaniaeth rhywedd, oedran, cyfeiriadedd rhywiol, anabledd, ymddangosiad corfforol, tarddiad cenedlaethol, ethnigrwydd, credoau, crefydd, ac ati.
-2. Parchu cyfanrwydd corfforol ac ymatal rhag ymddygiad ymwthiol yn gorfforol.
-3. Peidiwch â dechrau, parhau, nac annog ymosodiadau personol, a throlio.
-4. Nid ydym yn goddef aflonyddu, ymosodiadau personol, nac ymddygiad diraddiol. Mae hyn yn cynnwys ffotograffiaeth neu recordio ymwthiol, sylw rhywiol digroeso, a stelcian neu ddilyn.
-5. Peidiwch ag amharu ar sgyrsiau a digwyddiadau eraill a drefnir.
-6. Defnyddiwch wybodaeth gyswllt ddilys (e.e. Slack, e-bost, ac ati) y gellir ymateb yn uniongyrchol iddi.
-
-..  _coc-cy-general-advice:
-
-Cyngor Cyffredinol
-~~~~~~~~~~~~~~~~~~
-
-Ceisiwch …
-
-1. Rhowch glod pan fydd yn haeddiannol.
-2. Gofynnwch am help pan fyddwch chi'n ansicr.
-3. Mynnwch gymorth allanol os ydych yn anghytuno.
-4. Byddwch yn barchus o amser gwirfoddolwyr pobl.
-5. Byddwch yn gadarnhaol a rhowch adborth adeiladol.
-6. Byddwch yn ymwybodol y gall iaith fod yn anodd — nid yw coegni ac eironi yn cael eu deall gan bawb.
 
 .. _coc-handling-violations:
 
