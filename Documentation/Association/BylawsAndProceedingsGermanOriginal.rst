@@ -270,7 +270,7 @@ Der Vereinsvorstand ist im Rahmen von Gesetz und Statuten für die Besorgung der
 #. Vorbereitung der Geschäfte der Generalversammlung;
 #. Durchführung der Beschlüsse der Generalversammlung;
 #. Einsetzung von Ausschüssen und Einzelpersonen ohne Entscheidungsbefugnisse für besondere Aufgaben;
-#. Budgetantrag an den Sachverständigenrat;
+#. Budgetantrag an die Geschäftsprüfungskommission;
 #. Erstellen der Jahresrechnung;
 #. Beschlussfassung über vorläufige Aufnahme und Ausschluss von Mitgliedern;
 #. Beschlussfassung in sonstigen Angelegenheiten von besonderer Bedeutung auf Antrag des Vereinsvorstands.
