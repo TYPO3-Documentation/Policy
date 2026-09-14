@@ -259,3 +259,9 @@ Frequently Asked Questions
     an additional level of control. The General Assembly has supreme
     decision-making authority in the TYPO3 Association and can always override
     or force a change to happen.
+
+**11. Is the Unit Cooperation Panel a Product Owner according to the SCRUM definition?**
+    The Unit Cooperation Panel is not tied to any specific product development
+    philosophies or methodologies, like SCRUM, Agile, or Kanban. The Panel has
+    the role of product owner in the sense that it defines, prioritizes, and
+    guides product development to deliver maximum business and user value.
