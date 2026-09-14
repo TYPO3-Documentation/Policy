@@ -1098,3 +1098,12 @@ Frequently Asked Questions
     A focus on delegation of tasks notwithstanding, a
     :ref:`Unit Coordinator <unit-rules-coordinator>`’s work is important and
     should happen within normal work hours.
+
+**39. Why not limit the number of Unit roles filled by employees of the same company?**
+    The Units, and contribution in general, is not a situation where it is
+    important to limit the influence of single companies. Open source
+    contribution is often described as a meritocracy, where those who do most
+    and carry the largest burden are the ones afforded the most influence.
+    Limiting the participation from a single company could therefore limit the
+    ability of the TYPO3 project to benefit from major institutional
+    contributors.
