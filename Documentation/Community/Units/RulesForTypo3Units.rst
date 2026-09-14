@@ -1132,3 +1132,14 @@ Frequently Asked Questions
 **42. If administrative, why do Coordinator and Deputy roles need to be elected at all?**
     Even when administrative, some roles need to be founded on trust. Elections
     are a good way of documenting that the trust exists.
+
+**43. Why compensate formal roles with money, when better tooling could reduce administrative overhead instead?**
+    Compensation is not a requirement, but an enabler when the requirements
+    become difficult to handle without it. Tools like issue trackers are used by
+    every part of the TYPO3 community to reduce administrative overhead, but
+    they do still require management. The issue queue for the TYPO3 Core is
+    very large, and the work of managing it does not only include assigning
+    tasks. Few issues arrive ready to be implemented. Many require triaging or
+    conceptualizing. Others need to be developed into solution proposals. The
+    quality of the issue queue will ultimately reflect on our ability to close
+    those issues.
