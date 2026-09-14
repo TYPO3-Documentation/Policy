@@ -265,3 +265,7 @@ Frequently Asked Questions
     philosophies or methodologies, like SCRUM, Agile, or Kanban. The Panel has
     the role of product owner in the sense that it defines, prioritizes, and
     guides product development to deliver maximum business and user value.
+
+**12. Why four meetings a year? It makes the Unit Cooperation Panel slow.**
+    The Panel is not limited to four meetings a year. That is only the lower
+    limit. Section 5.1 defines it as "regularly, at least once each quarter."
