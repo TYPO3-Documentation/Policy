@@ -1116,3 +1116,15 @@ Frequently Asked Questions
     contributors taking on responsibilities for the project. It would be a
     disservice to the project to limit experienced contributors from taking part
     in formal roles.
+
+**41. Are TYPO3 Association membership costs a financial barrier to Unit Membership?**
+    At the time of writing, the TYPO3 Association Community membership costs €10
+    annually. When signing up, there is an additional sign-up fee of €10, making
+    the first year €20, and subsequent years €10. This should be affordable for
+    most contributors. Though mostly symbolic at this level, all membership fees
+    are a show of commitment to the project and helps contribute to funding,
+    maintaining, and coordinating the development of the TYPO3 CMS software. In
+    addition to the governance benefits of Association members managing the
+    Association's money, paying for a membership also demonstrates commitment
+    and accountability. That is an important faculty in those choosing to become
+    Unit Members.
