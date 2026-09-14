@@ -1143,3 +1143,11 @@ Frequently Asked Questions
     conceptualizing. Others need to be developed into solution proposals. The
     quality of the issue queue will ultimately reflect on our ability to close
     those issues.
+
+**44. Doesn't a formal, rigid structure work against the flexibility we need to navigate a changing tech landscape?**
+    Indeed, and that is why the Units have been proposed. The preceding team
+    structure could not handle rapid change: each team required months to
+    demonstrate its right to exist and could only receive budgets once a year.
+    Units, organized around broader groups of subject-matter experts, enable
+    rapid changes to be implemented across a larger topical area without
+    requiring the involvement of other bodies.
