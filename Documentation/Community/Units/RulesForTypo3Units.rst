@@ -1107,3 +1107,12 @@ Frequently Asked Questions
     Limiting the participation from a single company could therefore limit the
     ability of the TYPO3 project to benefit from major institutional
     contributors.
+
+**40. Why not make it absolutely forbidden for people from the TYPO3 Company to take on formal roles in a Units?**
+    The TYPO3 Company (TYPO3 GmbH) was founded by the TYPO3 Association as a way
+    to generate income from creating, supporting, and promoting services that
+    improve the entire TYPO3 Project ecosystem. Some of that income is being
+    used to pay the wages of TYPO3 Core developers that started out as regular
+    contributors taking on responsibilities for the project. It would be a
+    disservice to the project to limit experienced contributors from taking part
+    in formal roles.
