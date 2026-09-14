@@ -1128,3 +1128,7 @@ Frequently Asked Questions
     Association's money, paying for a membership also demonstrates commitment
     and accountability. That is an important faculty in those choosing to become
     Unit Members.
+
+**42. If administrative, why do Coordinator and Deputy roles need to be elected at all?**
+    Even when administrative, some roles need to be founded on trust. Elections
+    are a good way of documenting that the trust exists.
