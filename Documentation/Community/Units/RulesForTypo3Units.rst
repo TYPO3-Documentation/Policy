@@ -9,10 +9,19 @@ Rules for TYPO3 Units
     :local:
     :depth: 2
 
-**Note on imperatives:** The keywords `must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__, `must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ not, required, shall,
-shall not, `should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__, `should not <https://www.rfc-editor.org/rfc/rfc2119.html#section-4>`__, recommended, `may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__, and optional in this
-document are to be interpreted as described in `RFC
-2119 <https://www.ietf.org/rfc/rfc2119.html>`__.
+**Note on imperatives:** The keywords
+`must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__,
+`must not <https://www.rfc-editor.org/rfc/rfc2119.html#section-2>`__,
+`required <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__,
+`shall <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__,
+`shall not <https://www.rfc-editor.org/rfc/rfc2119.html#section-2>`__,
+`should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__,
+`should not <https://www.rfc-editor.org/rfc/rfc2119.html#section-4>`__,
+`recommended <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__,
+`may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__, and
+`optional <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ in this
+document are to be interpreted as described in
+`RFC 2119 <https://www.ietf.org/rfc/rfc2119.html>`__.
 
 ..  _unit-rules-definition:
 
