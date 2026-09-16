@@ -9,37 +9,51 @@ Rules for the TYPO3 Unit Cooperation Panel
     :local:
     :depth: 2
 
-**Note on imperatives:** The keywords must, must not, required, shall,
-shall not, should, should not, recommended, may, and optional in this
-document are to be interpreted as described in `RFC
-2119 <https://www.ietf.org/rfc/rfc2119.txt>`__.
+**Note on imperatives:** The keywords
+`must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__,
+`must not <https://www.rfc-editor.org/rfc/rfc2119.html#section-2>`__,
+`required <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__,
+`shall <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__,
+`shall not <https://www.rfc-editor.org/rfc/rfc2119.html#section-2>`__,
+`should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__,
+`should not <https://www.rfc-editor.org/rfc/rfc2119.html#section-4>`__,
+`recommended <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__,
+`may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__, and
+`optional <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ in this
+document are to be interpreted as described in
+`RFC 2119 <https://www.ietf.org/rfc/rfc2119.html>`__.
 
-..  _coop-panel-defition-purpose:
+..  _coop-panel-definition-purpose:
 
 1 Definition and Purpose
 ========================
 
 The Unit Cooperation Panel is a permanent body for cooperation between
-all Units. It creates the TYPO3 Product Roadmap in alignment with the
-TYPO3 Association and TYPO3 Product strategies and ensures that the
-Units work together in partnership, support each other, and jointly
-address cross-Unit issues.
+all Units. It creates the
+`TYPO3 Product Roadmap <https://typo3.com/typo3-cms/development-roadmap/roadmap>`__
+in alignment with the :ref:`TYPO3 Association <t3a-strategy>` and
+:ref:`TYPO3 Product <product-strategy>` strategies and ensures that the Units
+work together in partnership, support each other, and jointly address cross-Unit
+issues.
 
-The Panel is the TYPO3 CMS Product Owner. It is represented by its
-Chairman.
+The Panel is the TYPO3 CMS Product Owner. It is represented by its Chairman.
 
 ..  _coop-panel-governing-authority:
 
 2 Governing Authority
 =====================
 
-The TYPO3 Unit Cooperation Panel is created, modified, and terminated as
-defined in the TYPO3 Association Bylaws.
+The :ref:`TYPO3 Unit Cooperation Panel <coop-panel-definition-purpose>` is
+created, modified, and terminated as defined in the
+:ref:`TYPO3 Association Bylaws <bylaws>`.
 
-Unless otherwise defined in the TYPO3 Association Bylaws, these Rules
-may be amended by the TYPO3 Association General Assembly or through a
-joint decision by the TYPO3 Unit Cooperation Panel and the TYPO3
-Association Board.
+Unless otherwise defined in the :ref:`TYPO3 Association Bylaws <bylaws>`, these
+Rules `may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ be amended
+by the
+`TYPO3 Association General Assembly <https://typo3.org/association/structure/general-assembly>`__
+or through a joint decision by the
+:ref:`TYPO3 Unit Cooperation Panel <coop-panel-definition-purpose>` and the
+`TYPO3 Association Board <https://typo3.org/association/structure/board>`__.
 
 ..  _coop-panel-composition:
 
@@ -51,32 +65,37 @@ Association Board.
 3.1 Members
 -----------
 
-The Unit Cooperation Panel must consist of:
+The :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`
+`must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ consist of:
 
-*  One permanent representative from each TYPO3 Unit.
-*  One representative from and chosen by the TYPO3 Association Board.
+*  One permanent representative from each :ref:`TYPO3 Unit <unit-rules>`.
+*  One representative from and chosen by the `TYPO3 Association Board <https://typo3.org/association/structure/board>`__.
 
-Each person can only represent a single body in the Unit Cooperation
-Panel.
+Each person can only represent a single body in the
+:ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`.
 
 Unit Representatives are chosen, in order of preference:
 
-1. The Unit Coordinator represents the Unit by default if they are eligible for
-   the role and accept the responsibility.
-2. Otherwise, the Deputy Unit Coordinator represents the Unit if they are
-   eligible for the role and accept the responsibility.
+1. The :ref:`Unit Coordinator <unit-rules-coordinator>` represents the
+   :ref:`TYPO3 Unit <unit-rules>` by default if they are eligible for the role
+   and accept the responsibility.
+2. Otherwise, the :ref:`Deputy Unit Coordinator <unit-rules-deputy-coordinator>`
+   represents the :ref:`TYPO3 Unit <unit-rules>` if they are eligible for the
+   role and accept the responsibility.
 3. If neither is eligible or accept the responsibility, the Unit Council elects
-   another Unit Member who is eligible for the role and accepts the
-   responsibility.
+   another :ref:`Unit Member <unit-rules-member>` who is eligible for the role
+   and accepts the responsibility.
 
 ..  _coop-panel-leadership:
 
 3.2 Leadership
 --------------
 
-The Panel elects a Chairperson and Deputy Chairperson from among its
-members. The representative from the TYPO3 Association Board is not
-eligible to be elected.
+The :ref:`Panel <coop-panel-definition-purpose>` elects a Chairperson and Deputy
+Chairperson from among its :ref:`members <coop-panel-members>`. The
+representative from the
+`TYPO3 Association Board <https://typo3.org/association/structure/board>`__ is
+not eligible to be elected.
 
 If the Chairperson is indisposed or while the Chairperson position is
 unfilled, the Deputy Chairperson serves as the acting Chairperson,
@@ -87,13 +106,17 @@ taking over all related tasks and responsibilities.
 3.3 Compensation
 ----------------
 
-The TYPO3 Association Board may decide to compensate members of the Panel
-through the TYPO3 Association’s budget. The compensation may be split into tiers
-depending on the person’s role and assigned tasks.
+The `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
+`may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ decide to
+compensate members of the :ref:`Panel <coop-panel-definition-purpose>` through
+the `TYPO3 Association <https://typo3.org/association>`__’s budget. The
+compensation `may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ be
+split into tiers depending on the person’s role and assigned tasks.
 
 Individuals whose employment compensation includes remuneration for performing
-duties as a Coordinator or Panel Member in connection with their employment
-are not entitled to receive any additional compensation.
+duties as a :ref:`Coordinator <unit-rules-coordinator>` or
+:ref:`Panel Member <coop-panel-members>` in connection with their employment are
+not entitled to receive any additional compensation.
 
 ..  _coop-panel-tasks-responsibilities:
 
@@ -105,31 +128,39 @@ are not entitled to receive any additional compensation.
 4.1 Responsibilities
 --------------------
 
-The TYPO3 Unit Cooperation Panel has these responsibilities:
+The :ref:`TYPO3 Unit Cooperation Panel <coop-panel-definition-purpose>` has
+these responsibilities:
 
-1. Creation and prioritization of the TYPO3 Project roadmap.
-2. Coordination of cooperation between the Units on cross-Unit topics,
-   tasks, initiatives, working groups, and in general.
-3. Coordination and harmonization of Contribution Rules and Acceptance
-   Criteria for contributions in Units.
-4. Discuss and opine on overarching technological and
-   infrastructure-related decisions
+1. Creation and prioritization of the `TYPO3 Product Roadmap <https://typo3.com/typo3-cms/development-roadmap/roadmap>`__.
+2. Coordination of cooperation between the :ref:`Units <unit-rules>` on
+   cross-:ref:`Unit <unit-rules>` topics, tasks, initiatives, working groups,
+   and in general.
+3. Coordination and harmonization of
+   :ref:`Contribution Rules and Acceptance Criteria <unit-rules-criteria>` for
+   contributions in :ref:`Units <unit-rules>`.
+4. Discuss and opine on overarching technological and infrastructure-related
+   decisions.
 5. Resolve matters of jurisdiction or conflicts of interest between
-   Units.
-6. Appointment of two delegates from among the Unit representatives in
-   the Panel to the TYPO3 Association Board, as defined in the TYPO3
-   Association Bylaws.
-7. Advising the TYPO3 Association Board on matters concerning the Units.
+   :ref:`Units <unit-rules>`.
+6. Appointment of two delegates from among the :ref:`Unit <unit-rules>`
+   representatives in the :ref:`Panel <coop-panel-definition-purpose>` to the
+   `TYPO3 Association Board <https://typo3.org/association/structure/board>`__,
+   as defined in the :ref:`TYPO3 Association Bylaws <bylaws>`.
+7. Advising the `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
+   on matters concerning the :ref:`Units <unit-rules>`.
 
 ..  _coop-panel-task-scope:
 
 4.2 Task Scope
 --------------
 
-The Unit Cooperation Panel may choose to address any issue or task as
-laid out in section 1 of these Rules. This includes the right to
-petition the TYPO3 Association General Assembly or TYPO3 Association
-Board on all matters concerning this Panel and the Units.
+The :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`
+`may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ choose to
+address any issue or task as laid out in section 1 of these Rules. This includes
+the right to petition the
+`TYPO3 Association General Assembly <https://typo3.org/association/structure/general-assembly>`__
+or `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
+on all matters concerning this Panel and the :ref:`Units <unit-rules>`.
 
 ..  _coop-panel-meetings:
 
@@ -141,42 +172,54 @@ Board on all matters concerning this Panel and the Units.
 5.1 Convening Meetings
 ----------------------
 
-The Panel should meet regularly, at least once each quarter. If
-possible, at least two meetings annually should be held in person.
+The :ref:`Panel <coop-panel-definition-purpose>`
+`should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__ meet
+regularly, at least once each quarter. If possible, at least two meetings
+annually `should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__ be
+held in person.
 
-The Unit Panel meets whenever the Chairperson or at least 50% of all
-Panel members desire it.
+The :ref:`Unit Panel <coop-panel-definition-purpose>` meets whenever the
+:ref:`Chairperson <coop-panel-leadership>` or at least 50% of all
+:ref:`Panel members <coop-panel-members>` desire it.
 
-A meeting date and time must be announced at least seven days in
-advance, unless 50% of all Panel members agree to disregard this rule.
+A meeting date and time
+`must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ be announced at
+least seven days in advance, unless 50% of all
+:ref:`Panel members <coop-panel-members>` agree to disregard this rule.
 
 ..  _coop-panel-quorum:
 
 5.2 Quorum
 ----------
 
-The Panel reaches a quorum for decisions when two thirds of all the Unit
-Cooperation Panel members are present.
+The :ref:`Panel <coop-panel-definition-purpose>` reaches a quorum for decisions
+when two thirds of all the
+:ref:`Unit Cooperation Panel <coop-panel-definition-purpose>` members are
+present.
 
 ..  _coop-panel-majority:
 
 5.3 Majority
 ------------
 
-All Panel decisions require at least two thirds of the votes of all
-members of the Unit Cooperation Panel, excepting abstentions, to be in
-favor.
+All :ref:`Panel <coop-panel-definition-purpose>` decisions require at least two
+thirds of the votes of all members of the
+:ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`, excepting
+abstentions, to be in favor.
 
 ..  _coop-panel-reporting:
 
 6 Reporting
 ===========
 
-The Chairperson or their delegate must regularly publish reports on the
-Panel’s meetings and activities to the TYPO3 Association Members.
+The :ref:`Chairperson <coop-panel-leadership>` or their delegate
+`must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ regularly
+publish reports on the :ref:`Panel <coop-panel-definition-purpose>`’s meetings
+and activities to the
+`TYPO3 Association Members <https://typo3.org/association/membership/directory>`__.
 
-The report must be published on
-`news.typo3.com <http://news.typo3.com>`__ every three months.
+The report `must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ be
+published on `news.typo3.com <http://news.typo3.com>`__ every three months.
 
 ..  _coop-panel-faq:
 
@@ -184,70 +227,79 @@ Frequently Asked Questions
 ==========================
 
 **1. Won’t the Chairperson easily be overloaded with the tasks involved in chairing, reporting, and possibly also serving as one of the two delegates to the TYPO3 Association Board?**
-    A good chairperson will delegate tasks, but some kind of
-    compensation will likely be necessary. It could be time donated
-    individually, from an employer, or as a budget decision by the
-    TYPO3 Association Board. At the same time, the Panel is supposed to
-    coordinate. It is natural to expect that most of the real work will
-    take place in the Units. Assembling the roadmap is a good example,
-    as it can build on detailed proposals submitted by the units.
+    A good chairperson will delegate tasks, but some kind of compensation will
+    likely be necessary. It could be time donated individually, from an
+    employer, or as a budget decision by the
+    `TYPO3 Association Board <https://typo3.org/association/structure/board>`__.
+    At the same time, the Panel is supposed to coordinate. It is natural to
+    expect that most of the real work will take place in the
+    :ref:`Units <unit-rules>`. Assembling the roadmap is a good example, as it
+    can build on detailed proposals submitted by the units.
 
-** 2. Why can’t the TYPO3 Association Board member be elected Chairperson?**
-    Since the TYPO3 Association Board defines budgets for Units, this
-    is an effective way to avoid potential conflict of interest around
-    budget decisions.
+**2. Why can’t the TYPO3 Association Board member be elected Chairperson?**
+    Since the
+    `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
+    defines budgets for :ref:`Units <unit-rules>`, this is an effective way to
+    avoid potential conflict of interest around budget decisions.
 
 **3. Is the Unit Cooperation Panel a mediator in interpersonal conflicts?**
-    No, it only deals with matters of jurisdiction or conflicts of
-    interest between Units. Interpersonal conflicts should be resolved
-    elsewhere using TYPO3’s conflict handling processes and policies.
-    The TYPO3 Association Board can update the Unit Charters to make
-    areas of responsibility clearer. In cases where Unit Coordinators
-    are unable to cooperate, the TYPO3 Association Board has the option
-    of removing them from their role.
+    No, it only deals with matters of jurisdiction or conflicts of interest
+    between :ref:`Units <unit-rules>`. Interpersonal conflicts should be
+    resolved elsewhere using TYPO3’s conflict handling processes and policies.
+    The
+    `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
+    can update the :ref:`Unit Charters <unit-rules-constitution-charter>` to
+    make areas of responsibility clearer. In cases where
+    :ref:`Unit Coordinators <unit-rules-coordinator>` are unable to cooperate,
+    the
+    `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
+    as the option of removing them from their role.
 
 **4. What is the role of the two delegates from the Unit Cooperation Panel in the TYPO3 Association Board?**
-    The delegates have a right to be present and speak in all TYPO3
-    Association Board meetings, but do not have voting rights. This
-    means they will take part in all discussions and processes within
-    the Board, but without the final decision-making rights. This
-    configuration avoids the conflict of interest arising from the Unit
-    Coordinators’ role as budget owners.
+    The delegates have a right to be present and speak in all TYPO3 Association
+    Board meetings, but do not have voting rights. This means they will take
+    part in all discussions and processes within the Board, but without the
+    final decision-making rights. This configuration avoids the conflict of
+    interest arising from the :ref:`Unit Coordinators <unit-rules-coordinator>`’
+    role as budget owners.
 
 **5. Why is the quorum defined as two thirds of all Unit Cooperation Panel members? It can be hard to get people to participate, and decision making shouldn’t be blocked.**
-    It would be a sign of serious dysfunction if less than two thirds
-    of the Unit Cooperation Panel can meet. It would mean that two
-    thirds of the units — and possibly the TYPO3 Association Board too
-    — are unable to assign a person to attend the meeting. Such an
-    issue would have to be dealt with on a higher level.
+    It would be a sign of serious dysfunction if less than two thirds of the
+    :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>` can meet.
+    It would mean that two thirds of the units — and possibly the
+    `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
+    too — are unable to assign a person to attend the meeting. Such an issue
+    would have to be dealt with on a higher level.
 
 **6. Is the requirement for decisions to be at least two thirds of the votes cast a possibility for deadlock?**
-    In this setup a positive decision requires two thirds of the votes
-    cast to be “yes”. It does not count abstentions or missing votes
-    from absent members. Since this is the *cooperation* panel, it
-    should be based on healthy cooperation and consensus. An inability
-    to come to a consensus would be a sign of dysfunction, an issue
-    that must be dealt with outside of the Panel itself.
+    In this setup a positive decision requires two thirds of the votes cast to
+    be “yes”. It does not count abstentions or missing votes from absent
+    members. Since this is the *cooperation* panel, it should be based on
+    healthy cooperation and consensus. An inability to come to a consensus would
+    be a sign of dysfunction, an issue that must be dealt with outside of the
+    Panel itself.
 
 **7. With only one representative per Unit, how will cross-cutting topics like accessibility get a reliable voice?**
-    Considering relevant compliance requirements (including
-    accessibility) should be part of every decision. It would be the
-    Stability & Compliance Unit’s responsibility to define and promote
-    them. The Unit would need to make recommendations or ask the TYPO3
-    Association Board to establish formal policies. Many have given
-    feedback about the need to document a general decision-making
-    process. Compliance could be an explicit part of such a process,
-    meaning that considering compliance with accessibility
-    requirements/best practices becomes mandatory everywhere.
+    Considering relevant compliance requirements (including accessibility)
+    should be part of every decision. It would be the *Stability & Compliance
+    Unit*’s responsibility to define and promote them. The
+    :ref:`Unit <unit-rules>` would need to make recommendations or ask the TYPO3
+    Association Board to establish formal policies. Many have given feedback
+    about the need to document a general decision-making process. Compliance
+    could be an explicit part of such a process, meaning that considering
+    compliance with accessibility requirements/best practices becomes mandatory
+    everywhere.
 
 **8. Will the Unit Cooperation Panel have fewer members if someone is Unit Coordinator for multiple units?**
-    One person can only represent a single body in the Unit Cooperation
-    Panel, so a person who is Unit Coordinator for multiple units will
-    have to delegate another person to be the representative of one of
+    One person can only represent a single body in the
+    :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`, so a person
+    who is :ref:`Unit Coordinator <unit-rules-coordinator>` for multiple units
+    will have to delegate another person to be the representative of one of
     the units.
 
 **9. Which decision-making best practices apply to the Unit Cooperation Panel?**
-    The Governance Working Group has asked that the TYPO3 Association Board
+    The Governance Working Group has asked that the
+    `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     implements a project-wide decision-making best practice.
 
 **10. Can changes to these Rules be made to require a decision by the General Assembly?**
@@ -255,16 +307,18 @@ Frequently Asked Questions
     This is the Association Board’s domain. Normally, the Board would be able to
     change the Panel rules alone, but
     :ref:`section 2 <coop-panel-governing-authority>` requires both the TYPO3
-    Association Board and the Unit Cooperation Panel to vote in favor. This adds
-    an additional level of control. The General Assembly has supreme
-    decision-making authority in the TYPO3 Association and can always override
-    or force a change to happen.
+    Association Board and the
+    :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`
+    to vote in favor. This adds an additional level of control. The General
+    Assembly has supreme decision-making authority in the TYPO3 Association and
+    can always override or force a change to happen.
 
 **11. Is the Unit Cooperation Panel a Product Owner according to the SCRUM definition?**
-    The Unit Cooperation Panel is not tied to any specific product development
-    philosophies or methodologies, like SCRUM, Agile, or Kanban. The Panel has
-    the role of product owner in the sense that it defines, prioritizes, and
-    guides product development to deliver maximum business and user value.
+    The :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>` is not
+    tied to any specific product development philosophies or methodologies, like
+    SCRUM, Agile, or Kanban. The Panel has the role of product owner in the
+    sense that it defines, prioritizes, and guides product development to
+    deliver maximum business and user value.
 
 **12. Why four meetings a year? It makes the Unit Cooperation Panel slow.**
     The Panel is not limited to four meetings a year. That is only the lower
