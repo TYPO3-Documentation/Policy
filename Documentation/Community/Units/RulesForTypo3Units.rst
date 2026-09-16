@@ -796,7 +796,7 @@ Frequently Asked Questions
 
 ..  _unit-rules-faq-2:
 
-**2. It looks like a :ref:`Coordinator <unit-rules-coordinator>` carries a lot of responsibility and a lot of tasks. How is this realistically achievable?**
+**2. It looks like a Coordinator carries a lot of responsibility and a lot of tasks. How is this realistically achievable?**
     It is important to note that one of the
     :ref:`Coordinator <unit-rules-coordinator>`’s main responsibilities is to
     delegate tasks away from themselves. The workload will differ from unit to
