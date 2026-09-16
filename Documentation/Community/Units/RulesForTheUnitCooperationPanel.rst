@@ -288,7 +288,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-1:
 
-**1. Won’t the Chairperson easily be overloaded with the tasks involved in chairing, reporting, and possibly also serving as one of the two delegates to the TYPO3 Association Board?**
+:ref:`1. <coop-panel-faq-1>` ** Won’t the Chairperson easily be overloaded with the tasks involved in chairing, reporting, and possibly also serving as one of the two delegates to the TYPO3 Association Board?**
     A good chairperson will delegate tasks, but some kind of compensation will
     likely be necessary. It could be time donated individually, from an
     employer, or as a budget decision by the
@@ -300,7 +300,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-2:
 
-**2. Why can’t the TYPO3 Association Board member be elected Chairperson?**
+:ref:`2. <coop-panel-faq-2>` ** Why can’t the TYPO3 Association Board member be elected Chairperson?**
     Since the
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     defines budgets for :ref:`Units <unit-rules>`, this is an effective way to
@@ -308,7 +308,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-3:
 
-**3. Is the Unit Cooperation Panel a mediator in interpersonal conflicts?**
+:ref:`3. <coop-panel-faq-3>` ** Is the Unit Cooperation Panel a mediator in interpersonal conflicts?**
     No, it only deals with matters of jurisdiction or conflicts of interest
     between :ref:`Units <unit-rules>`. Interpersonal conflicts should be
     resolved elsewhere using TYPO3’s conflict handling processes and policies.
@@ -323,7 +323,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-4:
 
-**4. What is the role of the two delegates from the Unit Cooperation Panel in the TYPO3 Association Board?**
+:ref:`4. <coop-panel-faq-4>` ** What is the role of the two delegates from the Unit Cooperation Panel in the TYPO3 Association Board?**
     The delegates have a right to be present and speak in all TYPO3 Association
     Board meetings, but do not have voting rights. This means they will take
     part in all discussions and processes within the Board, but without the
@@ -333,7 +333,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-5:
 
-**5. Why is the quorum defined as two thirds of all Unit Cooperation Panel members? It can be hard to get people to participate, and decision making shouldn’t be blocked.**
+:ref:`5. <coop-panel-faq-5>` ** Why is the quorum defined as two thirds of all Unit Cooperation Panel members? It can be hard to get people to participate, and decision making shouldn’t be blocked.**
     It would be a sign of serious dysfunction if less than two thirds of the
     :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>` can meet.
     It would mean that two thirds of the units — and possibly the
@@ -343,7 +343,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-6:
 
-**6. Is the requirement for decisions to be at least two thirds of the votes cast a possibility for deadlock?**
+:ref:`6. <coop-panel-faq-6>` ** Is the requirement for decisions to be at least two thirds of the votes cast a possibility for deadlock?**
     In this setup a positive decision requires two thirds of the votes cast to
     be “yes”. It does not count abstentions or missing votes from absent
     members. Since this is the *cooperation* panel, it should be based on
@@ -353,7 +353,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-7:
 
-**7. With only one representative per Unit, how will cross-cutting topics like accessibility get a reliable voice?**
+:ref:`7. <coop-panel-faq-7>` ** With only one representative per Unit, how will cross-cutting topics like accessibility get a reliable voice?**
     Considering relevant compliance requirements (including accessibility)
     should be part of every decision. It would be the *Stability & Compliance
     Unit*’s responsibility to define and promote them. The
@@ -366,7 +366,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-8:
 
-**8. Will the Unit Cooperation Panel have fewer members if someone is Unit Coordinator for multiple units?**
+:ref:`8. <coop-panel-faq-8>` ** Will the Unit Cooperation Panel have fewer members if someone is Unit Coordinator for multiple units?**
     One person can only represent a single body in the
     :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`, so a person
     who is :ref:`Unit Coordinator <unit-rules-coordinator>` for multiple units
@@ -375,14 +375,14 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-9:
 
-**9. Which decision-making best practices apply to the Unit Cooperation Panel?**
+:ref:`9. <coop-panel-faq-9>` ** Which decision-making best practices apply to the Unit Cooperation Panel?**
     The Governance Working Group has asked that the
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     implements a project-wide decision-making best practice.
 
 ..  _coop-panel-faq-10:
 
-**10. Can changes to these Rules be made to require a decision by the General Assembly?**
+:ref:`10. <coop-panel-faq-10>` ** Can changes to these Rules be made to require a decision by the General Assembly?**
     It is not normally the General Assembly’ task to change rules and policies.
     This is the Association Board’s domain. Normally, the Board would be able to
     change the Panel rules alone, but
@@ -395,7 +395,7 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-11:
 
-**11. Is the Unit Cooperation Panel a Product Owner according to the SCRUM definition?**
+:ref:`11. <coop-panel-faq-11>` ** Is the Unit Cooperation Panel a Product Owner according to the SCRUM definition?**
     The :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>` is not
     tied to any specific product development philosophies or methodologies, like
     SCRUM, Agile, or Kanban. The Panel has the role of product owner in the
@@ -404,6 +404,6 @@ Frequently Asked Questions
 
 ..  _coop-panel-faq-12:
 
-**12. Why four meetings a year? It makes the Unit Cooperation Panel slow.**
+:ref:`12. <coop-panel-faq-12>` ** Why four meetings a year? It makes the Unit Cooperation Panel slow.**
     The Panel is not limited to four meetings a year. That is only the lower
     limit. Section 5.1 defines it as "regularly, at least once each quarter."
