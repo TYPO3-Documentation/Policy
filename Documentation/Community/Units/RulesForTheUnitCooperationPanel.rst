@@ -43,9 +43,19 @@ The Panel is the TYPO3 CMS Product Owner. It is represented by its Chairman.
 2 Governing Authority
 =====================
 
+..  _coop-panel-governing-authority-a:
+
+a. Creation, Modification, and Termination
+------------------------------------------
+
 The :ref:`TYPO3 Unit Cooperation Panel <coop-panel-definition-purpose>` is
 created, modified, and terminated as defined in the
 :ref:`TYPO3 Association Bylaws <bylaws>`.
+
+..  _coop-panel-governing-authority-b:
+
+b. Amendment
+------------
 
 Unless otherwise defined in the :ref:`TYPO3 Association Bylaws <bylaws>`, these
 Rules `may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ be amended
@@ -65,14 +75,29 @@ or through a joint decision by the
 3.1 Members
 -----------
 
+..  _coop-panel-members-a:
+
+a. Composition
+""""""""""""""
+
 The :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`
 `must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ consist of:
 
 *  One permanent representative from each :ref:`TYPO3 Unit <unit-rules>`.
 *  One representative from and chosen by the `TYPO3 Association Board <https://typo3.org/association/structure/board>`__.
 
+..  _coop-panel-members-b:
+
+b. Limit to Representation
+""""""""""""""""""""""""""
+
 Each person can only represent a single body in the
 :ref:`Unit Cooperation Panel <coop-panel-definition-purpose>`.
+
+..  _coop-panel-members-c:
+
+c. Choosing Unit Representatives
+""""""""""""""""""""""""""""""""
 
 Unit Representatives are chosen, in order of preference:
 
@@ -91,11 +116,21 @@ Unit Representatives are chosen, in order of preference:
 3.2 Leadership
 --------------
 
+..  _coop-panel-leadership-a:
+
+a. Election and Eligibility
+"""""""""""""""""""""""""""
+
 The :ref:`Panel <coop-panel-definition-purpose>` elects a Chairperson and Deputy
 Chairperson from among its :ref:`members <coop-panel-members>`. The
 representative from the
 `TYPO3 Association Board <https://typo3.org/association/structure/board>`__ is
 not eligible to be elected.
+
+..  _coop-panel-leadership-b:
+
+b. Acting Chairperson
+"""""""""""""""""""""
 
 If the Chairperson is indisposed or while the Chairperson position is
 unfilled, the Deputy Chairperson serves as the acting Chairperson,
@@ -106,12 +141,22 @@ taking over all related tasks and responsibilities.
 3.3 Compensation
 ----------------
 
+..  _coop-panel-compensation-a:
+
+a. Sanctioning
+""""""""""""""
+
 The `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
 `may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ decide to
 compensate members of the :ref:`Panel <coop-panel-definition-purpose>` through
 the `TYPO3 Association <https://typo3.org/association>`__’s budget. The
 compensation `may <https://www.rfc-editor.org/rfc/rfc2119.html#section-5>`__ be
 split into tiers depending on the person’s role and assigned tasks.
+
+..  _coop-panel-compensation-b:
+
+b. Ineligibility
+""""""""""""""""
 
 Individuals whose employment compensation includes remuneration for performing
 duties as a :ref:`Coordinator <unit-rules-coordinator>` or
@@ -172,15 +217,30 @@ on all matters concerning this Panel and the :ref:`Units <unit-rules>`.
 5.1 Convening Meetings
 ----------------------
 
+..  _coop-panel-convening-a:
+
+a. Frequency
+""""""""""""
+
 The :ref:`Panel <coop-panel-definition-purpose>`
 `should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__ meet
 regularly, at least once each quarter. If possible, at least two meetings
 annually `should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__ be
 held in person.
 
+..  _coop-panel-convening-b:
+
+b. Calling Meetings
+"""""""""""""""""""
+
 The :ref:`Unit Panel <coop-panel-definition-purpose>` meets whenever the
 :ref:`Chairperson <coop-panel-leadership>` or at least 50% of all
 :ref:`Panel members <coop-panel-members>` desire it.
+
+..  _coop-panel-convening-c:
+
+c. Advance Notice
+"""""""""""""""""
 
 A meeting date and time
 `must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ be announced at
