@@ -787,10 +787,14 @@ undue delay.
 Frequently Asked Questions
 ==========================
 
+..  _unit-rules-faq-1:
+
 **1. What role is the Coordinator really?**
     It may be good to think of the :ref:`Coordinator <unit-rules-coordinator>`
     as a project manager, like what you find in a web agency. A leader with
     organizing and delegating as their main task.
+
+..  _unit-rules-faq-2:
 
 **2. It looks like a :ref:`Coordinator <unit-rules-coordinator>` carries a lot of responsibility and a lot of tasks. How is this realistically achievable?**
     It is important to note that one of the
@@ -800,16 +804,22 @@ Frequently Asked Questions
     donated individually, from an employer, or as a budget decision by the
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__.
 
+..  _unit-rules-faq-3:
+
 **3. It may be a question of definition exactly what lies within the responsibility of a unit. Who makes decisions in these cases, for example what is defined as a feature or that code should be backported?**
     It is the :ref:`Unit Cooperation Panel <coop-panel>`’s job to coordinate
     between the units and resolve matters of jurisdiction or conflicts of
     interest between :ref:`Units <unit-rules-definition>`.
+
+..  _unit-rules-faq-4:
 
 **4. I don’t want someone to decide what I should do. Do I have a place in a Unit?**
     Yes, you can always be a :ref:`Unit Supporter <unit-rules-supporter>`. This role comes with full freedom
     to choose the tasks you want to take on. For :ref:`Unit Members <unit-rules-member>`, the level of
     commitment is greater and, when necessary, you are expected to accept tasks
     you do not like, but that are necessary for the greater good of the project.
+
+..  _unit-rules-faq-5:
 
 **5. What happens if nobody wants to take on the Unit Coordinator or Deputy Unit Coordinator role?**
     If a unit is without a coordinator because nobody wants to take on the
@@ -821,6 +831,8 @@ Frequently Asked Questions
     requested that the
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     defines an escalation process for this.
+
+..  _unit-rules-faq-6:
 
 **6. What does it mean that the Unit Coordinator is answerable to the TYPO3 Association Board?**
     Though the :ref:`Unit Coordinator <unit-rules-coordinator>` is elected by
@@ -839,15 +851,21 @@ Frequently Asked Questions
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     defines an escalation process for this.
 
+..  _unit-rules-faq-7:
+
 **7. Does a Unit Coordinator or other person in a Unit role have to be employed by the TYPO3 Association or TYPO3 Company?**
     No. There is no rule either way and they may be employed by anyone
     or no one, depending on what is the best solution for the
     individual and the project.
 
+..  _unit-rules-faq-8:
+
 **8. What are good examples of a suitable platform for publication of decisions, structures, delegated authority, roles, and role assignments?**
     For example, tasks may be made available in a project management
     system, decisions in a Git repository, and structures and roles on
     a web page.
+
+..  _unit-rules-faq-9:
 
 **9. Does the Deputy Coordinator as acting Unit Coordinator also answer to the TYPO3 Association Board?**
     Yes, since the acting :ref:`Unit Coordinator <unit-rules-coordinator>` takes
@@ -855,6 +873,8 @@ Frequently Asked Questions
     :ref:`Unit Coordinator <unit-rules-coordinator>`, they are answerable to the
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     in the same way as any :ref:`Unit Coordinator <unit-rules-coordinator>`.
+
+..  _unit-rules-faq-10:
 
 **10. That the membership role automatically expires feels very absolute. What about people taking a sabbatical, for example?**
     The :ref:`Unit Coordinator <unit-rules-coordinator>` can make exceptions,
@@ -864,6 +884,8 @@ Frequently Asked Questions
     responsibilities and not overload the
     :ref:`Coordinator <unit-rules-coordinator>`.
 
+..  _unit-rules-faq-11:
+
 **11. What if a task is too hard for someone to complete or problems show up during the work on a task?**
     It is the responsibility of a task delegate to report about task
     status and any factor that may affect their ability to complete a
@@ -872,11 +894,15 @@ Frequently Asked Questions
     help, tasking others with providing the help, or delegating the
     task to others.
 
+..  _unit-rules-faq-12:
+
 **12. What are good rules and objective acceptance criteria?**
     This is an important topic, but it is beyond the scope of these Rules to
     define philosophy. This is a topic for the
     :ref:`Unit Cooperation Panel <coop-panel>`. It should be a constant point of
     improvement and a living discussion within the community at large.
+
+..  _unit-rules-faq-13:
 
 **13. What happens if multiple units need to have the same contribution rules and acceptance criteria?**
     The :ref:`Units <unit-rules-definition>` already have a requirement to make
@@ -886,6 +912,8 @@ Frequently Asked Questions
     a requirement to keep exactly the same rules and criteria laid down in their
     respective :ref:`Unit <unit-rules-definition>`
     :ref:`Charters <unit-rules-charter>`.
+
+..  _unit-rules-faq-14:
 
 **14. Why doesn’t these rules define who is allowed to merge code?**
     As not all units deal with code and use “merge” as the verb, these rules use
@@ -897,12 +925,16 @@ Frequently Asked Questions
     :ref:`Unit Coordinator <unit-rules-coordinator>`, but this person can also
     delegate such tasks.
 
+..  _unit-rules-faq-15:
+
 **15. Why do these rules not address occasional contributions that are made without a task assignment?**
     This kind of ad hoc, informal contribution is warmly welcome, but it comes
     from outside of the unit, so the rules don’t require them to comply with any
     organizational requirements. However, the way the
     :ref:`Unit <unit-rules-definition>` handles the contribution once it is
     submitted is covered by these rules.
+
+..  _unit-rules-faq-16:
 
 **16. Could the Unit Charter define specific working groups within a Unit including its scope, authority, representation?**
     Yes. The charter isn’t limited in scope. A Security Working Group might need
@@ -914,6 +946,8 @@ Frequently Asked Questions
     “emphasizing” or “ensuring.” Then, it’s up to the unit to define its
     organization.
 
+..  _unit-rules-faq-17:
+
 **17. What is a petition?**
     A petition is an instrument mentioned in the
     :ref:`TYPO3 Association bylaws <bylaws>`. The word means a formal written
@@ -921,6 +955,8 @@ Frequently Asked Questions
     policy or the correction of a wrong. For
     :ref:`Units <unit-rules-definition>`, petitions also provide a single point
     of contact through which requests can be made.
+
+..  _unit-rules-faq-18:
 
 **18. What are examples of TYPO3 Association bodies that can petition Units?**
     Committees and units, but also the
@@ -932,6 +968,8 @@ Frequently Asked Questions
     may choose to petition them instead. In that case, the wish is clear, but
     the final decision is left up to the decision-making processes of the
     :ref:`Unit <unit-rules-definition>`.
+
+..  _unit-rules-faq-19:
 
 **19. What happens if the Coordinator and Members do not allow new supporters to become a Member?**
     Though hopefully avoidable through unit size, it is a potential risk that
@@ -945,11 +983,15 @@ Frequently Asked Questions
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     defines an escalation process for dysfunctional :ref:`Units <unit-rules-definition>`.
 
+..  _unit-rules-faq-20:
+
 **20. How do we handle cross-concern initiatives, like today’s Stats Initiative?**
     This could be an initiative under the Feature
     :ref:`Unit <unit-rules-definition>`, but people from multiple units can
     participate in it. However, it would have to be founded in one
     :ref:`Unit <unit-rules-definition>`, with a coordinator from that unit.
+
+..  _unit-rules-faq-21:
 
 **21. How can cross-cutting requirements, like accessibility, be applied in all Units, not just Stability & Compliance, where the accessibility topic belongs?**
     Accessibility is a compliance topic, but the Stability & Compliance and
@@ -958,6 +1000,8 @@ Frequently Asked Questions
     :ref:`Unit Cooperation Panel <coop-panel>` can also be involved, but under a
     more general inclusivity umbrella that includes the non-technical units too.
 
+..  _unit-rules-faq-22:
+
 **22. Can the Unit Rules and the Panel Rules explicitly state that the Conflict of Interest Management Policy applies?**
     In keeping with the wish for separation of concerns, it should be the
     :ref:`Conflict of Interest Management Policy <conflict-interest>` that
@@ -965,6 +1009,8 @@ Frequently Asked Questions
     Association Board adapts the Conflict of Interest Management Policy to
     explicitly apply to roles in the
     :ref:`Unit <unit-rules-definition>` Rules and Panel Rules.
+
+..  _unit-rules-faq-23:
 
 **23. Why is the Unit Coordinator’s term one year with no term limit when regular renewal could bring new ideas, skills, and perspectives and avoid concentration of power?**
     It is important to bring in new people and skills, but it shouldn’t be
@@ -981,6 +1027,8 @@ Frequently Asked Questions
     explicitly mentions that the Council's responsibility for long-term policy
     and strategy within the :ref:`Unit <unit-rules-definition>`.
 
+..  _unit-rules-faq-24:
+
 **24. Can the General Assembly Be Asked to Decide on Term Limits and Periodic Re-Confirmation for Unit Coordinators?**
     The General Assembly is responsible for the general direction of the
     :ref:`Units <unit-rules-definition>`. If necessary, the
@@ -992,10 +1040,14 @@ Frequently Asked Questions
     :ref:`Unit Council’s <unit-rules-council>` annual
     :ref:`Unit Coordinator <unit-rules-coordinator>` election.
 
+..  _unit-rules-faq-25:
+
 **25. Which decision-making best practices apply to a Unit?**
     The Governance Working Group has asked that the
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     implements a project-wide decision-making best practice.
+
+..  _unit-rules-faq-26:
 
 **26. Must Unit Members accept all assigned tasks?**
     According to section :ref:`3.1.3.b <unit-rules-member-b>`
@@ -1006,6 +1058,8 @@ Frequently Asked Questions
     accepted and accepted tasks
     `must <https://www.rfc-editor.org/rfc/rfc2119.html#section-1>`__ be
     fulfilled to the best of their ability."
+
+..  _unit-rules-faq-27:
 
 **27. What is the difference between a "must" and "should"?**
     This difference is important.
@@ -1023,6 +1077,8 @@ Frequently Asked Questions
     diverge from a
     "`should <https://www.rfc-editor.org/rfc/rfc2119.html#section-3>`__."
 
+..  _unit-rules-faq-28:
+
 **28. Can Unit Member have a different name? It is easy to mix up with Association Members and it makes it sound like Unit Supporters are not part of the Unit.**
     :ref:`Unit Members <unit-rules-member>` and
     :ref:`Unit Supporters <unit-rules-supporter>` are both parts of their
@@ -1033,12 +1089,16 @@ Frequently Asked Questions
     meanings. (For example: Unit Owner, Unit Proprietor, Unit Stakeholer, Unit
     Fellow, Unit Selectman, Unit Guardian, and Unit Warden.)
 
+..  _unit-rules-faq-29:
+
 **29. Which TYPO3 Association bodies can report violations that lead to the removal of a Unit Member or `Unit Supporter from a Unit?**
     The Governance Working Group has requested that the
     `TYPO3 Association Board <https://typo3.org/association/structure/board>`__
     clarifies the responsible body for handling violations, ideally deferring
     decisions in cases of such violations to the Business Control Committee
     (BCC) through a change in the bylaws.
+
+..  _unit-rules-faq-30:
 
 **30. What is the reason for the expectation that Unit Members take on assigned tasks?**
     Unless in exceptional cases, :ref:`Unit Members <unit-rules-member>` are
@@ -1051,6 +1111,8 @@ Frequently Asked Questions
     the end. This has previously put an intolerable load on conscientious team
     leads, who have had to complete tasks on their own.
 
+..  _unit-rules-faq-31:
+
 **31. What happens if the Coordinator  shapes tasks in a way that makes them undesirable to take on or impossible to solve?**
     This would be an example of not maintaining good
     :ref:`Unit <unit-rules-definition>` health and that the
@@ -1061,16 +1123,22 @@ Frequently Asked Questions
     and the :ref:`Unit Council <unit-rules-council>` and should prevent the
     :ref:`Coordinator <unit-rules-coordinator>` from making such decisions.
 
+..  _unit-rules-faq-32:
+
 **32. What happens to member expiry if a unit runs out of tasks or if no :ref:`Unit Member <unit-rules-member>` accepts tasks?**
     This is theoretical. In this case the Board would have to disband the
     :ref:`Unit <unit-rules-definition>`, optionally
     :ref:`chartering a new Unit <unit-rules-charter>` with new
     :ref:`Unit Members <unit-rules-member>`.
 
+..  _unit-rules-faq-33:
+
 **33. Must all task assignment and approval be done by the Unit Coordinator?**
     No. Though these tasks ultimately lie with the
     :ref:`Unit Coordinator <unit-rules-coordinator>`, their own primary task is
     to delegate such responsibilities away from themselves.
+
+..  _unit-rules-faq-34:
 
 **34. How can the Unit increase contribution and participation when it defines so many rules and so much hierarchy?**
     The hierarchy is there to organize responsibility and accountability and the
@@ -1082,6 +1150,8 @@ Frequently Asked Questions
     they don’t have time to help those less experienced and onboard new
     contributors.
 
+..  _unit-rules-faq-35:
+
 **35. What is the relationship between compensation and a role’s decision-making power and accountability?**
     Compensation is not connected with decision-making power. Instead
     decision-making power relates to a person's accountability for their
@@ -1092,21 +1162,29 @@ Frequently Asked Questions
     clarifies the relationship between compensation/employment and the
     requirement to complete tasks.
 
+..  _unit-rules-faq-36:
+
 **36. Why don’t these Rules specify terms for joining, like confidentiality and trademark obligations?**
     We consider the bylaws to be the Association’s membership terms. Signing a
     non-disclosure agreement (NDA) will not be necessary in all cases. It must
     be left up to the :ref:`Units <unit-rules-definition>` to decide when and if
     they need it.
 
+..  _unit-rules-faq-37:
+
 **37. Why do Supporters fall outside every contractual obligation?**
     This is the point of Supporters. They shouldn’t be obliged to do anything.
     Additional requirements must be left up to the units to decide if and when
     they need it.
 
+..  _unit-rules-faq-38:
+
 **38. Isn’t the task of being a Unit Coordinator way too much for a volunteer?**
     A focus on delegation of tasks notwithstanding, a
     :ref:`Unit Coordinator <unit-rules-coordinator>`’s work is important and
     should happen within normal work hours.
+
+..  _unit-rules-faq-39:
 
 **39. Why not limit the number of Unit roles filled by employees of the same company?**
     The Units, and contribution in general, is not a situation where it is
@@ -1117,6 +1195,8 @@ Frequently Asked Questions
     ability of the TYPO3 project to benefit from major institutional
     contributors.
 
+..  _unit-rules-faq-40:
+
 **40. Why not make it absolutely forbidden for people from the TYPO3 Company to take on formal roles in a Units?**
     The TYPO3 Company (TYPO3 GmbH) was founded by the TYPO3 Association as a way
     to generate income from creating, supporting, and promoting services that
@@ -1125,6 +1205,8 @@ Frequently Asked Questions
     contributors taking on responsibilities for the project. It would be a
     disservice to the project to limit experienced contributors from taking part
     in formal roles.
+
+..  _unit-rules-faq-41:
 
 **41. Are TYPO3 Association membership costs a financial barrier to Unit Membership?**
     At the time of writing, the TYPO3 Association Community membership costs €10
@@ -1138,9 +1220,13 @@ Frequently Asked Questions
     and accountability. That is an important faculty in those choosing to become
     Unit Members.
 
+..  _unit-rules-faq-42:
+
 **42. If administrative, why do Coordinator and Deputy roles need to be elected at all?**
     Even when administrative, some roles need to be founded on trust. Elections
     are a good way of documenting that the trust exists.
+
+..  _unit-rules-faq-43:
 
 **43. Why compensate formal roles with money, when better tooling could reduce administrative overhead instead?**
     Compensation is not a requirement, but an enabler when the requirements
@@ -1152,6 +1238,8 @@ Frequently Asked Questions
     conceptualizing. Others need to be developed into solution proposals. The
     quality of the issue queue will ultimately reflect on our ability to close
     those issues.
+
+..  _unit-rules-faq-44:
 
 **44. Doesn't a formal, rigid structure work against the flexibility we need to navigate a changing tech landscape?**
     Indeed, and that is why the Units have been proposed. The preceding team
