@@ -1,0 +1,101 @@
+:navigation-title: 06-08 Surfcamp 2027
+..  include:: /Includes.rst.txt
+..  _t3a-board-decision-2026-06-08-surfcamp2027:
+
+=============================
+Board Decision: Surfcamp 2027
+=============================
+
+:Start of voting: 8 June 2026
+:Voting deadline: 10 June 2026
+:Decision owner: `Stefan Busemann`_
+:Decision status: ✅ Accepted, with **6 yes**
+
+Attendance and voting
+=====================
+
+====================  ============  ======
+Board Member          Attendance    Vote
+====================  ============  ======
+`Olivier Dobberkau`_  In meeting    ✅ Yes
+`Stefan Busemann`_    In meeting    ✅ Yes
+`Jochen Weiland`_     In meeting    ✅ Yes
+`Martin Helmich`_     In meeting    ✅ Yes
+`Jana Höffner`_       In meeting    ✅ Yes
+`Thomas Maroschik`_   In meeting    ✅ Yes
+====================  ============  ======
+
+.. _Olivier Dobberkau: https://my.typo3.org/u/oli4
+.. _Stefan Busemann: https://my.typo3.org/u/stefan.busemann
+.. _Jochen Weiland: https://my.typo3.org/u/jweiland
+.. _Martin Helmich: https://my.typo3.org/u/mhelmich
+.. _Jana Höffner: https://my.typo3.org/u/janahh
+.. _Thomas Maroschik: https://my.typo3.org/u/tmaroschik
+
+Decision description
+====================
+
+Facts/Problem
+-------------
+
+We want to continue the Surfcamp idea, in order to attract new young contributors for the project.
+
+Objective
+---------
+
+This decision was triggered by a request from the Surfcamp organization team:
+
+- The TYPO3 Surfcamp 2026 (held in Fuerteventura for the third time) was considered a success by participants, mentors and the community. First participants have already registered for the Developer Days, and one has submitted a session proposal.
+- The organization team asked the Board to confirm that the Surfcamp will be held again in 2027, so that planning can officially begin.
+- For 2027, the team would like to move the Surfcamp to a location on the European mainland (Spain or Portugal are on the shortlist), to make travel easier than to Fuerteventura.
+- The team estimates a budget of around 65,000 EUR for 2027, depending on location, accommodation, catering, conference room, surf lessons and transfers.
+- The team asked whether 2026 funds are still available, since travel to scout potential locations for 2027 will likely be necessary later in 2026.
+
+
+Obligations to cooperate
+------------------------
+
+Event Management of the Company. Core team for coaching.
+
+Financial and human resources impacts
+-------------------------------------
+
+The Surfcamp 2027 aims to use a budget of 65,000 € plus travel expenses for location scouting. A team for the organization is available. No efforts by the Board is needed. 
+
+Resolution/Petitum
+------------------
+
+Reserve unused budget of 2026 for usage for the surfcamp 2027. 
+
+Changes in detail:
+
+======  ==================================  ===========
+Budget  Purpose                             Change
+======  ==================================  ===========
+6511    Phone & Postage                     -500 EUR
+6553    Expenses GA                         -5,000 EUR
+6600    Expenses Marketing (Podcast, ...)   -1,000 EUR
+6617    Contributor Workspace Onboarding    -12,000 EUR
+======  ==================================  ===========
+
+This allows us to use 18,500 € for the Surfcamp 2027. The remaining 46,500 € of the total budget of 65,000 € have to be drawn from the remaining funds of 6626 Surfcamp (7,000 €) and next year's budget (39,500 €).
+
+Additional travel costs for scouting can be covered by the travel bucket. This needs to be applied for beforehand. 
+
+As a requirement for the budget, the Board likes to receive a statistical report after the event, about the success of the surfcamps. Success is measured by the contribution rate (contribution is counted by regular activity in any team or TYPO3 project) among former surfcamp participants. 
+
+
+Discarded alternatives
+----------------------
+
+None
+
+Attachments
+-----------
+
+None
+
+Comments
+--------
+
+None
