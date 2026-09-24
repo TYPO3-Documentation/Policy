@@ -6,12 +6,12 @@
 >
     <extension
             class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
-            project-home="https://docs.typo3.org/m/typo3/community-infrastructure/main/en-us/"
+            project-home="https://docs.typo3.org/permalink/guide-policy:start"
             project-contact="mailto:info@typo3.org"
-            project-repository="https://github.com/TYPO3-Documentation/Community-Infrastructure"
-            project-issues="https://github.com/TYPO3-Documentation/Community-Infrastructure/issues"
+            project-repository="https://github.com/TYPO3-Documentation/Policy"
+            project-issues="https://github.com/TYPO3-Documentation/Policy/issues"
             edit-on-github-branch="main"
-            edit-on-github="TYPO3-Documentation/Community-Infrastructure"
+            edit-on-github="TYPO3-Documentation/Policy"
             typo3-core-preferred="latest"
             interlink-shortcode="guide-policy"
     />
