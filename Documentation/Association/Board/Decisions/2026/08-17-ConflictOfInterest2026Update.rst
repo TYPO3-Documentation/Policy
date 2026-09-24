@@ -31,6 +31,7 @@ Board Member          Attendance    Vote
 .. _Martin Helmich: https://my.typo3.org/u/mhelmich
 .. _Jana Höffner: https://my.typo3.org/u/janahh
 .. _Thomas Maroschik: https://my.typo3.org/u/tmaroschik
+.. _Rachel Foucard: https://my.typo3.org/u/rakel
 
 Decision description
 ====================
