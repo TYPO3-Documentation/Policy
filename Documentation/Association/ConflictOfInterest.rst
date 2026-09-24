@@ -161,7 +161,7 @@ Compliance Review Panel members pool (1 month after each GA)
 Take over (A conflict of Interest is declared)
 ----------------------------------------------
 
-- Any TYPO3 association member, TYPO3 company employee, or TYPO3 Association or Company's provider aware of a conflict of interest can declare it by emailing the TYPO3 Association Compliance Officer.
+- Any TYPO3 association member, TYPO3 company employee, or TYPO3 Association or Company's provider aware of a conflict of interest can declare it by emailing the TYPO3 Association Compliance Officer at `compliance@typo3.org <mailto:compliance@typo3.org>`__.
 - The declaration is received in the OTOBO ticketing system, it is automatically assigned to the Compliance Officer
 - The Compliance Officer has 1 working week to add the topic in the next board meeting and answer the member that their declaration is taken over
 - The Compliance Officer creates a Reported disclosure record in the register and closes the OTOBO ticket.
