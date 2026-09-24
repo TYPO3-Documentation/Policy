@@ -47,7 +47,7 @@ Benefits for Official Teams
 ---------------------------
 
 * The leader and any other active team member can receive a typo3.org e-mail address. The address will be retained until the role ends (12 months of no activity in any team).
-* A team can maintain a team page at `the typo3.community Teams pages <https://typo3.community/contribute/teams-committees>`.
+* A team can maintain a team page at `the typo3.community Teams pages <https://typo3.community/contribute/teams-committees>`_.
 * A team member is allowed to call himself “Member of the TYPO3 [team name] Team“ as long as the member is active in the team.
 * A team can be assigned a budget (funding) by the Association or TYPO3 GmbH.
 
