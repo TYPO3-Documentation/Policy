@@ -19,7 +19,7 @@ All decisions of the TYPO3 Association Board are published as reStructured Text 
 
 Document naming and location *MUST* follow the pattern `Documentation/Association/Board/Decisions/YYYY/MM-DD-<DECISION TITLE>.rst`.
 
-.. _Decision directory: /Documentation/Association/Board/Decisions/index.rst
+.. _Decision directory: /Documentation/Association/Board/Decisions/
 
 2. Publication workflow
 =======================
