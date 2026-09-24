@@ -1,4 +1,4 @@
-:navigation-title: MM-DD <DECISION TITLE>
+:navigation-title: 09-17 Conflict of Interest Policy 2026 Update
 ..  include:: /Includes.rst.txt
 ..  _t3a-board-decision-2026-08-17-conflict-of-interest-2026-update:
 
@@ -14,16 +14,16 @@ Board Decision: Conflict of Interest Policy 2026 Update
 Attendance and voting
 =====================
 
-====================  ==========  ======
-Board Member          Attendance  Vote
-====================  ==========  ======
-`Olivier Dobberkau`_  In meeting  ✅ Yes
-`Stefan Busemann`_    In meeting  ✅ Yes
-`Jochen Weiland`_     In meeting  ✅ Yes
-`Martin Helmich`_     In meeting  ✅ Yes
-`Jana Höffner`_       In meeting  ✅ Yes
+====================  ============  ===========
+Board Member          Attendance    Vote
+====================  ============  ===========
+`Olivier Dobberkau`_  In meeting    ✅ Yes
+`Stefan Busemann`_    In meeting    ✅ Yes
+`Jochen Weiland`_     In meeting    ✅ Yes
+`Martin Helmich`_     In meeting    ✅ Yes
+`Jana Höffner`_       In meeting    ✅ Yes
 `Thomas Maroschik`_   Not attended  ⚫ Recused
-====================  ==========  ======
+====================  ============  ===========
 
 .. _Olivier Dobberkau: https://my.typo3.org/u/oli4
 .. _Stefan Busemann: https://my.typo3.org/u/stefan.busemann
