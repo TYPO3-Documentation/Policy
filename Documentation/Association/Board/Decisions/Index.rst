@@ -1,9 +1,9 @@
-:navigation-title: Board
+:navigation-title: Decisions
 ..  include:: /Includes.rst.txt
-..  _t3a-board:
+..  _t3a-board-decisions:
 
 =========================================================
-Rules and Policies for the Board of the TYPO3 Association
+Decisions of the Board of the TYPO3 Association
 =========================================================
 
 ..  toctree::
