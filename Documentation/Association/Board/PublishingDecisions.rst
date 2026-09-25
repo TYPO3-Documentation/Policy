@@ -15,11 +15,11 @@ Publishing Decisions of the TYPO3 Association Board
 1. Publication location
 =======================
 
-All decisions of the TYPO3 Association Board are published as reStructured Text documents in the `Decision directory`_ of the TYPO3 Association Policy directory. The decision directory is structured by year, and each decision is published as a separate document.
+All decisions of the TYPO3 Association Board are published as reStructured Text documents in the
+:ref:`Decision directory <t3a-board-decisions>` of the TYPO3 Association Policy
+directory. The decision directory is structured by year, and each decision is published as a separate document.
 
 Document naming and location *MUST* follow the pattern `Documentation/Association/Board/Decisions/YYYY/MM-DD-<DECISION TITLE>.rst`.
-
-.. _Decision directory: /Documentation/Association/Board/Decisions/index.rst
 
 2. Publication workflow
 =======================
