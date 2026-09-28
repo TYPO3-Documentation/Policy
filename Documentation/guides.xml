@@ -13,6 +13,7 @@
             edit-on-github-branch="main"
             edit-on-github="TYPO3-Documentation/Policy"
             typo3-core-preferred="latest"
+            check-link-text="true"
             interlink-shortcode="guide-policy"
     />
     <project title="TYPO3 Community infrastructure"
