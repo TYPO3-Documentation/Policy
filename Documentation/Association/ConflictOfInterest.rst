@@ -54,7 +54,7 @@ There are several types of conflict of interest:
 * A **perceived** conflict of interest exists when the public may believe that an individual's personal interests could influence the performance of his or her official duties - whether or not this is actually the case.
 
 Duties and Requirements
-===============
+=======================
 
 Any individual falling within the scope of the sensitive processes, critical positions and at-risk operations defined above must :
 
@@ -122,24 +122,24 @@ Possible Conflict of Interest Mapping
 | service providers(5)        | by by-laws       | by by-laws       |                                          |                                          |                                          |                                          |
 +-----------------------------+------------------+------------------+------------------------------------------+------------------------------------------+------------------------------------------+------------------------------------------+
 
-(1) References to a person's interests include interests held by their close relatives and persons with whom they have a close personal relationship where those interests could reasonably be perceived as influencing the person's judgment.							
-(2) Financial interest refers to an ownership, equity or comparable economic interest in the agency, and does not include ordinary commercial customer or supplier relationships.							
-(3) GmbH employee with critical role: Any role or position related to sensitive processes listed in the Conflict of Interest Policy							
-(4) Association officers: Data Privacy Officer, Compliance Officer, Trademark Officer, Ambassadors, etc.							
-(5) For external contractors and service providers, the default impact severity is High. Where the total annual value of the services provided to the TYPO3 Association is below €50,000, the impact may be assessed as Low depending on the nature and significance of the contractual relationship.							
+(1) References to a person's interests include interests held by their close relatives and persons with whom they have a close personal relationship where those interests could reasonably be perceived as influencing the person's judgment.
+(2) Financial interest refers to an ownership, equity or comparable economic interest in the agency, and does not include ordinary commercial customer or supplier relationships.
+(3) GmbH employee with critical role: Any role or position related to sensitive processes listed in the Conflict of Interest Policy.
+(4) Association officers: Data Privacy Officer, Compliance Officer, Trademark Officer, Ambassadors, etc.
+(5) For external contractors and service providers, the default impact severity is High. Where the total annual value of the services provided to the TYPO3 Association is below €50,000, the impact may be assessed as Low depending on the nature and significance of the contractual relationship.
 
 
 Reporting a Conflict of Interest
-=====================================
+================================
 
-Any TYPO3 Association member, TYPO3 GmbH employee, or provider working for the TYPO3 Association or TYPO3 GmbH who becomes aware of a potential conflict of interest may report it to the TYPO3 Association Compliance Officer using the dedicated form available on **this page**. The report may concern the reporting person's own situation or a situation involving another person.
+Any TYPO3 Association member, TYPO3 GmbH employee, or provider working for the TYPO3 Association or TYPO3 GmbH who becomes aware of a potential conflict of interest may report it to the TYPO3 Association Compliance Officer using `compliance@typo3.org <mailto:compliance@typo3.org>`__. The report may concern the reporting person's own situation or a situation involving another person.
 
 The Compliance Officer will acknowledge the report within one working week, record it, assess the available information, and prepare a recommendation for the TYPO3 Association Compliance review panel. The Compliance review panel decides whether a conflict of interest exists and, where applicable, determines the appropriate measures in accordance with this policy.
 
 The person who submitted the report will be informed of the decision. Confirmed conflicts of interest and their management are recorded and periodically reviewed in accordance with the Conflict of Interest Resolution Process.
 
 Detailed Process
-===================================
+================
 
 **This chapter describes how Conflicts of Interest are managed, from declaration to resolution by the TYPO3 Association.**
 
@@ -147,12 +147,14 @@ Review (1 month after each GA)
 ------------------------------
 
 - The Compliance Officer sends an email to all persons listed in the Conflict of Interest register to ask them either to validate the declared situation, or to inform about any new situation.
-- The recipient have 2 weeks to answer about their situation
+- The recipient has 2 weeks to answer about their situation
+
   - If the situation hasn’t changed, the Board member responsible for the conflicts of interest documentation adds the last update date of the conflict.
   - If the situation has changed, the conflict goes through the next steps like a new conflict.
 
+
 Compliance Review Panel members pool (1 month after each GA)
-------------------------------------
+------------------------------------------------------------
 
 - The Compliance Officer updates the Compliance Review Panel members pool based on the elected Board and BCC members.
 - A public rotation list includes all current Board and BCC members and is initially ordered alphabetically by last name. For each case, the first three eligible persons are selected. Anyone who has a conflict of interest is skipped for that case without losing their place. After serving, Panel members move to the end of the list.
@@ -170,14 +172,18 @@ Take over (A conflict of Interest is declared)
 Identify (The next board meeting after the declaration)
 -------------------------------------------------------
 
-- The Case Officer prepare a conflict of interest decision paper with the information needed:
+- The Case Officer prepares a conflict of interest decision paper with the information needed:
+
   - The needed information for the decision paper
   - The selected members of the Compliance review panel
   - The Case Officer recommendations
+
 - The Compliance review panel must identify the conflict of interest with the help of the Conflict of Interest Mapping and the Conflict of Interest priority matrix
-- The Compliance review panel vote (simple majority, no possible abstention) a decision on :
+- The Compliance review panel votes (simple majority, no possible abstention) a decision on :
+
   - Is it a conflict of interest?
   - If so, what is its type and impact severity?
+
 - The Compliance review panel must record the decision in the meeting protocol
 
 Disclose (Four weeks after the identification of a conflict of interest)
@@ -192,12 +198,12 @@ Manage (The next board meeting after the disclosure of a priority Conflict of In
 
 - If the Compliance review panel identified a conflict of interest of any type, the board must decide on actions to avoid the Conflict of Interest, or reduce the Conflict of Interest probability or severity impact
 - The possible type of actions are listed in the Conflict of Interest Policy’s Resolution strategies chapter
-- The Compliance Officer prepare a decision paper according to the actions
+- The Compliance Officer prepares a decision paper according to the actions
 - The Board votes (quorum) the strategies they want to apply
 - The Board must record the decision in the meeting protocol
 
 Monitor (One year after the strategies implementation)
----------------------------------
+------------------------------------------------------
 
 - The Board must validate during a QSA during the conflict of interests policy review that the change is significant and that the strategies were successful.
 - The Board must record the validation in the QSA protocol
