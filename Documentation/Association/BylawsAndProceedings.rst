@@ -11,6 +11,8 @@ By-Laws & Proceedings — Statutes of the TYPO3 Association
 
 .. Attention:: This is a non-authoritative English translation of the :ref:`original German statutes <bylaws-de>`. The original German version is the legally binding version. In case of any discrepancies, the German version shall prevail.
 
+*This is an English translation provided for accessibility purposes only. The legally binding version is the German original.*
+
 ..  _bylaws-i:
 
 I. Name, legal form, registered office
@@ -72,7 +74,7 @@ Art. 5 Acceptance
 
 On written request, new members shall be accepted through decision of the Association Board via immediate provisional acceptance. Definitive acceptance shall occur through the General Assembly.
 
-If the Association refuses to grant acceptance, then the applicant can contest the decision within 30 days after the application is received by the Association Board for the attention of the General Assembly.
+If the Association Board refuses to grant provisional acceptance, then the applicant can contest the decision within 30 days after the application is received by the Association Board for the attention of the General Assembly.
 
 The Association Board and the General Assembly shall decide concerning the acceptance request at their own discretion. They shall not be obligated to provided the reasons for a rejection.
 
@@ -169,7 +171,7 @@ The tasks and competencies of the General Assembly are as follows:
 #. Approval of the minutes of the last General Assembly
 #. Acceptance of the annual report drawn up by the Association Board
 #. Acceptance of the annual financial statements and the reports of the Auditors, as well as of the Business Control Committee
-#. Granting of discharge to the Association Board, Expert Advisory Board, Treasurer, Auditors, Business Control Committee and committees
+#. Granting of discharge to the Association Board, Auditors, Business Control Committee and Committees
 #. Definitive acceptance of members
 #. Review of the budget for the current year
 #. Acceptance fee and annual fee of the members for the current membership year;
@@ -200,7 +202,7 @@ Instead of a meeting by gathering, ballot votes (written majority decisions conc
 
 For votes of the Auditors and of the Business Control Committee, in a first ballot the absolute majority, in the second ballot the relative majority of the voting members shall apply.
 
-The General Assembly shall decide by open ballot in all cases, unless the General Assembly decides to conduct the vote by secret ballot. On request of a voting member this can be decided with two-thirds majority of the voting members present. In the case of an Internet General Assembly or virtual General Assembly, the Association Board shall ensure that the secret ballot procedure can occur electronically.
+The General Assembly shall decide by open ballot in all cases, unless the General Assembly decides to conduct the vote by secret ballot. On request of a voting member this can be decided with one-third majority of the voting members present. In the case of an Internet General Assembly or virtual General Assembly, the Association Board shall ensure that the secret ballot procedure can occur electronically.
 
 Each member shall be entitled to contest decisions that violate the law or the statutes, within 30 days after knowledge of such decisions is obtained.
 
@@ -237,11 +239,11 @@ Art. 18 Election procedure and term of office
 
 The term of office for the association’s board is three years according to the financial year or calendar year. Only members of the association can be elected as members of the board. Re-election is permitted. The board has a maximum of 9 members.
 
-At the end of the term of office, elections for the association’s board are held during the general assembly. The first time the board is elected, the elected members select 4 board members whose term of office is only one year in order to ensure continuity in the board (meaning new elections are held each year).
+At the end of the term of office, elections for the association’s board are held during the general assembly. Each year up to three Association Board members shall be newly elected.
 
-Every association member may nominate themselves or another board candidate for election; nominees have to confirm their candidacy in advance. Written notice of proposed board candidates must be submitted to the board no later than during the general assembly. The association’s board may also be elected prior to the general assembly by online voting. In this case, the members must be granted a reasonable advance term for the announcement of board candidates.
+Every association member may nominate themselves or another board candidate for election; nominees have to confirm their candidacy in advance. Written notice of proposed board candidates must be submitted to the board no later than six weeks before the general assembly. The association’s board may also be elected prior to the general assembly by online voting. In this case, the members must be granted a reasonable advance term for the announcement of board candidates.
 
-The outcome of the election is decided by counting the votes received by the candidates (in case of tie votes for excess candidates, there shall be a second ballot; in case of another tie vote, the decision is made by lot). The election and assignment of functions (president, vice president, actuary and treasurer) are performed during the general assembly before the start of a new term of office by a simple majority of the attending board members.
+The outcome of the election is decided by counting the votes received by the candidates. A candidate shall be elected if they receive at least 50% of the votes cast. If candidates do not achieve this majority in the first ballot, further ballots shall follow until the required majority is reached. In case of tie votes for excess candidates, there shall be a second ballot; in case of another tie vote, the decision is made by lot. The election and assignment of functions (president, vice president, actuary and treasurer) are performed during the general assembly before the start of a new term of office by a simple majority of the attending board members.
 
 The candidate for the office of president must have been a member of the association’s board for at least one year, otherwise the term of office is limited to one year.
 
@@ -258,30 +260,29 @@ Art. 19 Business of the Association Board
 
 The Association Board shall be responsible for arranging the Association's affairs. In particular, the Association Board shall be responsible for
 
-#. External representation of the TYPO3 Association;
+#. External representation of the TYPO3 Association
 #. Preparation of the business of the General Assembly
 #. Execution of the decisions of the General Assembly
 #. Deployment of committees and individual persons without decision-making authority for special tasks
-#. Budget submission to the Expert Advisory Board
+#. Budget submission to the Business Control Committee
 #. Drawing up the annual financial statement
 #. Deciding on provisional acceptance and exclusion of members
-#. Deciding on other matters of particular significance at the request of the Association Board.
+#. Deciding on other matters of particular significance at the request of the Association Board
 #. Strategy of the TYPO3 Association
-#. Election of the Association Board and staffing of the Association Board duties
-#. Budget of the TYPO3 Association Negotiation (with due consideration of the member survey), preparation, substantiation and resolution
-#. Review of the annual financial statement
+#. Budget of the TYPO3 Association: Negotiation (with due consideration of the member survey), preparation, substantiation and resolution
 #. Execution of the decisions of the General Assembly
 #. Definition of the application procedure for project contributions
 #. Review of the content of the project applications
 #. Verification of the approved projects
-#. The Association Board shall issue Rules of Procedure and shall regulate its tasks and division of responsibility therein. Each year the Association Board shall prepare an annual report concerning its activity.
+
+The Association Board shall issue Rules of Procedure and shall regulate its tasks and division of responsibility therein. Each year the Association Board shall prepare an annual report concerning its activity.
 
 ..  _bylaws-20:
 
 Art. 20 Convocation, minutes
 ----------------------------
 
-Meetings shall be convened by the President of the Association Board, as often as business matters so require. Each member of the Association Board shall be entitled to request a meeting. In this case the meeting must be held within three weeks. The Association Board shall keep minutes of resolutions. By order of the President or on request of a member of the Association Board, votes that have been taken shall be summarised and recorded in the minutes.
+Meetings shall be convened by the President of the Association Board, as often as business matters so require, but at least once annually before the end of the term of office (main meeting). Each member of the Association Board shall be entitled to request a meeting. In this case the meeting must be held within three weeks. The Association Board shall keep minutes of resolutions. By order of the President or on request of a member of the Association Board, votes that have been taken shall be summarised and recorded in the minutes.
 
 ..  _bylaws-21:
 
@@ -323,7 +324,7 @@ C Auditors (audit authority)
 Art. 25 Make-up, term of office
 -------------------------------
 
-The General Assembly shall elect for a term of office of one year, a recognised trust agency as auditing authority, which has been approved in accordance with the regulations of the Swiss Audit Supervision Act of 12/16/2005. Even without legal obligation, the Association shall commission the audit authority to conduct an unrestricted audit in accordance with provisions of Art. 729-729c OR. Through resolution of the General Assembly, the General Assembly can dispense with an unrestricted audit of the following Association year.
+The General Assembly shall elect for a term of office of one year, a recognised trust agency as auditing authority, which has been approved in accordance with the regulations of the Swiss Audit Supervision Act of 12/16/2005. Even without legal obligation, the Association shall commission the audit authority to conduct a limited audit in accordance with provisions of Art. 729-729c OR. Through resolution of the General Assembly, the General Assembly can dispense with a limited audit of the following Association year.
 
 The audit authority shall audit the bookkeeping, and shall report in writing to the General Assembly and refuse or grant discharge relative to the Treasurer and the Association Board.
 
@@ -341,7 +342,7 @@ The Business Control Committee shall consist of 4 members.
 
 The term of office of the Business Control Committee shall be two years. Election shall occur through the General Assembly. Re-election is permitted. Only members of the Association can be elected to serve as members of the Business Control Committee. With termination of membership in the Association the office of a member of the Business Control Committee shall also be terminated. In the case of by-elections during the term of office, the newly elected member of the Business Control Committee shall complete the term of office of the predecessor. In even years the first half of the members of the Business Control Committee shall be elected, in odd years the second half of the members shall be elected.
 
-The Business Control Committee shall be entitled to review all project loans for expenditure agreement with the loan application, achievement of the cited objectives and cost-efficient project fulfillment. It shall report to the Expert Advisory Board and to the Association Board quarterly and shall report to the General Assembly annually in writing.
+The Business Control Committee shall be entitled to review all project loans for expenditure agreement with the loan application, achievement of the cited objectives and cost-efficient project fulfillment. It shall report to the Association Board quarterly and shall report to the General Assembly annually in writing.
 
 The Business Control Committee shall issue Rules of Procedure and shall regulate its tasks and division of responsibility therein.
 
@@ -355,7 +356,7 @@ E Committees
 Art. 27 Committees
 ------------------
 
-The Expert Advisory Board and the Association Board shall be entitled to utilise advisory committees or individual persons without decision-making authority for special tasks.
+The Association Board shall be entitled to utilise advisory committees or individual persons without decision-making authority for special tasks.
 
 ..  _bylaws-v:
 
@@ -388,7 +389,7 @@ The acceptance fees, as well as the annual fees, are specified by the General As
 
 At any time, members and third parties shall be entitled to inject funds that Association can freely dispose of for achievement of the Association's objectives (in particular via fund-raising activities).
 
-The Association's expenditures shall be specified with the budget. The budget shall show the appropriated amounts per legal transaction. The budget shall be prepared and decided on by the Expert Advisory Board. Prior to preparing the budget a survey of the members shall be conducted (also possible via electronic means) concerning the project applications. Budget applications shall be formally reviewed by the Treasurer.
+The Association's expenditures shall be specified with the budget. The budget shall show the appropriated amounts per legal transaction. The budget shall be prepared and decided on by the Association Board. Prior to preparing the budget a survey of the members shall be conducted (also possible via electronic means) concerning the project applications. Budget applications shall be formally reviewed by the Treasurer.
 
 ..  _bylaws-30:
 
@@ -402,7 +403,7 @@ In exceptional cases, the Association Board can decide on budget excesses of a m
 Art. 31 Compensation
 --------------------
 
-A compensation can be granted to the members of the Association Board of the Expert Advisory Board and of the Business Control Committee. This must be specified in the budget.
+A compensation can be granted to the members of the Association Board and of the Business Control Committee. This must be specified in the budget.
 
 ..  _bylaws-32:
 
