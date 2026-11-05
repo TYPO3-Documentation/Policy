@@ -23,7 +23,7 @@ Art. 1 Name, legal form
 
 Under the name TYPO3 Association there exists an Association as stipulated in Art. 60 ff. of the Swiss Civil Code.
 
-..  _bylaws-:
+..  _bylaws-2:
 
 Art. 2 Registered office
 ------------------------
@@ -306,7 +306,7 @@ Art. 23 President
 
 Usually the President presides over the meeting of the Association, and chairs the Association Board. He monitors the TYPO3 Association activity within the framework of the resolutions of the General Assembly and of the Association Board.
 
-..  _bylaws-23:
+..  _bylaws-24:
 
 Art. 24 Treasurer
 -----------------
