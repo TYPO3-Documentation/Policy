@@ -1,0 +1,88 @@
+:navigation-title: 05-15 Surfcamp 2025
+..  include:: /Includes.rst.txt
+..  _t3a-board-decision-2024-05-15-surfcamp2025:
+
+=========================================================
+Board Decision: TYPO3 Surfcamp 2025 - Should it happen?
+=========================================================
+
+:Proposed at: 15 May 2024
+:Decision owner: `Susi Moog`_
+:Decision status: ✅ Accepted, with **6 yes and 1 no**
+
+Attendance and voting
+=====================
+
+========================  ============  ==========
+Board Member              Attendance    Vote
+========================  ============  ==========
+`Olivier Dobberkau`_      In meeting    ✅ Yes
+`Stefan Busemann`_        In meeting    ✅ Yes
+`Boris Hinzer`_           In meeting    ✅ Yes
+`Rachel Foucard`_         In meeting    ✅ Yes
+`Susi Moog`_              In meeting    ✅ Yes
+`Tymoteusz Motylewski`_   In meeting    ❌ No
+`Thomas Maroschik`_       In meeting    ✅ Yes
+========================  ============  ==========
+
+.. _Olivier Dobberkau: https://my.typo3.org/u/oli4
+.. _Stefan Busemann: https://my.typo3.org/u/stefan.busemann
+.. _Boris Hinzer: https://my.typo3.org/u/web-vision
+.. _Rachel Foucard: https://my.typo3.org/u/rakel
+.. _Susi Moog: https://my.typo3.org/u/psychomieze
+.. _Tymoteusz Motylewski: https://my.typo3.org/u/tmotylewski
+.. _Thomas Maroschik: https://my.typo3.org/u/tmaroschik
+
+Decision description
+====================
+
+Facts/Problem
+-------------
+
+- The teams are getting older, the community is getting older on average.
+- TYPO3 has the reputation of being an "old" CMS.
+- TYPO3 has the reputation of being "uncool".
+- Younger people have fewer connections to the community, old-timers often spend their time with each other.
+
+Objective
+---------
+
+- Improve TYPO3's reputation as a cooler, fresh community and system.
+- Create connections and pathways for the next generation into the community.
+- Connect younger people in their age group through TYPO3.
+- Educate younger people on "the ways of the community" - how to contribute, where to go, whom to ask etc.
+- Long-term: get younger people into the community teams.
+
+Obligations to cooperate
+------------------------
+
+- Mentors are needed at the event to guide the teams along (ideally from the Core Team or other core community teams).
+- Marketing and social media teams should be present at the event.
+- TYPO3 GmbH should be involved in the organization of the event.
+
+Financial and human resources impacts
+-------------------------------------
+
+- Last year's expenses were roughly 55,000 EUR; for this year we aim at a 60,000 EUR budget, with leeway for adding hardship tickets. The calculation is based on the cost for the event location (~35,000 EUR), flights for the mentors, social activities (like team events) at the location and soft drinks.
+- Time-wise, the mentors will need to be at the event and have some time (~5 days of work) before and after the event to get and keep in touch with the participants.
+- The social media and marketing team will need additional time after the event to create posts and videos.
+
+Resolution/Petitum
+------------------
+
+Is the Board willing to provide a budget of 60,000 EUR for the Surfcamp 2025? The budget will be split over two years.
+
+Discarded alternatives
+----------------------
+
+None
+
+Attachments
+-----------
+
+[Link to list of incurred expenses in 2024 (reimbursement tool, board internal)]
+
+Comments
+--------
+
+None
