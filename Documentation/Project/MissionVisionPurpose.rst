@@ -11,7 +11,7 @@ Empower, Enable, Equalize! — The TYPO3 Project's Vision, Mission, and Purpose
 Preface
 =======
 
-This vision, mission, and purpose statement was developed by the `TYPO3 Association Board <https://typo3.org/project/association/structure/board>`__ and representatives from the `TYPO3 Company <https://typo3.com/typo3-gmbh>`__ and the `TYPO3 Core Team <https://typo3.org/community/teams/typo3-development>`__, with the help from external consultants.
+This vision, mission, and purpose statement was developed by the `TYPO3 Association Board <https://typo3.org/association/structure/board>`__ and representatives from the `TYPO3 Company <https://typo3.com/typo3-gmbh>`__ and the `TYPO3 Core Team <https://typo3.org/community/teams/typo3-development>`__, with the help from external consultants.
 
 Having a clear vision, mission, and purpose for the project means we can have clear visions, missions, and purposes for other fields of responsibility as well. Those will form the basis for strategic decisions.
 

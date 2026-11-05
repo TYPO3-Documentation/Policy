@@ -95,7 +95,7 @@ What do we fund, what is not getting funded
 
 The TYPO3 Association wants to support the TYPO3 project, TYPO3 CMS and it's community. We are happy about any ideas, which are working towards our goals and fit with our rules:
 
-* Budget Ideas must be aligned with our `five goals <https://typo3.org/project/association#c7325>`__
+* Budget Ideas must be aligned with our `five goals <https://typo3.org/association>`__
 * We don’t want to freelance people
 * Invested money, must create a value towards our members. project or product
 * Working time in a budget should **not** exceed 50%

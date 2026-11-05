@@ -13,23 +13,23 @@ Travel Expense and Reimbursement Regulations for the TYPO3 Association
 Introduction and Getting-Started Guide
 ======================================
 
-**If you are new to the reimbursement process, you can read this introduction to learn the basics of how and when to reimburse expenses from the TYPO3 Association. If you have further questions, please feel free to contact the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ or read the detailed :ref:`Reimbursement Regulations <reimbursement-regulations>`.**
+**If you are new to the reimbursement process, you can read this introduction to learn the basics of how and when to reimburse expenses from the TYPO3 Association. If you have further questions, please feel free to contact the `budget owner <https://typo3.org/association/funding-finances/budget>`__ or read the detailed :ref:`Reimbursement Regulations <reimbursement-regulations>`.**
 
-While it is your job to correctly document your expenses and submit them in time, it is each budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__’s responsibility to answer your questions and give you the information they think you need.
+While it is your job to correctly document your expenses and submit them in time, it is each `budget owner <https://typo3.org/association/funding-finances/budget>`__’s responsibility to answer your questions and give you the information they think you need.
 
 ..  _reimbursement-members-money:
 
 It Is the Members’ Money
 ------------------------
 
-The `TYPO3 Association <https://typo3.org/project/association>`__ is a not-for-profit organization funded by our `members <https://typo3.org/project/association/members>`__. We reimburse expenses and work time as a way to enable our community to do great things for TYPO3. If your expenses can be covered through other means, such as by your employer, we ask that you pursue such possibilities.
+The `TYPO3 Association <https://typo3.org/association>`__ is a not-for-profit organization funded by our `members <https://typo3.org/association/membership/directory>`__. We reimburse expenses and work time as a way to enable our community to do great things for TYPO3. If your expenses can be covered through other means, such as by your employer, we ask that you pursue such possibilities.
 
 ..  _reimbursement-budget-owners:
 
 Budgets and Budget Owners
 -------------------------
 
-Each year, the `TYPO3 Association <https://typo3.org/project/association>`__’s money is divided into budgets for teams and projects, based on input from the `members <https://typo3.org/project/association/members>`__. Each budget has a single Budget Owner. This is the person to contact if you have questions. It is also the person who accepts (or rejects) your reimbursement requests. `List of budgets and their owners <https://typo3.org/project/association/funding-finances/budget#c13503>`__
+Each year, the `TYPO3 Association <https://typo3.org/association>`__’s money is divided into budgets for teams and projects, based on input from the `members <https://typo3.org/association/membership/directory>`__. Each budget has a single Budget Owner. This is the person to contact if you have questions. It is also the person who accepts (or rejects) your reimbursement requests. `List of budgets and their owners <https://typo3.org/association/funding-finances/budget>`__
 
 ..  _reimbursement-process:
 
@@ -43,18 +43,18 @@ You should start the reimbursement process early, before you have had any expens
 1. Ask the Budget Owner for pre-approval
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ask the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ for pre-approval of your expenses using the `Pre-Approval Form <https://typo3.org/project/association/funding-finances/reimbursement-regulations/pre-approval>`__. You do not have to do this if the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ has issued a general pre-approval for your type of expense, but unless you’re certain of that, submitting the form is the way to go.
+Ask the `budget owner <https://typo3.org/association/funding-finances/budget>`__ for pre-approval of your expenses using the `Pre-Approval Form <https://typo3.org/association/funding-finances/reimbursement-tool/reimbursement-pre-approval>`__. You do not have to do this if the `budget owner <https://typo3.org/association/funding-finances/budget>`__ has issued a general pre-approval for your type of expense, but unless you’re certain of that, submitting the form is the way to go.
 
-A pre-approval means the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ sees nothing wrong with reimbursing your expenses based on the information you have given. Your reimbursement request will be accepted when the time comes, as long as it does not violate the :ref:`Reimbursement Regulations <reimbursement-regulations>`, e.g. by being contrary to the pre-approval, insufficiently documented, or submitted too late.
+A pre-approval means the `budget owner <https://typo3.org/association/funding-finances/budget>`__ sees nothing wrong with reimbursing your expenses based on the information you have given. Your reimbursement request will be accepted when the time comes, as long as it does not violate the :ref:`Reimbursement Regulations <reimbursement-regulations>`, e.g. by being contrary to the pre-approval, insufficiently documented, or submitted too late.
 
 ..  _reimbursement-process2:
 
 2. Book travel and lodging, do the work
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Book travel and lodging, do the work, and incur the expenses pre-approved by the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__. Make sure to keep hold of, photograph, or scan all receipts, invoices, time logs, and other paperwork that documents your expenses or work time. For more information, read :ref:`section 5, Documentation <reimbursement-regulations-5>`.
+Book travel and lodging, do the work, and incur the expenses pre-approved by the `budget owner <https://typo3.org/association/funding-finances/budget>`__. Make sure to keep hold of, photograph, or scan all receipts, invoices, time logs, and other paperwork that documents your expenses or work time. For more information, read :ref:`section 5, Documentation <reimbursement-regulations-5>`.
 
-If you are unable to cover travel, lodging, and food expenses, you can ask the budget owner for advance payment. You can do this by `submitting a reimbursement request <https://typo3.org/project/association/funding-finances/invoicing-the-typo3-association/reimbursement-tool/create-a-reimbursement>`__ documenting the expenses you expect to have. See section :ref:`2.n <reimbursement-regulations-2n>` for detailed requirements.
+If you are unable to cover travel, lodging, and food expenses, you can ask the budget owner for advance payment. You can do this by `submitting a reimbursement request <https://docs.typo3.org/m/typo3/guide-step-by-step/main/en-us/70ForOfficialRoles/BudgetsAndExpenses/CreateARegularReimbursementInTheReimbursementTool.html>`__ documenting the expenses you expect to have. See section :ref:`2.n <reimbursement-regulations-2n>` for detailed requirements.
 
 ..  _reimbursement-process3:
 
@@ -63,14 +63,14 @@ If you are unable to cover travel, lodging, and food expenses, you can ask the b
 
 `Submit a reimbursement request <https://docs.typo3.org/m/typo3/guide-step-by-step/main/en-us/70ForOfficialRoles/BudgetsAndExpenses/CreateARegularReimbursementInTheReimbursementTool.html#create-a-regular-reimbursement-in-the-reimbursement-tool>`__ using the Reimbursement Tool within 20 days. Check out the `step-by-step guide <https://docs.typo3.org/m/typo3/guide-step-by-step/main/en-us/70ForOfficialRoles/BudgetsAndExpenses/CreateARegularReimbursementInTheReimbursementTool.html#create-a-regular-reimbursement-in-the-reimbursement-tool>`__. This will send a request asking the budget owner to review your request.
 
-The reimbursement is usually paid out by `PayPal <https://www.paypal.com/>`__ or `bank transfer <https://en.wikipedia.org/wiki/Wire_transfer>`__ within a couple of weeks. A bit later you will receive an automatic email asking you to confirm that you have received the reimbursement. If the money has not arrived by this point, you should contact the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__.
+The reimbursement is usually paid out by `PayPal <https://www.paypal.com/>`__ or `bank transfer <https://en.wikipedia.org/wiki/Wire_transfer>`__ within a couple of weeks. A bit later you will receive an automatic email asking you to confirm that you have received the reimbursement. If the money has not arrived by this point, you should contact the `budget owner <https://typo3.org/association/funding-finances/budget>`__.
 
 ..  _reimbursement-travel-lodging-food:
 
 Travel, Lodging, and Food
 -------------------------
 
-Given the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__’s approval, the `TYPO3 Association <https://typo3.org/project/association>`__ reimburses **travel and lodging expenses, for real and practical participation in a TYPO3-related activity**. The expenses should cover travel with the best price/time ratio, on the most environmentally friendly means of transportation, in the :ref:`lowest service class <reimbursement-regulations-2c>`, from a person’s home to their destination, and back.
+Given the `budget owner <https://typo3.org/association/funding-finances/budget>`__’s approval, the `TYPO3 Association <https://typo3.org/association>`__ reimburses **travel and lodging expenses, for real and practical participation in a TYPO3-related activity**. The expenses should cover travel with the best price/time ratio, on the most environmentally friendly means of transportation, in the :ref:`lowest service class <reimbursement-regulations-2c>`, from a person’s home to their destination, and back.
 
 **Flying** distances shorter than 300 km one way is a big “no”. Using your **private car** is allowed at EUR 0.30/km, maximum EUR 220. More private car rules in :ref:`section 2.g <reimbursement-regulations-2g>`.
 
@@ -90,7 +90,7 @@ If you reimburse work time, you have to **keep a log** of hours worked. It has t
 Invoices
 --------
 
-If you’re a **business or freelancer, you can invoice** the `TYPO3 Association <https://typo3.org/project/association>`__ and submit the invoice as a part of the reimbursement request. Remember to write the budget number on the invoice. Most invoicing applications will generate **invoices that comply with the minimum requirements** in :ref:`section 4.d <reimbursement-regulations-4d>`. Remember that you’re invoicing a Swiss association, so you should only apply VAT if you are invoicing from Switzerland.
+If you’re a **business or freelancer, you can invoice** the `TYPO3 Association <https://typo3.org/association>`__ and submit the invoice as a part of the reimbursement request. Remember to write the budget number on the invoice. Most invoicing applications will generate **invoices that comply with the minimum requirements** in :ref:`section 4.d <reimbursement-regulations-4d>`. Remember that you’re invoicing a Swiss association, so you should only apply VAT if you are invoicing from Switzerland.
 
 Invoices need to have the correct recepient:
 TYPO3 Association
@@ -136,7 +136,7 @@ Expense types that can be reimbursed. These are: travel, lodging, event tickets,
 Reimbursement Tool
 ~~~~~~~~~~~~~~~~~~
 
-The `TYPO3 Association <https://typo3.org/project/association>`__’s reimbursement management tool at `reimbursement.typo3.com <https://reimbursement.typo3.com/>`__.
+The `TYPO3 Association <https://typo3.org/association>`__’s reimbursement management tool at `reimbursement.typo3.com <https://reimbursement.typo3.com/>`__.
 
 ..  _reimbursement-regulations-secondary-documentation:
 
@@ -162,7 +162,7 @@ Reimbursement requests shall only be approved if they comply with these Reimburs
 b. Relevance
 ~~~~~~~~~~~~
 
-Reimbursements must be relevant to the reimbursing budget. In case of uncertainty, the final decision is up to the `Business Control Committee <https://typo3.org/project/association/structure/business-control-committee>`__.
+Reimbursements must be relevant to the reimbursing budget. In case of uncertainty, the final decision is up to the `Business Control Committee <https://typo3.org/association/structure/business-control-committee>`__.
 
 ..  _reimbursement-regulations-1c:
 
@@ -183,14 +183,14 @@ Reimbursements will be made in Euro through bank account or `PayPal <https://www
 e. Taxes
 ~~~~~~~~
 
-The `TYPO3 Association <https://typo3.org/project/association>`__ shall not be liable for any fees or taxes incurred by the reimbursed when paying out a reimbursement.
+The `TYPO3 Association <https://typo3.org/association>`__ shall not be liable for any fees or taxes incurred by the reimbursed when paying out a reimbursement.
 
 ..  _reimbursement-regulations-1f:
 
 f. Pre-approval
 ~~~~~~~~~~~~~~~
 
-All reimbursements should be pre-approved by the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__. Pre-approval indicates that the budget owner will approve the reimbursement request as long as it complies with the Reimbursement Regulations. Requests for pre-approval must state:
+All reimbursements should be pre-approved by the `budget owner <https://typo3.org/association/funding-finances/budget>`__. Pre-approval indicates that the budget owner will approve the reimbursement request as long as it complies with the Reimbursement Regulations. Requests for pre-approval must state:
 
 1. A budget name, number, and purpose.
 2. An estimated cost.
@@ -203,7 +203,7 @@ All reimbursements should be pre-approved by the `budget owner <https://typo3.or
 g. General pre-approval
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-The `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ may choose to issue a general :ref:`pre-approval <reimbursement-regulations-1f>` of reimbursements for a specific purpose. General pre-approvals must state:
+The `budget owner <https://typo3.org/association/funding-finances/budget>`__ may choose to issue a general :ref:`pre-approval <reimbursement-regulations-1f>` of reimbursements for a specific purpose. General pre-approvals must state:
 
 1. The budget name, number, and purpose to which the general pre-approval applies.
 2. A maximum cost ceiling, above which the general pre-approval is invalid. Reimbursements above this ceiling should be individually pre-approved.
@@ -223,14 +223,14 @@ The budget owner can reject reimbursement requests submitted without :ref:`pre-a
 i. Splitting expenses
 ~~~~~~~~~~~~~~~~~~~~~
 
-Expenses can be split between multiple budgets using multiple reimbursements. `Budget owners <https://typo3.org/project/association/funding-finances/budget#c13503>`__ must be informed and agree to the split before such a reimbursement is made. The percentage reimbursed and the other budgets involved in the split must be included with the :ref:`reimbursement documentation <reimbursement-regulations-5>`.
+Expenses can be split between multiple budgets using multiple reimbursements. `Budget owners <https://typo3.org/association/funding-finances/budget>`__ must be informed and agree to the split before such a reimbursement is made. The percentage reimbursed and the other budgets involved in the split must be included with the :ref:`reimbursement documentation <reimbursement-regulations-5>`.
 
 ..  _reimbursement-regulations-1j:
 
 j. Documenting decisions
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-All budget-related decisions must be documented by the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ by uploading a PDF file in the Documents section of the budget's :ref:`Reimbursement Tool <reimbursement-regulations-tool>` Page. Budget-related decisions include reimbursement :ref:`pre-approvals <reimbursement-regulations-1f>`.
+All budget-related decisions must be documented by the `budget owner <https://typo3.org/association/funding-finances/budget>`__ by uploading a PDF file in the Documents section of the budget's :ref:`Reimbursement Tool <reimbursement-regulations-tool>` Page. Budget-related decisions include reimbursement :ref:`pre-approvals <reimbursement-regulations-1f>`.
 
 ..  _reimbursement-regulations-2:
 
@@ -249,10 +249,10 @@ Expenses for travel, lodging, and food must concern participation in a TYPO3-rel
 b. Expense types
 ~~~~~~~~~~~~~~~~
 
-The `TYPO3 Association <https://typo3.org/project/association>`__ will reimburse travel expenses with the best price/time ratio, on the most environmentally friendly means of transportation, from a person’s home to their destination, and back, including:
+The `TYPO3 Association <https://typo3.org/association>`__ will reimburse travel expenses with the best price/time ratio, on the most environmentally friendly means of transportation, from a person’s home to their destination, and back, including:
 
 1. Additional costs to reach home and destination.
-2. Trips on behalf of the `TYPO3 Association <https://typo3.org/project/association>`__ at the destination.
+2. Trips on behalf of the `TYPO3 Association <https://typo3.org/association>`__ at the destination.
 3. Reservation fees.
 4. Carriage of required luggage not otherwise included in the ticket.
 
@@ -295,8 +295,8 @@ g. Private car
 When using a private car, up to EUR 220 will be reimbursed at EUR 0.30/km using the shortest route found on `Google Maps <https://maps.google.com/>`__. If added as :ref:`Secondary Documentation <reimbursement-regulations-secondary-documentation>` in the reimbursement request, higher expenses or detours can be reimbursed in these cases:
 
 1. The destination cannot be reached by public transportation.
-2. Non-personal luggage of at least 25 kg is transported on behalf of the `TYPO3 Association <https://typo3.org/project/association>`__.
-3. It enables visiting several locations on the same day, on behalf of the `TYPO3 Association <https://typo3.org/project/association>`__.
+2. Non-personal luggage of at least 25 kg is transported on behalf of the `TYPO3 Association <https://typo3.org/association>`__.
+3. It enables visiting several locations on the same day, on behalf of the `TYPO3 Association <https://typo3.org/association>`__.
 4. Adverse weather or traffic conditions made a longer route preferable from a time or safety perspective.
 
 ..  _reimbursement-regulations-2h:
@@ -311,7 +311,7 @@ Plane tickets for distances below 300 km one way will not be reimbursed.
 i. CO2 offsetting
 ~~~~~~~~~~~~~~~~~
 
-Extra costs for CO2 offsetting will not be reimbursed. The `TYPO3 Association <https://typo3.org/project/association>`__ offsets emissions through our climate protection partner.
+Extra costs for CO2 offsetting will not be reimbursed. The `TYPO3 Association <https://typo3.org/association>`__ offsets emissions through our climate protection partner.
 
 ..  _reimbursement-regulations-2j:
 
@@ -335,7 +335,7 @@ l. Food
 Food costs will not be reimbursed, except for
 
 1. Breakfast, when included in the accommodation rate.
-2. Reasonably-priced shared meals with no alcoholic drinks (e.g. as a part of a sprint), when pre-approved by the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ and charged on a single receipt.
+2. Reasonably-priced shared meals with no alcoholic drinks (e.g. as a part of a sprint), when pre-approved by the `budget owner <https://typo3.org/association/funding-finances/budget>`__ and charged on a single receipt.
 
 ..  _reimbursement-regulations-2m:
 
@@ -366,7 +366,7 @@ If a person is unable to cover travel expenses out of their own pocket, travel e
 a. Mention in application
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Work time will only be reimbursed if it is explicitly mentioned in an approved `budget application <https://typo3.org/project/association/funding-finances/budget-application>`__, and only to the maximum amount mentioned therein.
+Work time will only be reimbursed if it is explicitly mentioned in an approved :ref:`budget application <budget-owner-application>`, and only to the maximum amount mentioned therein.
 
 ..  _reimbursement-regulations-3b:
 
@@ -392,7 +392,7 @@ The maximum rate must not exceed EUR 55/hour.
 a. Recipient
 ~~~~~~~~~~~~
 
-Invoices can be addressed to the `TYPO3 Association <https://typo3.org/project/association>`__ by businesses and freelancers.
+Invoices can be addressed to the `TYPO3 Association <https://typo3.org/association>`__ by businesses and freelancers.
 
 ..  _reimbursement-regulations-4b:
 

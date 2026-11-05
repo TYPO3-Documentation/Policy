@@ -142,14 +142,14 @@ Your application's approval will primarily be considered based on these criteria
 Using the Trademarks for an Event
 =================================
 
-Are you planning a TYPO3-related event? You have the full support of the `TYPO3 Association <https://typo3.org/project/association>`__. Please note the following conditions:
+Are you planning a TYPO3-related event? You have the full support of the `TYPO3 Association <https://typo3.org/association>`__. Please note the following conditions:
 
-* You agree to follow these trademark guidelines and communicate the event to the `TYPO3 Association <https://typo3.org/project/association>`__.
+* You agree to follow these trademark guidelines and communicate the event to the `TYPO3 Association <https://typo3.org/association>`__.
 * All of the above guidelines for company names, domains, links, and other identifiers, also apply to events.
-* The organizer must be a member of the `TYPO3 Association <https://typo3.org/project/association>`__.
+* The organizer must be a member of the `TYPO3 Association <https://typo3.org/association>`__.
 * The event must be a public event with no participation restrictions, except any maximum number of participants.
 
-We also ask that you consider donating a percentage of the event's total revenue to the `TYPO3 Association <https://typo3.org/project/association>`__. This donation will support the TYPO3 project.
+We also ask that you consider donating a percentage of the event's total revenue to the `TYPO3 Association <https://typo3.org/association>`__. This donation will support the TYPO3 project.
 
 `Register an Event <https://typo3.org/project/brand/trademarks/register-a-related-event>`__
 
