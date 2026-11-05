@@ -10,4 +10,5 @@ Rules and Policies for the TYPO3 Community
     :titlesonly:
     :glob:
 
+    */Index
     *
