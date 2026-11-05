@@ -18,8 +18,12 @@
 # decision, documented in the same manner.
 name: Check approvals
 
-# Runs as pull_request_target / pull_request_review so it has a write token and can
-# read reviews on fork PRs.
+# Runs on pull_request_target (label and push changes) and pull_request_review
+# (approvals and dismissals). The result is reported through the outcome of the
+# "Assert required approvals" job itself, which is the check to require in branch
+# protection. The job deliberately needs no write access: on fork PRs, the
+# GITHUB_TOKEN of a pull_request_review run is read-only, so publishing a separate
+# check run would fail with a 403 (see issue #56).
 #
 # SECURITY: never check out or execute PR-provided code here, and never interpolate
 # PR-controlled text into a shell. Inspect the PR only through the API.
@@ -38,9 +42,8 @@ jobs:
     permissions:
       contents: read
       pull-requests: read
-      checks: write
     steps:
-      - name: Count approvals and publish a status check
+      - name: Count approvals and fail if there are too few
         uses: actions/github-script@v7
         with:
           script: |
@@ -75,18 +78,12 @@ jobs:
             }
             const count = [...latestState.values()].filter(s => s === 'APPROVED').length;
 
-            const ok = count >= required;
-            await github.rest.checks.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              name: 'Required approvals',
-              head_sha: pr.head.sha,
-              status: 'completed',
-              conclusion: ok ? 'success' : 'failure',
-              output: {
-                title: `${count} / ${required} approvals`,
-                summary: ok
-                  ? `${count} of ${required} required approval(s) present.`
-                  : `This pull request needs ${required} approval(s) but only has ${count}.`,
-              },
-            });
+            await core.summary
+              .addHeading(`${count} / ${required} approvals`, 3)
+              .write();
+
+            if (count < required) {
+              core.setFailed(`This pull request needs ${required} approval(s) but only has ${count}.`);
+            } else {
+              core.info(`${count} of ${required} required approval(s) present.`);
+            }
