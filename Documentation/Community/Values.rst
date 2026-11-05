@@ -3,7 +3,7 @@
 ..  _values:
 
 ==================================================================
-The TYPO3 Community Values — Trust, Respect, Ppenness, and Sharing
+The TYPO3 Community Values — Trust, Respect, Openness, and Sharing
 ==================================================================
 
 Since the beginning, TYPO3 has been more than just a piece of software. It is a community. Our values are there to guide our work and make sure the community is a great place for everyone.
