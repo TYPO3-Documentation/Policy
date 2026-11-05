@@ -9,7 +9,7 @@ Board Decision: Governance and Change Management in the TYPO3 Policy Repository
 :Start of voting: 9 July 2026
 :Voting deadline: 16 July 2026
 :Decision owner: `Martin Helmich`_
-:Decision status: ✅ Accepted (provisionally)
+:Decision status: ✅ Accepted, with **6 yes**
 
 Attendance and voting
 =====================
@@ -18,7 +18,7 @@ Attendance and voting
 Board Member          Attendance     Vote
 ====================  ============  ======
 `Olivier Dobberkau`_  Asynchronous  ✅ Yes
-`Stefan Busemann`_    Not attended  ⏳ Pending
+`Stefan Busemann`_    Asynchronous  ✅ Yes
 `Jochen Weiland`_     Asynchronous  ✅ Yes
 `Martin Helmich`_     Asynchronous  ✅ Yes
 `Jana Höffner`_       Asynchronous  ✅ Yes
