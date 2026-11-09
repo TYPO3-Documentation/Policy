@@ -1,0 +1,13 @@
+:navigation-title: 2024
+..  include:: /Includes.rst.txt
+..  _t3a-board-decisions-2024:
+
+=========================================
+TYPO3 Association Decision directory 2024
+=========================================
+
+..  toctree::
+    :titlesonly:
+    :glob:
+
+    2024/*
