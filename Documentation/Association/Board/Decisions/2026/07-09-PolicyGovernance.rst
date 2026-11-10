@@ -26,7 +26,7 @@ Board Member          Attendance     Vote
 ====================  ============  ======
 
 .. _Olivier Dobberkau: https://my.typo3.org/u/oli4
-.. _Stefan Busemann: https://typo3.org/team/board/stefan-busemann/
+.. _Stefan Busemann: https://my.typo3.org/u/stefan.busemann
 .. _Jochen Weiland: https://my.typo3.org/u/jweiland
 .. _Martin Helmich: https://my.typo3.org/u/mhelmich
 .. _Jana Höffner: https://my.typo3.org/u/janahh
