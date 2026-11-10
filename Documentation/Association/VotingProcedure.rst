@@ -1,6 +1,8 @@
 :navigation-title: Voting Procedure
 ..  include:: /Includes.rst.txt
 ..  _voting-procedure:
+..  _voting-procedure-faq:
+..  _voting-procedure-faq-budget-polls:
 
 =========================================
 Voting Procedure of the TYPO3 Association
@@ -10,6 +12,7 @@ Voting Procedure of the TYPO3 Association
 :Version: 3.0, 10.11.2026
 
 ..  _voting-procedure-1:
+..  _voting-procedure-board-bcc-elections:
 
 1. Scope, Composition and Term of Office
 ========================================
@@ -23,6 +26,7 @@ Art. 1 Scope
 #.  It applies to ordinary and extraordinary elections. The :ref:`Bylaws of the TYPO3 Association <bylaws-de>` take precedence over this Voting Procedure.
 
 ..  _voting-procedure-art-2:
+..  _voting-procedure-board-election:
 
 Art. 2 Composition of the Board
 -------------------------------
@@ -54,6 +58,7 @@ Art. 4 Business Control Committee (BCC)
 ==========================
 
 ..  _voting-procedure-art-5:
+..  _voting-procedure-board-bcc-timetable:
 
 Art. 5 Timetable
 ----------------
@@ -109,6 +114,7 @@ Art. 5 Timetable
 ===============================================================
 
 ..  _voting-procedure-art-6:
+..  _voting-procedure-board-bcc-announcement:
 
 Art. 6 Announcement
 -------------------
@@ -119,6 +125,8 @@ Art. 6 Announcement
 #.  The election must be put on the agenda in the invitation to the General Assembly.
 
 ..  _voting-procedure-art-7:
+..  _voting-procedure-board-bcc-nomination:
+..  _voting-procedure-election-order:
 
 Art. 7 Nomination
 -----------------
@@ -131,6 +139,8 @@ Art. 7 Nomination
 #.  The exclusions under the :ref:`Conflict of Interest Policy <conflict-interest>` apply to whether a nomination is possible.
 
 ..  _voting-procedure-art-8:
+..  _voting-procedure-discussion-platform:
+..  _voting-procedure-elegible-voter:
 
 Art. 8 Discussion Platform and Eligibility to Vote
 --------------------------------------------------
@@ -140,11 +150,13 @@ Art. 8 Discussion Platform and Eligibility to Vote
 #.  The electoral roll is drawn up 2 weeks before the start of the first voting round and is valid for the entire duration of the election. Eligible to vote is anyone **who has paid the admission fee and has paid the current annual fee**.
 
 ..  _voting-procedure-4:
+..  _voting-procedure-voting-procedure:
 
 4. Election Process
 ===================
 
 ..  _voting-procedure-art-9:
+..  _voting-procedure-online-voting:
 
 Art. 9 Casting of Votes
 -----------------------
@@ -187,6 +199,7 @@ Art. 12 Tie and Drawing of Lots
 ======================================
 
 ..  _voting-procedure-art-13:
+..  _voting-procedure-faq-discontinuation:
 
 Art. 13 Leaving the Board
 -------------------------
@@ -216,6 +229,7 @@ Art. 15 Functions within the Board
 ==================================================
 
 ..  _voting-procedure-art-16:
+..  _voting-procedure-voting-committee:
 
 Art. 16 Voting Committee
 ------------------------
@@ -232,6 +246,7 @@ Art. 17 Protocol
 #.  The Voting Committee keeps a protocol of the election containing: the documentation of the electorate, the timetable of all actions, a protocol of all email errors, the result of each voting round, the substitute and the succession list, and all drawings of lots.
 
 ..  _voting-procedure-art-18:
+..  _voting-procedure-tool-data-expiry:
 
 Art. 18 Retention of Election Data
 ----------------------------------
