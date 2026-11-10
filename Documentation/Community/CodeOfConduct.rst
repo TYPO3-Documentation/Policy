@@ -349,6 +349,37 @@ Allgemeine Hinweise
 5. **Sei positiv** und gib konstruktives Feedback.
 6. **Beachte**, dass Sprache schwierig sein kann - Sarkasmus und Ironie wird nicht von jeder Person verstanden.
 
+..  _coc-nds:
+
+Low German (Plattdüütsch)
+-------------------------
+
+..  _coc-nds-basic-rules:
+
+Grundregeln
+~~~~~~~~~~~
+
+*Disse Regeln sünd för uns sülvstverständlich:*
+
+1. **Gah mit all Lüüd ut de Community mit Respekt üm**, egaal wat för en Rass, Geslechtsidentität, Öller, sexuelle Orienteerung, Behinnerung, Utsehn, natschonale Herkunft, ethnische Tohören, Gloven, Religion un so wieder.
+2. **Respekteer de körperlichen Grenzen vun anner Lüüd** un wees nich updringlich.
+3. **Fang keen** persönliche Angriepen, Beleidigen oder Trolling **an, maak dor nich mit wieder un stachel ok keen annern dorto an**.
+4. Wi laat keen Belästigen, persönliche Angriepen oder daalmakend Verhollen dörgahn. Dorto höört updringlich Fotograferen un Filmen, unwünschte sexualiseerte Kommentare un mit Afsicht Stalken oder Achterherlopen.
+5. **Stöör keen** Vördrääg oder Veranstalten.
+6. **Bruuk gülle Kontaktinformatschonen** (t. B. Slack, E-Mail un so wieder), dormit anner Lüüd di direktemang ansnacken köönt.
+
+..  _coc-nds-general-advice:
+
+Allgemene Henwiesen
+~~~~~~~~~~~~~~~~~~~
+
+1. **Wies Anerkennen**, wenn de Person dat verdeent hett.
+2. **Fraag na Hülp**, wenn du di nich seker büst.
+3. **Haal di Hülp vun buten**, wenn du in en Meenungsverscheel fastsittst.
+4. **Respekteer** de friewillige un ehrenamtliche Arbeit.
+5. **Wees positiv** un geev konstruktive Rückmellen.
+6. **Denk doran**, dat Spraak swoor ween kann – Sarkasmus un Ironie versteiht nich jedeen.
+
 ..  _coc-hi:
 
 Hindi
