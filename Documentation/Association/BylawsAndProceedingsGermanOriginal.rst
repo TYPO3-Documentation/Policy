@@ -7,7 +7,7 @@ Statuten der TYPO3 Association
 ==============================
 
 :Dokumenten-Inhaber: TYPO3 Association Generalversammlung
-:Gültig seit: Juli 2025
+:Gültig seit: Oktober 2026
 
 ..  _bylaws-de-i:
 
@@ -38,7 +38,7 @@ II. Zweck und Aufgaben
 Art. 3 Zweck
 ------------
 
-Die TYPO3 Association fördert das Projekt TYPO3, welches insbesondere die Zurverfügungstellung  freier Software unter Vergabe von Open Source Lizenzen bezweckt. Der Vorstand überprüft jährlich die zulässigen Lizenzen. Sie dient der TYPO3 Community. Die TYPO3 Association  erstrebt keinen Gewinn. Sie unterstützt die Entwicklung von Software und stellt der Öffentlichkeit Softwareprodukte Dritter zur Verfügung. Um die Weiterentwicklung zu finanzieren erhebt der Verein Mitgliedsbeiträge und sammelt Spenden für Entwicklungsprojekte.
+Die TYPO3 Association fördert das Projekt TYPO3, welches insbesondere die Zurverfügungstellung  freier Software unter Vergabe von Open Source Lizenzen bezweckt. Der Vorstand überprüft jährlich die zulässigen Lizenzen. Sie dient der TYPO3 Community. Die TYPO3 Association  erstrebt keinen Gewinn. Sie unterstützt die Entwicklung von Software und stellt der Öffentlichkeit Softwareprodukte Dritter zur Verfügung. Um die Weiterentwicklung zu finanzieren, erhebt der Verein Mitgliedsbeiträge und sammelt Spenden für Entwicklungsprojekte.
 
 Ferner kann der Verein Tochtergesellschaften gründen und sich an Unternehmen beteiligen, die dem Vereinszweck dienen.
 
@@ -68,9 +68,9 @@ III. Mitgliedschaft
 Art. 5 Aufnahme
 ---------------
 
-Neumitglieder werden auf schriftliches Gesuch hin durch Entscheid des Vereinsvorstands per sofort vorläufig aufgenommen. Die definitive Aufnahme erfolgt durch die Generalversammlung.
+Neumitglieder werden über den Online-Antrag hin durch Entscheid des Vereinsvorstands per sofort aufgenommen.
 
-Verweigert der Vereinsvorstand die vorläufige Aufnahme, so kann der Antragsteller den Entscheid innerhalb von 30 Tagen nach Zugang beim Vereinsvorstand zuhanden der Generalversammlung anfechten.
+Verweigert der Vereinsvorstand die Aufnahme, so kann der Antragsteller den Entscheid binnen Monatsfrist, nach Zugang beim Vereinsvorstand zuhanden der Generalversammlung anfechten.
 
 Der Vereinsvorstand und die Generalversammlung entscheiden über das Aufnahmegesuch nach freiem Ermessen. Sie sind nicht verpflichtet, die Gründe einer Ablehnung mitzuteilen.
 
@@ -100,7 +100,7 @@ Mitglieder, welche sich um die TYPO3 Association oder deren Zielsetzung besonder
 Art. 7 Austritt
 ---------------
 
-Der Austritt kann auf Ende eines Mitgliedsjahres mit einer Kündigungsfrist von zwei Monaten erfolgen. Der Austritt ist schriftlich an den Vereinsvorstand zu erklären. Die Verpflichtungen gegenüber dem Verein für das laufende Mitgliedsjahr sind zu erfüllen.
+Der Austritt kann auf Ende eines Mitgliedsjahres mit einer Kündigungsfrist von zwei Monaten erfolgen. Der Austritt ist digital über das Mitgliederportal zu erklären. Die Verpflichtungen gegenüber dem Verein für das laufende Mitgliedsjahr sind zu erfüllen.
 
 Die Mitgliedschaft endet im Weiteren durch Auflösung der juristischen Person bzw. Ableben des Mitglieds.
 
@@ -111,7 +111,7 @@ Art. 8 Ausschluss
 
 Mitglieder, welche Statuten, Reglemente, Beschlüsse verletzen oder sonst den Interessen der TYPO3 Association in schwerwiegender Weise zuwiderhandeln, oder wenn sie nach Ablauf von zwei Monaten nach der Absendung der zweiten schriftlichen Mahnung unter Androhung des Ausschlusses mit der Zahlung von Mitgliedsbeiträgen weiterhin im Rückstand sind, können vom Vereinsvorstand unter Angabe der Gründe ausgeschlossen werden.
 
-Vor der Beschlussfassung muss der Vereinsvorstand dem Mitglied Gelegenheit zur Stellungnahme geben. Das ausgeschlossene Mitglied kann den Entscheid des Vereinsvorstands innert 30 Tagen seit Zustellung beim Vereinsvorstand zuhanden der Generalversammlung anfechten. Über den Ausschluss entscheidet diesfalls die Generalversammlung endgültig.
+Das ausgeschlossene Mitglied kann den Entscheid des Vereinsvorstands binnen Monatsfrist, seit Zustellung beim Vereinsvorstand, zuhanden der Generalversammlung anfechten. Über den Ausschluss entscheidet die Generalversammlung endgültig.
 
 ..  _bylaws-de-iv:
 
@@ -132,6 +132,10 @@ C. Rechnungsrevisoren
 D. Geschäftsprüfungskommission (Business Control Committee)
 
 E. Ausschüsse (Committees)
+
+F. Einheiten
+
+G. Kooperationspanel
 
 ..  _bylaws-de-a:
 
@@ -172,12 +176,12 @@ Die Aufgaben und Kompetenzen der Generalversammlung sind Folgende:
 #. Abnahme des Jahresberichts des Vereinsvorstandes;
 #. Abnahme der Jahresrechnung und der Berichte der Rechnungsrevisoren sowie der Geschäftsprüfungskommission;
 #. Déchargeerteilung an Vereinsvorstand, Rechnungsrevisoren, Geschäftsprüfungskommission und Ausschüsse;
-#. Definitive Aufnahme von Mitgliedern;
+#. Entscheidung über abgelehnte Mitglieder;
 #. Kenntnisnahme des Budgets für das laufende Jahr;
 #. Aufnahmebeitrag und Jahresbeitrag der Mitglieder für das laufende Mitgliedsjahr;
 #. Wahlen
 
-    #. des Sachverständigenrats des Vorstandes
+    #. des Vorstandes
     #. der Rechnungsrevisoren
     #. der Mitglieder der Geschäftsprüfungskommission
 
@@ -187,9 +191,14 @@ Die Aufgaben und Kompetenzen der Generalversammlung sind Folgende:
     #. der Mitglieder
 
 #. Tätigkeitsprogramm;
-#. Statutenänderungen;
+#. Beschluss von Statutenänderungen
+#. Änderungen an der Geschäftsordnung
+
+    #. Kenntnisnahme der Änderungen der Geschäftsordnung von Einheiten
+    #. Zustimmung von Änderungen der Geschäftsordnung des Kooperationspanel
+
 #. Ernennung von Ehrenmitgliedern;
-#. Beschwerde gegen geschäftsführende Organe, Beschlussfassung über die Berufung gegen einen Ausschliessungsbeschluss oder Ablehnung eines vorläufigen Aufnahmebeschlusses des Vereinsvorstands.
+#. Beschwerde gegen geschäftsführende Organe, Beschlussfassung über die Berufung gegen einen Ausschliessungsbeschluss.
 
 ..  _bylaws-de-14:
 
@@ -204,11 +213,11 @@ Anstelle einer Präsenzversammlung kann auf Antrag des Vereinsvorstands auch ein
 
 Anstelle einer Präsenzversammlung sind auch Urabstimmungen (schriftliche Mehrheitsbeschlüsse zu Sachfragen) zulässig. Zur Ermittlung des jeweils notwendigen Quorums werden diesfalls nur die abgegebenen gültigen Stimmen ausgewertet. Elektronische Stimmabgabe ist zulässig, sofern die eindeutige Identifikation des oder der Stimmenden gewährleistet ist.
 
-Bei Wahlen der Rechnungsrevisoren und in die Geschäftsprüfungskommission gilt im ersten Wahlgang das absolute, im zweiten Wahlgang das relative Mehr der anwesenden stimmberechtigten Mitglieder.
+Bei Wahlen der Rechnungsrevisoren gilt im ersten Wahlgang das absolute, im zweiten Wahlgang das relative Mehr der anwesenden stimmberechtigten Mitglieder.
 
 Die Generalversammlung entscheidet in allen Fällen in offener Abstimmung, sofern sie nicht beschliesst, diese geheim durchzuführen. Auf Antrag eines stimmberechtigten Mitgliedes kann dies mit Drittelmehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden. Im Falle einer Internet-Generalversammlung oder virtuellen Generalversammlung hat der Vereinsvorstand sicherzustellen, dass die geheime Stimmabgabe auf elektronischem Weg erfolgen kann.
 
-Jedes Mitglied kann Beschlüsse, die das Gesetz oder die Statuten verletzen innert 30 Tagen, nachdem es von ihnen Kenntnis erhalten hat, gerichtlich anfechten.
+Jedes Mitglied kann Beschlüsse, die das Gesetz oder die Statuten verletzen, binnen Monatsfrist, nachdem es von ihnen Kenntnis erhalten hat, gerichtlich anfechten.
 
 ..  _bylaws-de-15:
 
@@ -224,30 +233,43 @@ Art. 16 Passive Wahlfähigkeit
 
 Doppelfunktionen in Vereinsvorstand, Rechnungsrevisoren und Geschäftsprüfungskommission sind ausgeschlossen. Pro juristischer Person kann maximal nur je eine natürliche Person im Vereinsvorstand oder Geschäftsprüfungskommission Einsitz nehmen. Von der passiven Wahlfähigkeit ausgeschlossen sind Personen, die bezahlte Aufträge des Vereins ausführen.
 
+..  _bylaws-de-17:
+
+Art. 17 Abgelehnte Mitglieder
+-----------------------------
+
+Der Vorstand berichtet der Generalversammlung über die Anzahl und Gründe abgelehnter Mitglieder unter der Wahrung des Datenschutzes.
+
+Abgelehnte Mitglieder können auf der Generalversammlung die Behandlung der Aufnahme beantragen.
+
+Vom Vorstand abgelehnte Mitglieder können durch Beschluss der Generalversammlung aufgenommen werden.
+
 ..  _bylaws-de-b:
 
 B Vereinsvorstand
 =================
 
-..  _bylaws-de-17:
-
-Art. 17 Vereinsvorstandschargen
--------------------------------
-
-Der Vereinsvorstand besteht aus dem Präsidenten, dem Vize-Präsidenten, dem Aktuar, dem Kassier und mindestens zwei weiteren Vorstandsmitgliedern (insgesamt mindestens 6 Mitglieder).
-
 ..  _bylaws-de-18:
 
-Art. 18 Wahlverfahren und Amtsdauer
+Art. 18 Vereinsvorstandschargen
+-------------------------------
+
+Der Vereinsvorstand besteht aus dem Präsidenten, dem Vize-Präsidenten, dem Aktuar, dem Kassier sowie bis zu fünf weiteren Mitgliedern, mindestens jedoch aus sechs von der Generalversammlung gewählten Mitgliedern.
+
+Das Kooperationspanel bezeichnet zwei Delegierte, die an den Sitzungen des Vereinsvorstands mit Rede- und Antragsrecht, jedoch ohne Stimmrecht teilnehmen. Die Delegierten sind nicht Mitglieder des Vereinsvorstands; sie werden bei der Beschlussfähigkeit und bei der Höchstzahl nach Art. 19 nicht mitgezählt.
+
+..  _bylaws-de-19:
+
+Art. 19 Wahlverfahren und Amtsdauer
 -----------------------------------
 
-Die Amtsdauer des Vereinsvorstands beträgt drei Jahre und richtet sich nach dem Geschäfts- bzw. Kalenderjahr. Zu Vereinsvorstandsmitgliedern können nur Mitglieder des Vereins gewählt werden. Wiederwahl ist zulässig. Der Vorstand besteht aus maximal 9 Mitgliedern.
+Die Amtsdauer des Vereinsvorstands beträgt drei Jahre und richtet sich nach dem Geschäfts- bzw. Kalenderjahr. Zu Vereinsvorstandsmitgliedern können nur Mitglieder des Vereins gewählt werden. Wiederwahl ist zweimalig zulässig. Danach ist eine Amtspause von mindestens einem Jahr notwendig. Der Vorstand besteht aus maximal 9 Mitgliedern.
 
-Nach Ablauf der Amtsdauer wird der Vereinsvorstand anlässlich der Generalversammlung neu gewählt. In jedem Jahr werden bis zu drei Vereinsvorstandsmitgliedern neu gewählt.
+Nach Ablauf der Amtsdauer wird der Vereinsvorstand anlässlich der Generalversammlung neu gewählt. In jedem Jahr werden bis zu drei Vereinsvorstandsmitgliedern neu gewählt. Zusätzlich sind Ersatzwahlen möglich.
 
-Jedes Vereinsmitglied kann sich selbst zur Wahl anbieten oder einen Vorstandskandidaten vorschlagen, welcher seine Kandidatur vorgängig bestätigen muss. Die Wahlvorschläge bzw. Vorstandskandidaten sind spätestens sechs Wochen vor der Generalversammlung dem Vorstand schriftlich bekanntzugeben. Der Vereinsvorstand kann auch vor der Generalversammlung per Online-Voting gewählt werden, wobei den Mitgliedern diesfalls eine angemessene Frist für die vorgängige Bekanntgabe der Vorstandskandidaten einzuräumen ist.
+Jedes Vereinsmitglied kann sich selbst zur Wahl anbieten oder einen Vorstandskandidaten vorschlagen, welcher seine Kandidatur vorgängig bestätigen muss. Die Wahlvorschläge bzw. Vorstandskandidaten sind spätestens sechs Wochen vor der Generalversammlung dem Vorstand schriftlich bekanntzugeben. Der Vereinsvorstand wird vor der Generalversammlung per Online-Voting gewählt, wobei den Mitgliedern diesfalls eine angemessene Frist für die vorgängige Bekanntgabe der Vorstandskandidaten einzuräumen ist.
 
-Die Wahl der Kandidaten wird durch die Rangfolge der erhaltenen Stimmen bestimmt. Ein Kandidat ist gewählt, wenn er mindestens 50 % der abgegebenen Stimmen erhält. Erreichen Kandidaten diese Mehrheit im ersten Wahlgang nicht, folgen weitere Wahlgänge, bis die erforderliche Mehrheit erreicht ist. Bei Stimmengleichheit überzähliger Kandidaten wird ein weiterer Wahlgang zwischen diesen durchgeführt; bei erneuter Stimmengleichheit entscheidet das Los.
+Die Wahl der Kandidaten wird durch die Rangfolge der erhaltenen Stimmen bestimmt. Ein Kandidat ist gewählt, wenn er mindestens 50 % der abgegebenen Stimmen erhält. Erreichen Kandidaten diese Mehrheit im ersten Wahlgang nicht, folgen bis zu zwei weitere Wahlgänge, bis die erforderliche Mehrheit erreicht ist. Die Details zum Ablauf werden in der Wahlordnung festgelegt.
 
 Die Wahl und die Zuteilung der Funktion (Präsident, Vize-Präsident, Aktuar und Kassier) wird anlässlich der Hauptversammlung vor Beginn einer neuen Amtsperiode mit einfacher Mehrheit der anwesenden Vorstandsmitglieder bestimmt.
 
@@ -259,63 +281,64 @@ Bei Ersatzwahlen während der Amtsdauer vollendet das neu gewählte Vereinsvorst
 
 Der Vereinsvorstand kann mit einer einfachen Mehrheit des vollständigen Vorstands Neuwahlen für den gesamten Vorstand ausrufen.
 
-..  _bylaws-de-19:
+..  _bylaws-de-20:
 
-Art. 19 Geschäfte des Vereinsvorstands
+Art. 20 Geschäfte des Vereinsvorstands
 --------------------------------------
 
-Der Vereinsvorstand ist im Rahmen von Gesetz und Statuten für die Besorgung der Vereinsangelegenheiten zuständig. Dem Vereinsvorstand obliegt insbesondere
+Der Vereinsvorstand ist im Rahmen von Gesetz und Statuten für die Besorgung der Vereinsangelegenheiten zuständig.
+
+Dem Vereinsvorstand obliegt insbesondere
 
 #. Vertretung der TYPO3 Association nach aussen;
 #. Vorbereitung der Geschäfte der Generalversammlung;
 #. Durchführung der Beschlüsse der Generalversammlung;
 #. Einsetzung von Ausschüssen und Einzelpersonen ohne Entscheidungsbefugnisse für besondere Aufgaben;
-#. Budgetantrag an den Sachverständigenrat;
 #. Erstellen der Jahresrechnung;
-#. Beschlussfassung über vorläufige Aufnahme und Ausschluss von Mitgliedern;
+#. Beschlussfassung über Aufnahme und Ausschluss von Mitgliedern;
 #. Beschlussfassung in sonstigen Angelegenheiten von besonderer Bedeutung auf Antrag des Vereinsvorstands.
 #. Strategie der TYPO3 Association;
 #. Budget der TYPO3 Association: Verhandlung (unter Berücksichtigung der Mitgliederbefragung), Erstellung, Begründung und Beschluss;
-#. Durchführung der Beschlüsse der Generalversammlung;
 #. Definition des Antragsverfahrens für Projektbeiträge;
 #. Inhaltliche Prüfung der Projektanträge;
 #. Kontrolle der genehmigten Projekte;
+#. Entsendung von Vertretern in den Aufsichtsrat von Tochtergesellschaften
 
-Der Vereinsvorstand erlässt eine Geschäftsordnung und regelt darin seine Aufgaben sowie die Aufgabenteilung. Der Vereinsvorstand verfasst jährlich einen Jahresbericht über seine Tätigkeit.
+Der Vereinsvorstand erlässt eine Geschäftsordnung und regelt darin seine Aufgaben sowie die Aufgabenteilung. Der Vereinsvorstand verfasst halb-jährlich einen Bericht über seine Tätigkeit.
 
-..  _bylaws-de-20:
+..  _bylaws-de-21:
 
-Art. 20 Einberufung, Protokoll
+Art. 21 Einberufung, Protokoll
 ------------------------------
 
 Sitzungen werden durch den Präsidenten des Vereinsvorstands einberufen, so oft es die Geschäfte erfordern, mindestens jedoch einmal jährlich vor Ablauf der Amtsdauer (Hauptversammlung). Jedes Vereinsvorstandsmitglied kann die Einberufung einer Sitzung verlangen. Diesfalls ist die Sitzung innert drei Wochen durchzuführen. Der Vereinsvorstand führt ein Beschluss-Protokoll. Auf Anordnung des Präsidenten oder auf Verlangen eines Vereinsvorstandsmitgliedes werden gefallene Voten zusammengefasst protokolliert.
 
-..  _bylaws-de-21:
+..  _bylaws-de-22:
 
-Art. 21 Beschlussfähigkeit, Entscheid des Präsidenten, Zirkularverfahren, Beratung und Beschluss
+Art. 22 Beschlussfähigkeit, Entscheid des Präsidenten, Zirkularverfahren, Beratung und Beschluss
 ------------------------------------------------------------------------------------------------
 
-Der Vereinsvorstand ist beschlussfähig, wenn mindestens vier Vereinsvorstandsmitglieder anwesend sind. Der Vorsitzende kann das Zirkularverfahren durchführen. Ein Zirkularbeschluss ist nur bei Einstimmigkeit aller Vereinsvorstandsmitglieder gültig.
+Der Vereinsvorstand ist beschlussfähig, wenn mindestens vier Vereinsvorstandsmitglieder anwesend sind. Der Vorsitzende kann das Zirkularverfahren durchführen. Ein Zirkularbeschluss ist zulässig, wenn die Beschlussphase mind. 14 Tage lang ist. Ein Zirkularbeschluss ist sofort gültig, wenn mindestens zwei Drittel sämtlicher beim betreffenden Beschluss stimmberechtigten Vorstandsmitglieder dem Antrag zustimmen. Das Verfahren ist revisionssicher durchzuführen.
 
 Der Vereinsvorstand strebt bei seinen Entscheidungen den Konsens an. Der Vereinsvorstand entscheidet durch Stimmenmehrheit der anwesenden Vereinsvorstandsmitglieder. Bei Stimmengleichheit hat der Präsident den Stichentscheid. Auf Verlangen eines Mitgliedes des Vereinsvorstands muss eine Abstimmung geheim durchgeführt werden. Jedes Vereinsvorstandsmitglied ist berechtigt, eine Minderheitsmeinung zu Protokoll zu geben.
 
-..  _bylaws-de-22:
+..  _bylaws-de-23:
 
-Art. 22 Unterschriftsregelung
+Art. 23 Unterschriftsregelung
 -----------------------------
 
 Die Vereinsvorstandsmitglieder führen die rechtsverbindliche Kollektivunterschrift zu Zweien. Es zeichnet jeweils der Präsident oder im Verhinderungsfall der Vize-Präsident, zusammen mit einem weiteren Mitglied des Vereinsvorstands.
 
-..  _bylaws-de-23:
+..  _bylaws-de-24:
 
-Art. 23 Präsidium
+Art. 24 Präsidium
 -----------------
 
 Der Präsident leitet üblicherweise die Versammlung des Vereins sowie des Vereinsvorstands. Er überwacht die TYPO3 Association Tätigkeit im Rahmen der Beschlüsse der Generalversammlung und des Vereinsvorstands.
 
-..  _bylaws-de-24:
+..  _bylaws-de-25:
 
-Art. 24 Kassier
+Art. 25 Kassier
 ---------------
 
 Der Kassier besorgt das gesamte Rechnungswesen und verwaltet das TYPO3 Association Vermögen. Im Rahmen seiner Tätigkeit führt er Kollektivunterschrift mit dem Präsidenten, dem Vize-Präsidenten oder einem anderen Mitglied des Vereinsvorstands.
@@ -325,9 +348,9 @@ Der Kassier besorgt das gesamte Rechnungswesen und verwaltet das TYPO3 Associati
 C Rechnungsrevisoren (Revisionsstelle)
 ======================================
 
-..  _bylaws-de-25:
+..  _bylaws-de-26:
 
-Art. 25 Bestand, Amtsdauer
+Art. 26 Bestand, Amtsdauer
 --------------------------
 
 Die Generalversammlung wählt jeweils auf eine Amtsdauer von einem Jahr eine anerkannte Treuhandstelle als Revisionsstelle, welche nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16.12.2005 zugelassen ist. Der Verein beauftragt die Revisionsstelle auch ohne gesetzliche Pflicht mit der Durchführung einer eingeschränkten Revision nach den Vorschriften von Art. 729-729c OR. Durch Beschluss der Generalversammlung kann auf die Durchführung einer eingeschränkten Revision des folgenden Vereinsjahres verzichtet werden.
@@ -339,16 +362,43 @@ Die Revisionsstelle prüft die Buchführung und erstattet der Generalversammlung
 D Geschäftsprüfungskommission
 =============================
 
-..  _bylaws-de-26:
+..  _bylaws-de-27:
 
-Art. 26 Bestand, Amtsdauer
+Art. 27 Bestand, Amtsdauer
 --------------------------
 
 Die Geschäftsprüfungskommission besteht aus 4 Mitgliedern.
 
-Die Amtsdauer der Geschäftsprüfungskommission beträgt zwei Jahre. Die Wahl erfolgt durch die Generalversammlung. Wiederwahl ist zulässig. Zu Mitgliedern der Geschäftsprüfungskommission können nur Mitglieder des Vereins gewählt werden. Mit der Beendigung der Mitgliedschaft im Verein endet auch das Amt eines Mitglieds der Geschäftsprüfungskommission. Bei Ersatzwahlen während der Amtsdauer vollendet das neu gewählte Mitglied der Geschäftsprüfungskommission die Amtsdauer des Vorgängers. Bei gerader Jahreszahl wird jeweils die erste Hälfte der Mitglieder der Geschäftsprüfungskommission, bei ungerader Jahreszahl jeweils die zweite Hälfte gewählt.
+Die Amtsdauer der Geschäftsprüfungskommission beträgt drei Jahre. Wiederwahl ist zweimalig zulässig. Danach ist eine Amtspause von mindestens einem Jahr notwendig.
 
-Die Geschäftsprüfungskommission kann alle Projektkredite prüfen auf Ausgabenübereinstimmung mit dem Kreditantrag, erreichen der aufgeführten Ziele und kosteneffiziente Projekterfüllung. Sie erstattet vierteljährlich dem Vereinsvorstand sowie jährlich der Generalversammlung schriftlichen Bericht.
+..  _bylaws-de-28:
+
+Art. 28 Wahlverfahren
+---------------------
+
+Die Wahl erfolgt durch die Generalversammlung. Zu Mitgliedern der Geschäftsprüfungskommission können nur Mitglieder des Vereins gewählt werden. Mit der Beendigung der Mitgliedschaft im Verein endet auch das Amt eines Mitglieds der Geschäftsprüfungskommission. Bei Ersatzwahlen während der Amtsdauer vollendet das neu gewählte Mitglied der Geschäftsprüfungskommission die Amtsdauer des Vorgängers. Anstelle von Ersatzwahlen kann der Vereinsvorstand den nächst platzierten Kandidaten aus der letzten Wahl fragen, ob er nachrücken möchte.
+
+In jedem Jahr wird ein Mitglied der Geschäftsprüfungskommission neu gewählt, in jedem durch drei teilbaren Jahr zwei. Zusätzlich sind Ersatzwahlen möglich.
+
+Jedes Vereinsmitglied kann sich selbst zur Wahl anbieten oder einen Kandidaten vorschlagen, welcher seine Kandidatur vorgängig bestätigen muss. Die Wahlvorschläge bzw. Kandidaten sind spätestens sechs Wochen vor der Generalversammlung dem Vorstand schriftlich bekanntzugeben. Die Geschäftsprüfungskommission wird vor der Generalversammlung per Online-Voting gewählt, wobei den Mitgliedern diesfalls eine angemessene Frist für die vorgängige Bekanntgabe der Kandidaten einzuräumen ist.
+
+Die Wahl der Kandidaten wird durch die Rangfolge der erhaltenen Stimmen bestimmt. Ein Kandidat ist gewählt, wenn er mindestens 50 % der abgegebenen Stimmen erhält. Erreichen Kandidaten diese Mehrheit im ersten Wahlgang nicht, folgen bis zu zwei weitere Wahlgänge. Die Details zum Ablauf werden in der Wahlordnung festgelegt.
+
+..  _bylaws-de-29:
+
+Art. 29 Aufgaben
+----------------
+
+Die Geschäftsprüfungskommission kann alle Projektkredite prüfen auf Ausgabenübereinstimmung mit dem Kreditantrag, erreichen der aufgeführten Ziele und kosteneffiziente Projekterfüllung.
+
+Weitere Aufgaben:
+
+* Einhaltung der Compliance Regelungen
+* Beschwerdestelle für Verstösse gegen offizielle Policies
+* Prüfung der Einhaltung der Verpflichtungen zur Unterrichtung der Mitglieder
+* Entsendung eines Vertreters in den Aufsichtsrat von Tochtergesellschaften
+
+Sie erstattet vierteljährlich dem Vereinsvorstand sowie jährlich der Generalversammlung schriftlichen Bericht.
 
 Die Geschäftsprüfungskommission erlässt eine Geschäftsordnung und regelt darin ihre Aufgaben sowie die Aufgabenteilung.
 
@@ -357,30 +407,82 @@ Die Geschäftsprüfungskommission erlässt eine Geschäftsordnung und regelt dar
 E Ausschüsse
 ============
 
-..  _bylaws-de-27:
+..  _bylaws-de-30:
 
-Art. 27 Ausschüsse
+Art. 30 Ausschüsse
 ------------------
 
 Der Vereinsvorstand kann für besondere Aufgaben beratende Ausschüsse oder Einzelpersonen ohne Entscheidungsbefugnisse einsetzen.
+
+..  _bylaws-de-f:
+
+F Einheiten
+===========
+
+..  _bylaws-de-31:
+
+Art. 31 Bestand
+---------------
+
+Einheiten sind selbstverwaltete Gruppen von TYPO3-Mitwirkenden, die gemeinsam daran arbeiten, innerhalb eines bestimmten Zuständigkeitsbereichs einen Mehrwert für das TYPO3-Produkt zu schaffen. Unter der Leitung eines Koordinators und unter der Aufsicht der TYPO3 Association streben die Einheiten danach, die TYPO3-Produkt-Roadmap und die TYPO3-Produktstrategie (die wiederum auf der Grundlage von Beiträgen der Einheiten im Kooperationspanel erstellt wird) sowie die Strategie der TYPO3 Association konsensorientiert umzusetzen.
+
+..  _bylaws-de-32:
+
+Art. 32 Geschäftsordnung
+------------------------
+
+Die Ordnung wird vom Vorstand erstellt und von der Geschäftsprüfungskommission auf Einhaltung geprüft. Die Generalversammlung wird jährlich über die unterjährigen Anpassungen der Ordnung informiert.
+
+..  _bylaws-de-g:
+
+G Kooperationspanel
+===================
+
+..  _bylaws-de-33:
+
+Art. 33 Bestand
+---------------
+
+Das Kooperationspanel ist ein ständiges Gremium für die Zusammenarbeit zwischen allen Einheiten. Es erstellt die TYPO3-Produkt-Roadmap in Abstimmung mit der TYPO3 Association und den TYPO3-Produktstrategien und stellt sicher, dass die Einheiten partnerschaftlich zusammenarbeiten, sich gegenseitig unterstützen und Einheiten übergreifende Themen gemeinsam angehen.
+
+Das Panel ist der Product Owner des TYPO3-CMS. Es wird durch seinen Vorsitzenden vertreten.
+
+..  _bylaws-de-34:
+
+Art. 34 Zusammensetzung
+-----------------------
+
+Das Gremium für die Zusammenarbeit der TYPO3-Einheiten muss sich wie folgt zusammensetzen:
+
+* Je ein ständiger Vertreter aus jeder TYPO3-Einheit, der vom Koordinator der jeweiligen Einheit benannt wird.
+* Ein Vertreter, der vom Vorstand der TYPO3 Association entsandt und von diesem ausgewählt wird.
+
+Eine Person darf im Gremium für die Zusammenarbeit der TYPO3-Einheiten nur eine einzige Organisation vertreten.
+
+..  _bylaws-de-35:
+
+Art. 35 Geschäftsordnung
+------------------------
+
+Die Ordnung wird vom Vorstand und des Kooperationspanels gemeinsam erstellt und von der Geschäftsprüfungskommission auf Einhaltung geprüft. Die Generalversammlung muss jährlich den unterjährigen Anpassungen der Ordnung zustimmen. Verweigert diese die Genehmigung, so entfällt die Änderung ab dem Datum dieses Beschlusses und die vorherige Fassung gilt ab diesem Datum wieder.
 
 ..  _bylaws-de-v:
 
 V. Finanzen
 ===========
 
-..  _bylaws-de-28:
+..  _bylaws-de-36:
 
-Art. 28 Geschäftsjahr und Mitgliedsjahr
+Art. 36 Geschäftsjahr und Mitgliedsjahr
 ---------------------------------------
 
 Als Geschäftsjahr gilt das Kalenderjahr.
 
-Abweichend davon ist das Mitgliedsjahr. Dieses gilt individuell für jedes einzelne Mitglied. Es beginnt mit dem Entscheid des Vereinsvorstands über die Annahme des schriftlichen Mitgliedschaftsgesuchs.
+Abweichend davon ist das Mitgliedsjahr. Dieses gilt individuell für jedes einzelne Mitglied. Es beginnt mit dem Entscheid des Vereinsvorstands über die Annahme des Mitgliedschaftsgesuchs.
 
-..  _bylaws-de-29:
+..  _bylaws-de-37:
 
-Art. 29 Vereinsmittel
+Art. 37 Vereinsmittel
 ---------------------
 
 Die TYPO3 Association beschafft ihre finanziellen Mittel aus:
@@ -397,30 +499,30 @@ Mitglieder und Dritte können jederzeit zur freien Verfügung des Vereins finanz
 
 Die Vereinsausgaben werden mit dem Budget festgelegt. Das Budget weist die zweckgebundenen Beträge pro Rechtsgeschäft aus. Das Budget wird durch den Vereinsvorstand erstellt und beschlossen. Vorgängig findet eine Befragung (auch auf elektronischem Wege möglich) der Mitglieder zu den Projektanträgen statt. Budgetanträge werden formal vom Kassier geprüft.
 
-..  _bylaws-de-30:
+..  _bylaws-de-38:
 
-Art. 30 Kompetenzkredit des Vereinsvorstands
+Art. 38 Kompetenzkredit des Vereinsvorstands
 --------------------------------------------
 
 Der Vereinsvorstand kann in Ausnahmefällen in eigener Kompetenz Budgetüberschreitungen von maximal 5% der Gesamtbudgetsumme beschliessen.
 
-..  _bylaws-de-31:
+..  _bylaws-de-39:
 
-Art. 31 Entschädigung
+Art. 39 Entschädigung
 ---------------------
 
-Den Mitgliedern des Vereinsvorstands und der Geschäftsprüfungskommission kann eine Entschädigung zugesprochen werden. Diese ist im Budget festzulegen.
+Den Mitgliedern des Vereinsvorstands, der Geschäftsprüfungskommission, den Vertretern der Einheiten und des Kooperationspanel, sowie eingesetzten Kommissionen kann eine Entschädigung zugesprochen werden. Diese ist im Budget festzulegen.
 
-..  _bylaws-de-32:
+..  _bylaws-de-40:
 
-Art. 32 Ausschliessliche Haftung des Vereinsvermögens
+Art. 40 Ausschliessliche Haftung des Vereinsvermögens
 -----------------------------------------------------
 
 Für Verbindlichkeiten der TYPO3 Association haftet ausschliesslich das Vereinsvermögen. Das einzelne Mitglied ist nur zur Bezahlung der Aufnahmegebühr sowie des Mitgliederbeitrages verpflichtet.
 
-..  _bylaws-de-33:
+..  _bylaws-de-41:
 
-Art. 33 Vermögensanspruch
+Art. 41 Vermögensanspruch
 -------------------------
 
 Mitglieder, die austreten oder ausgeschlossen werden, verlieren jeden Anspruch auf das Vereinsvermögen.
@@ -430,23 +532,30 @@ Mitglieder, die austreten oder ausgeschlossen werden, verlieren jeden Anspruch a
 VI. Schlussbestimmungen
 =======================
 
-..  _bylaws-de-34:
+..  _bylaws-de-42:
 
-Art. 34 Statutarische Bindung
+Art. 42 Statutarische Bindung
 -----------------------------
 
 Die Statuten sind jedem Mitglied abzugeben. Mit dem Eintritt in den Verein anerkennt ein Mitglied diese Statuten und verpflichtet sich, den Beschlüssen und Weisungen der zuständigen Vereinsorgane nachzukommen.
 
-..  _bylaws-de-35:
+..  _bylaws-de-43:
 
-Art. 35 Statutenänderung
+Art. 43 Statutenänderung
 ------------------------
 
 Abänderung der geltenden Statuten können durch die Generalversammlung oder einer a.o. Generalversammlung beschlossen werden. Solchen Beschlüssen müssen zwei Drittel der anwesenden Mitglieder zustimmen.
 
-..  _bylaws-de-36:
+..  _bylaws-de-44:
 
-Art. 36 Vereinsauflösung
+Art. 44 Schriftlichkeit
+-----------------------
+
+Wo diese Statuten eine Erklärung, Mitteilung oder Anzeige in Schriftform verlangen, genügt die Textform, d.h. jede Form, die den Nachweis durch Text erlaubt (Brief, E-Mail oder Erklärung über die elektronische Mitgliederplattform des Vereins). Eine Unterschrift ist nur erforderlich, wo dies ausdrücklich bestimmt ist. Eine Erklärung gilt mit ihrem Eingang beim Verein als zugegangen.
+
+..  _bylaws-de-45:
+
+Art. 45 Vereinsauflösung
 ------------------------
 
 Zur Auflösung des Vereins müssen zwei Drittel der stimmberechtigten Mitglieder der TYPO3 Association an einer zu diesem Zweck einberufenen ausserordentlichen Generalversammlung anwesend sein. Die Auflösung kommt zustande, wenn drei Viertel der anwesenden Stimmberechtigten zustimmen.
@@ -457,16 +566,16 @@ Falls die ausserordentliche Generalversammlung nichts anderes beschliesst, sind 
 
 Fusionen gelten nicht als Auflösung des Vereins.
 
-..  _bylaws-de-37:
+..  _bylaws-de-46:
 
-Art. 37 Gerichtsstand
+Art. 46 Gerichtsstand
 ---------------------
 
 Der Gerichtsstand bezüglich sämtlicher Streitigkeiten betreffend die Mitgliedschaft ist am Sitz des Vereins.
 
-..  _bylaws-de-38:
+..  _bylaws-de-47:
 
-Art. 38 Inkrafttreten
+Art. 47 Inkrafttreten
 ---------------------
 
-Die Statuten wurden von der ordentlichen Generalversammlung vom 11.4.2018 genehmigt und treten per Datum der ordentlichen Generalversammlung 2019 in Kraft. Sie ersetzen die Statuten vom 20.11.2016.
+Die Statuten wurden von der außerordentlichen Generalversammlung vom 29.10.2026 genehmigt.
